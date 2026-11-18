@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>POOP: find the nearest restroom or water fountain</title>
+  <meta name="description" content="A map of public restrooms and drinking fountains for runners. Open it, tap locate, and find the nearest stop.">
+  <meta name="theme-color" content="#7c3f12">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="POOP">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="vendor/markercluster/MarkerCluster.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="map" role="application" aria-label="Map of restrooms and water fountains"></div>
+
+  <header class="topbar">
+    <button class="brand" id="about-button" type="button" aria-haspopup="dialog" aria-label="About POOP">
+      <img src="icons/icon.svg" alt="" width="28" height="28">
+      <span class="brand-name">POOP</span>
+    </button>
+    <div class="filters" role="group" aria-label="Show on map">
+      <button class="chip chip--toilet" type="button" data-filter="toilet" aria-pressed="true">
+        <span class="chip-dot" aria-hidden="true"></span><span class="chip-label">Restrooms</span>
+      </button>
+      <button class="chip chip--water" type="button" data-filter="water" aria-pressed="true">
+        <span class="chip-dot" aria-hidden="true"></span><span class="chip-label">Water</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="status" id="status" role="status" aria-live="polite" hidden>
+    <span id="status-text"></span>
+    <button type="button" id="status-retry" hidden>Retry</button>
+  </div>
+
+  <button class="fab" id="locate-button" type="button" aria-label="Show my location">
+    <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="6.5"/><circle cx="12" cy="12" r="2" fill="currentColor" stroke="none"/>
+      <path d="M12 2v3.5M12 18.5V22M2 12h3.5M18.5 12H22"/>
+    </svg>
+  </button>
+
+  <section class="sheet" id="sheet" data-state="peek" data-view="list" aria-label="Nearby places">
+    <div class="sheet-grip" id="sheet-grip">
+      <span class="grip-bar" aria-hidden="true"></span>
+      <div class="sheet-head">
+        <button class="sheet-toggle" id="sheet-toggle" type="button" aria-expanded="false" aria-controls="sheet-body">
+          <span id="list-title">Nearby</span>
+        </button>
+        <button class="unit" id="unit-button" type="button" aria-label="Switch distance units">mi</button>
+      </div>
+    </div>
+    <div class="sheet-body" id="sheet-body">
+      <ul class="places" id="places"></ul>
+      <p class="empty" id="empty" hidden></p>
+      <article class="detail" id="detail" hidden></article>
+    </div>
+  </section>
+
+  <div class="welcome" id="welcome" hidden>
+    <div class="welcome-card">
+      <img src="icons/icon.svg" alt="" width="64" height="64">
+      <h1>When you gotta go, know where to go.</h1>
+      <p>POOP maps public restrooms and water fountains so you can plan a stop mid-run.</p>
+      <button class="button button--primary" id="welcome-locate" type="button">Find the nearest to me</button>
+      <button class="button button--quiet" id="welcome-browse" type="button">Browse the map instead</button>
+    </div>
+  </div>
+
+  <dialog class="about" id="about">
+    <h2>Principal Operating Objective Planner</h2>
+    <p>POOP shows every public restroom and drinking-water spot that has been mapped in
+      <a href="https://www.openstreetmap.org/about" target="_blank" rel="noopener">OpenStreetMap</a>,
+      the free map of the world that anyone can edit.</p>
+    <ul class="legend">
+      <li><span class="legend-pin legend-pin--toilet" aria-hidden="true"></span> Restroom</li>
+      <li><span class="legend-pin legend-pin--water" aria-hidden="true"></span> Drinking water</li>
+    </ul>
+    <h3>Something missing or wrong?</h3>
+    <p>Add or fix it on OpenStreetMap and it will show up here within a few days. On a phone, the free apps
+      <a href="https://streetcomplete.app/" target="_blank" rel="noopener">StreetComplete</a> (Android) and
+      <a href="https://every-door.app/" target="_blank" rel="noopener">Every Door</a> (iOS and Android) make it easy.</p>
+    <h3>Your location</h3>
+    <p>Your location stays on your device. It is only used to centre the map and sort the list.</p>
+    <p class="fineprint">Hours, fees and seasonal closures come from volunteers and can be out of date.
+      Map data © OpenStreetMap contributors.</p>
+    <form method="dialog"><button class="button button--primary" type="submit">Close</button></form>
+  </dialog>
+
+  <noscript><p class="noscript">POOP needs JavaScript to show the map.</p></noscript>
+
+  <script src="vendor/leaflet/leaflet.js" defer></script>
+  <script src="vendor/markercluster/leaflet.markercluster.js" defer></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+# Cloudflare Pages response headers. See README.md before changing the
+# Content-Security-Policy: the map tiles and the Overpass data servers must
+# stay listed or the map will be empty.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(self), camera=(), microphone=()
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: https://tile.openstreetmap.org; connect-src 'self' https://overpass-api.de https://overpass.private.coffee https://maps.mail.ru; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+
+/vendor/*
+  Cache-Control: public, max-age=604800
