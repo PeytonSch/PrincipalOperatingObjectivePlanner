@@ -5,7 +5,11 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: geolocation=(self), camera=(), microphone=()
-  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: https://tile.openstreetmap.org; connect-src 'self' https://overpass-api.de https://overpass.private.coffee https://maps.mail.ru; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: https://tile.openstreetmap.org; connect-src 'self' https://overpass-api.de https://overpass.private.coffee; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
 
 /vendor/*
   Cache-Control: public, max-age=604800
+
+# Pre-built place data, regenerated weekly by .github/workflows/update-data.yml
+/data/tiles/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=604800

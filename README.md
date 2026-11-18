@@ -10,12 +10,16 @@ sorted by distance, with walking directions one tap away.
   There is no build step, no server code and no database.
 - **Map:** [Leaflet](https://leafletjs.com/) with OpenStreetMap tiles. Leaflet is
   vendored in `public/vendor/`, so the site loads no third-party scripts.
-- **Data:** restrooms and drinking water are read live from
-  [OpenStreetMap](https://www.openstreetmap.org/) through the public
-  [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API), straight from
-  the visitor's browser. Results are cached on the phone for three days so
-  reopening the page is instant. If one Overpass server is busy, the app tries
-  two others.
+- **Data:** restrooms and drinking water come from
+  [OpenStreetMap](https://www.openstreetmap.org/).
+  - *United States:* a weekly GitHub Action downloads every place and commits
+    it to `public/data/tiles/` as small JSON files. Visitors load these from
+    Cloudflare, the same host as the site, so pins appear quickly and do not
+    depend on any third-party server being up.
+  - *Everywhere else:* the browser asks a public
+    [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) server
+    directly. These volunteer-run servers (in Germany and Austria) can be slow
+    or busy, so results are cached on the phone for three days.
 - **Location** never leaves the device. It is only used to centre the map and
   sort the list.
 
@@ -66,10 +70,26 @@ automatic, which the browser requires before it will share a location.
 If you ever change the tile server or the Overpass servers, update the
 `img-src` / `connect-src` lists there as well as the URLs in `public/js/`.
 
+## Keeping the data fresh
+
+`.github/workflows/update-data.yml` runs `scripts/build-data.mjs` every Monday.
+It downloads the data in about 190 requests, rebuilds `public/data/tiles/`, and
+commits the result; Cloudflare then redeploys the site. If the download fails,
+or suddenly returns far fewer places than last time, nothing is changed.
+
+- **Run it now:** on GitHub, open **Actions → Update map data → Run workflow**.
+- **Run it on your computer:** `npm run build-data` (takes 15 to 40 minutes).
+- **Cover more of the world:** add a box to `REGIONS` at the top of
+  `scripts/build-data.mjs`. The free Cloudflare plan allows 20,000 files; the
+  United States uses a few thousand.
+
+GitHub pauses scheduled workflows in repositories with no activity for 60 days.
+If the Monday runs stop, re-enable the workflow on the Actions tab.
+
 ## Adding places that are not on the map
 
 **Best:** add them to OpenStreetMap. They then appear here (and in every other
-OSM-based app) within a few days. On a phone,
+OSM-based app) after the next weekly update. On a phone,
 [StreetComplete](https://streetcomplete.app/) and
 [Every Door](https://every-door.app/) make this easy.
 
@@ -119,13 +139,16 @@ public/
   index.html            page shell
   styles.css            mobile-first styles (bottom sheet on phones, side panel on desktop)
   js/app.js             map, list, detail view, geolocation
-  js/data.js            Overpass loading, caching, tag descriptions
+  js/data.js            loading places (static tiles or Overpass), caching, tag descriptions
   js/util.js            distance and URL helpers
   data/community.json   optional hand-maintained places
+  data/tiles/           pre-built place data (generated, do not edit by hand)
   vendor/               Leaflet 1.9.4 and Leaflet.markercluster 1.5.3
   _headers              Cloudflare response headers
   manifest.webmanifest  lets people add POOP to their home screen
-tests/                  unit tests for js/data.js and js/util.js
+scripts/build-data.mjs  downloads the place data and writes data/tiles/
+.github/workflows/      weekly data update
+tests/                  unit tests for the data code and the build script
 wrangler.jsonc          tells Cloudflare to serve public/
 ```
 

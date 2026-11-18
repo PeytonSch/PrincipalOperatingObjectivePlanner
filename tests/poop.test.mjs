@@ -1,9 +1,14 @@
 // Run with: npm test   (uses Node's built-in test runner, no dependencies)
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { mkdtemp, readFile, readdir, rm } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
 import {
   PlaceStore, buildQuery, cellsForBounds, describePlace, normalizeCommunity, normalizeElement, osmUrl,
+  packPlace, tileKeyFor, unpackPlace,
 } from '../public/js/data.js';
+import { buildData, chunksFor } from '../scripts/build-data.mjs';
 import { compass, defaultUnit, formatDistance, formatHash, haversine, parseHash } from '../public/js/util.js';
 
 const BOUNDS = { s: 40.771, w: -73.979, n: 40.779, e: -73.971 }; // inside one grid cell
@@ -177,4 +182,134 @@ test('community places survive a refresh of their area', async () => {
   assert.equal(store.addCommunity([{ id: 'a', kind: 'water', lat: 40.7751, lon: -73.9751, name: 'Shop tap' }, { kind: 'nope' }]), 1);
   await store.ensure(BOUNDS);
   assert.deepEqual([...store.places.keys()].sort(), ['ca', 'n1']);
+});
+
+// ---- static tiles ---------------------------------------------------------
+
+const TILE = tileKeyFor(40.775, -73.975); // the half-degree tile holding BOUNDS
+const INDEX = {
+  tileDegrees: 0.5,
+  regions: [[24, -125, 49.5, -66.5]],
+  rows: { [TILE.split('_')[0]]: [Number(TILE.split('_')[1])] },
+};
+
+/** Serves tile files and Overpass from one fake fetch, recording every URL. */
+function fakeSite({ tiles = {}, overpass = [] } = {}) {
+  const calls = [];
+  const impl = async (url) => {
+    calls.push(url);
+    if (url.startsWith('https://')) return { ok: true, status: 200, json: async () => ({ elements: overpass }) };
+    const name = url.split('/').pop();
+    return name in tiles
+      ? { ok: true, status: 200, json: async () => tiles[name] }
+      : { ok: false, status: 404, json: async () => ({}) };
+  };
+  return { impl, calls };
+}
+
+test('places survive packing into a tile and back', () => {
+  const place = normalizeElement(TOILET);
+  assert.deepEqual(unpackPlace(JSON.parse(JSON.stringify(packPlace(place)))), place);
+  assert.equal(unpackPlace(['n1', 'w', 1, 2, {}]).kind, 'water');
+  assert.equal(unpackPlace('junk'), null);
+  assert.equal(tileKeyFor(40.775, -73.975), '261_212');
+});
+
+test('inside the covered area, places come from static tiles and never from Overpass', async () => {
+  const tile = { p: [TOILET, FOUNTAIN].map((el) => packPlace(normalizeElement(el))) };
+  const site = fakeSite({ tiles: { 'index.json': INDEX, [`${TILE}.json`]: tile } });
+  const storage = fakeStorage();
+  const store = new PlaceStore({ fetchImpl: site.impl, storage });
+  assert.equal(await store.loadIndex(), true);
+  assert.deepEqual(await store.ensure(BOUNDS), { changed: true, tooBig: false });
+  assert.equal(store.places.size, 2);
+  assert.deepEqual(site.calls, ['data/tiles/index.json', `data/tiles/${TILE}.json`]);
+  assert.deepEqual(await store.ensure(BOUNDS), { changed: false, tooBig: false });
+  assert.equal(site.calls.length, 2, 'a loaded tile is not fetched again');
+  assert.equal(storage.data.size, 0, 'static tiles are left to the browser cache');
+
+  // A covered tile with nothing in it is not requested at all.
+  await store.ensure({ s: 30.01, w: -100.49, n: 30.02, e: -100.48 });
+  assert.equal(site.calls.length, 2);
+});
+
+test('outside the covered area, and without an index, Overpass is used', async () => {
+  const paris = { s: 48.851, w: 2.341, n: 48.859, e: 2.349 };
+  const site = fakeSite({ tiles: { 'index.json': INDEX }, overpass: [node(5, 48.855, 2.345, { amenity: 'toilets' })] });
+  const store = new PlaceStore({ fetchImpl: site.impl });
+  await store.loadIndex();
+  await store.ensure(paris);
+  assert.equal(site.calls.at(-1), 'https://overpass-api.de/api/interpreter');
+  assert.deepEqual([...store.places.keys()], ['n5']);
+
+  const bare = fakeSite({ overpass: [TOILET] }); // index.json answers 404
+  const store2 = new PlaceStore({ fetchImpl: bare.impl });
+  assert.equal(await store2.loadIndex(), false);
+  await store2.ensure(BOUNDS);
+  assert.equal(store2.places.size, 1);
+  assert.ok(bare.calls.every((url) => !url.includes('mail.ru')));
+});
+
+test('a failed tile download rejects and can be retried', async () => {
+  const site = fakeSite({ tiles: { 'index.json': INDEX } }); // the tile itself 404s
+  const store = new PlaceStore({ fetchImpl: site.impl });
+  await store.loadIndex();
+  await assert.rejects(store.ensure(BOUNDS), /Tile .* HTTP 404/);
+  assert.equal(store.plan(BOUNDS).tiles.length, 1, 'still wanted');
+});
+
+// ---- scripts/build-data.mjs -------------------------------------------------
+
+test('chunksFor covers a box without overlap', () => {
+  assert.deepEqual(chunksFor([0, 0, 6, 4], 4), [[0, 0, 4, 4], [4, 0, 6, 4]]);
+  assert.equal(chunksFor([24, -125, 49.5, -66.5], 4).length, 7 * 15);
+});
+
+test('buildData writes tiles the site can read, and protects existing data', async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), 'poop-'));
+  const outDir = path.join(dir, 'tiles');
+  const regions = [{ name: 'Test', bbox: [40, -75, 41, -73] }];
+  const quiet = { sleep: async () => {}, log: () => {}, regions, outDir, endpoints: ['https://a', 'https://b'] };
+  const outside = node(3, 39.5, -74, { amenity: 'toilets' });
+  const privateOne = node(4, 40.5, -74, { amenity: 'toilets', access: 'private' });
+  try {
+    // First server fails once; the second answers.
+    let n = 0;
+    const flaky = async (url, init) => {
+      n++;
+      assert.match(init.body.get('data'), /\[timeout:180\]\[bbox:40\.00000,-75\.00000,41\.00000,-73\.00000\]/);
+      if (n === 1) return { ok: false, status: 504, json: async () => ({}) };
+      return { ok: true, status: 200, json: async () => ({ elements: [TOILET, FOUNTAIN, FOUNTAIN, outside, privateOne] }) };
+    };
+    const result = await buildData({ ...quiet, fetchImpl: flaky, now: () => new Date('2026-01-05T00:00:00Z') });
+    assert.deepEqual(result, { count: 2, tiles: 1 });
+    assert.deepEqual((await readdir(outDir)).sort(), ['261_212.json', 'index.json']);
+    const index = JSON.parse(await readFile(path.join(outDir, 'index.json'), 'utf8'));
+    assert.deepEqual(index, {
+      version: 1, generated: '2026-01-05T00:00:00.000Z', tileDegrees: 0.5,
+      regions: [[40, -75, 41, -73]], count: 2, rows: { 261: [212] },
+    });
+
+    // The site's own loader reads what was written.
+    const store = new PlaceStore({
+      fetchImpl: async (url) => ({ ok: true, json: async () => JSON.parse(await readFile(path.join(dir, url.replace('data/', '')), 'utf8')) }),
+    });
+    await store.loadIndex();
+    await store.ensure(BOUNDS);
+    assert.deepEqual([...store.places.keys()].sort(), ['n1', 'n2']);
+    assert.equal(describePlace(store.places.get('n1')).title, 'Public restroom');
+
+    // A download that fails everywhere leaves the old files alone...
+    const down = async () => ({ ok: false, status: 429, json: async () => ({}) });
+    await assert.rejects(buildData({ ...quiet, fetchImpl: down, attempts: 2 }), /Giving up/);
+    // ...and so does one that suddenly returns almost nothing.
+    const empty = async () => ({ ok: true, status: 200, json: async () => ({ elements: [] }) });
+    await assert.rejects(buildData({ ...quiet, fetchImpl: empty }), /down from 2/);
+    assert.deepEqual((await readdir(dir)).sort(), ['tiles']);
+    assert.equal(JSON.parse(await readFile(path.join(outDir, 'index.json'), 'utf8')).count, 2);
+
+    await assert.rejects(buildData({ ...quiet, fetchImpl: empty, regions: [{ name: 'Bad', bbox: [40.1, -75, 41, -73] }] }), /multiples of 0\.5/);
+  } finally {
+    await rm(dir, { recursive: true, force: true });
+  }
 });

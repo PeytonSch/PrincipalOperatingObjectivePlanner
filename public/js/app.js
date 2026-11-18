@@ -159,15 +159,16 @@ async function refresh() {
   const plan = store.plan(bounds);
   if (plan.hydrated) syncMarkers();
   if (plan.tooBig) return finishRefresh('zoom');
-  if (!plan.missing.length) return finishRefresh(null);
+  const needed = [...plan.missing, ...plan.tiles.map((tile) => `tile:${tile}`)];
+  if (!needed.length) return finishRefresh(null);
 
   // A request that already covers this view is on its way: let it finish.
-  if (inflight && plan.missing.every((key) => inflight.keys.has(key))) {
+  if (inflight && needed.every((key) => inflight.keys.has(key))) {
     setLoadState('loading');
     return render();
   }
   inflight?.controller.abort();
-  const mine = { keys: new Set(plan.missing), controller: new AbortController() };
+  const mine = { keys: new Set(needed), controller: new AbortController() };
   inflight = mine;
   setLoadState('loading');
   render();
@@ -609,7 +610,7 @@ async function locationAlreadyAllowed() {
 // ---- start -----------------------------------------------------------------
 
 render();
-refresh();
+store.loadIndex().then(refresh); // static tiles where we have them, live data elsewhere
 
 fetch('data/community.json')
   .then((res) => (res.ok ? res.json() : []))
