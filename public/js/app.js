@@ -279,11 +279,13 @@ function renderList() {
   list.replaceChildren(
     ...rows.slice(0, LIST_LIMIT).map(({ place, d, dir }) => {
       const info = describePlace(place);
+      const subtitle = info.summary || (info.title === info.typeLabel ? '' : info.typeLabel);
       const button = el('button', { class: 'place', type: 'button' }, [
         el('span', { class: `place-icon place-icon--${place.kind}`, html: GLYPH[place.kind] }),
         el('span', { class: 'place-text' }, [
           el('span', { class: 'place-name', text: info.title }),
-          el('span', { class: 'place-sub', text: info.summary || info.typeLabel }),
+          // Say what it is, unless the name already does and nothing more is known.
+          subtitle ? el('span', { class: 'place-sub', text: subtitle }) : null,
         ]),
         el('span', { class: 'place-dist' }, [
           formatDistance(d, unit),
