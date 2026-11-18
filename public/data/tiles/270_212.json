@@ -155,7 +155,7 @@
 ["n13025380616","w",45.41686,-73.96338,{"amenity":"drinking_water"}],
 ["n13027106187","w",45.36174,-73.99306,{"amenity":"drinking_water"}],
 ["n13053758251","w",45.49282,-73.84578,{"amenity":"drinking_water"}],
-["n13059817755","w",45.4098,-73.92938,{"amenity":"drinking_water"}],
+["n13059817755","w",45.4098,-73.92938,{"fee":"no","bottle":"yes","amenity":"drinking_water"}],
 ["n13088427179","t",45.41969,-73.61275,{"amenity":"toilets"}],
 ["n13088427180","t",45.41979,-73.61281,{"amenity":"toilets"}],
 ["n13088427181","w",45.41967,-73.61275,{"fee":"no","wheelchair":"no","amenity":"drinking_water"}],
