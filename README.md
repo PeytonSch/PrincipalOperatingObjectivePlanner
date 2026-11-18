@@ -23,27 +23,44 @@ What is shown: `amenity=toilets`, `amenity=drinking_water`, `amenity=water_point
 and taps or fountains tagged `drinking_water=yes`. Places tagged `access=private`
 or `access=no` are hidden.
 
-## Deploy to Cloudflare Pages (free plan)
+## Deploy to Cloudflare (free plan)
 
-1. In the Cloudflare dashboard go to **Workers & Pages → Create application →
-   Pages → Import an existing Git repository** and pick this repository.
-2. Use these build settings:
+Cloudflare's dashboard offers two ways to host a static site from Git. Both are
+free for this site and both honour `public/_headers`.
 
-   | Setting                | Value    |
-   | ---------------------- | -------- |
-   | Production branch      | `main`   |
-   | Framework preset       | None     |
-   | Build command          | `exit 0` |
-   | Build output directory | `public` |
+### Workers (the default "Import a repository" flow)
 
-3. Save and deploy. The site is published at `https://<project>.pages.dev`, and
-   every push to the production branch redeploys it. Other branches and pull
-   requests get preview URLs.
+This is the form that asks for a **build command**, **deploy command**,
+**preview command** and **path**. `wrangler.jsonc` in this repository already
+tells Cloudflare to serve `public/`, so leave every field at its default:
 
-The site fits well inside the free plan: it is about 20 files (the limit is
-20,000 files of up to 25 MiB each), static requests are not metered, and it uses
-no Pages Functions. HTTPS is automatic, which the browser requires before it
-will share a location.
+| Setting         | Value                              |
+| --------------- | ---------------------------------- |
+| Build command   | *(empty)*                          |
+| Deploy command  | `npx wrangler deploy` (default)    |
+| Preview command | `npx wrangler preview` (default)   |
+| Path            | `/` (default)                      |
+
+Naming the project `principaloperatingobjectiveplanner` matches `wrangler.jsonc`.
+Any other name still deploys; Cloudflare just opens a pull request offering to
+update the name in that file.
+
+### Pages (the classic flow)
+
+**Workers & Pages → Create application → Pages → Import an existing Git
+repository**, then:
+
+| Setting                | Value    |
+| ---------------------- | -------- |
+| Production branch      | `main`   |
+| Framework preset       | None     |
+| Build command          | `exit 0` |
+| Build output directory | `public` |
+
+Either way the site is published on a free Cloudflare subdomain and redeploys on
+every push to `main`. It fits well inside the free plan: about 25 small files,
+no server code, and requests for static files are free and unlimited. HTTPS is
+automatic, which the browser requires before it will share a location.
 
 `public/_headers` sets security headers, including a Content-Security-Policy.
 If you ever change the tile server or the Overpass servers, update the
@@ -86,7 +103,7 @@ serves `public/` at <http://localhost:8788>. Any static file server works. To
 also exercise the `_headers` file exactly as Cloudflare does:
 
 ```bash
-npx wrangler pages dev public
+npx wrangler dev
 ```
 
 Run the unit tests (Node 20 or newer, no dependencies to install):
@@ -106,9 +123,10 @@ public/
   js/util.js            distance and URL helpers
   data/community.json   optional hand-maintained places
   vendor/               Leaflet 1.9.4 and Leaflet.markercluster 1.5.3
-  _headers              Cloudflare Pages response headers
+  _headers              Cloudflare response headers
   manifest.webmanifest  lets people add POOP to their home screen
 tests/                  unit tests for js/data.js and js/util.js
+wrangler.jsonc          tells Cloudflare to serve public/
 ```
 
 ## Credits

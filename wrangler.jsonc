@@ -1,0 +1,10 @@
+// Cloudflare deploy configuration: serve the static site in public/.
+// With this file, the dashboard's default build settings work unchanged
+// (deploy command `npx wrangler deploy`, no build command).
+{
+  "name": "principaloperatingobjectiveplanner",
+  "compatibility_date": "2026-11-18",
+  "assets": {
+    "directory": "./public"
+  }
+}
