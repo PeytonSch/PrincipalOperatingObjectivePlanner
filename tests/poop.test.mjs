@@ -260,9 +260,47 @@ test('a failed tile download rejects and can be retried', async () => {
 
 // ---- scripts/build-data.mjs -------------------------------------------------
 
-test('chunksFor covers a box without overlap', () => {
-  assert.deepEqual(chunksFor([0, 0, 6, 4], 4), [[0, 0, 4, 4], [4, 0, 6, 4]]);
-  assert.equal(chunksFor([24, -125, 49.5, -66.5], 4).length, 7 * 15);
+test('chunksFor covers a box with equal pieces and no overlap', () => {
+  assert.deepEqual(chunksFor([0, 0, 6, 4], 4), [[0, 0, 3, 4], [3, 0, 6, 4]]);
+  assert.deepEqual(chunksFor([0, 0, 4, 4], 4), [[0, 0, 4, 4]]);
+  assert.deepEqual(chunksFor([0, 0, 2, 2], 1).length, 4);
+  const us = chunksFor([24, -125, 49.5, -66.5], 20);
+  assert.equal(us.length, 2 * 3);
+  assert.deepEqual(us[0], [24, -125, 36.75, -105.5]);
+  assert.deepEqual(us.at(-1), [36.75, -86, 49.5, -66.5]);
+});
+
+test('buildData benches a server that hangs and splits a box that is too big', async () => {
+  const dir = await mkdtemp(path.join(tmpdir(), 'poop-'));
+  let time = 0;
+  const calls = [];
+  const fetchImpl = async (url, init) => {
+    const bbox = /\[bbox:([^\]]+)\]/.exec(init.body.get('data'))[1];
+    calls.push(`${new URL(url).host} ${bbox}`);
+    if (url === 'https://hangs') { time += 240000; throw new Error('timeout'); }
+    if (url === 'https://busy' && calls.length === 1) return { ok: false, status: 502, json: async () => ({}) };
+    // The full box is too much for the server; its halves are fine.
+    if (bbox === '40.00000,-76.00000,42.00000,-72.00000') {
+      return { ok: true, status: 200, json: async () => ({ remark: 'runtime error: Query timed out', elements: [] }) };
+    }
+    return { ok: true, status: 200, json: async () => ({ elements: [TOILET, FOUNTAIN] }) };
+  };
+  try {
+    const result = await buildData({
+      outDir: path.join(dir, 'tiles'), regions: [{ name: 'Test', bbox: [40, -76, 42, -72] }],
+      endpoints: ['https://busy', 'https://hangs'], fetchImpl, sleep: async () => {}, log: () => {}, clock: () => time,
+    });
+    assert.deepEqual(result, { count: 2, tiles: 1 });
+    assert.deepEqual(calls, [
+      'busy 40.00000,-76.00000,42.00000,-72.00000', // quick 502: one strike
+      'hangs 40.00000,-76.00000,42.00000,-72.00000', // slow failure: two strikes, benched
+      'busy 40.00000,-76.00000,42.00000,-72.00000', // answers "too big": split, no pointless retry
+      'busy 40.00000,-76.00000,42.00000,-74.00000',
+      'busy 40.00000,-74.00000,42.00000,-72.00000',
+    ]);
+  } finally {
+    await rm(dir, { recursive: true, force: true });
+  }
 });
 
 test('buildData writes tiles the site can read, and protects existing data', async () => {
@@ -277,7 +315,7 @@ test('buildData writes tiles the site can read, and protects existing data', asy
     let n = 0;
     const flaky = async (url, init) => {
       n++;
-      assert.match(init.body.get('data'), /\[timeout:180\]\[bbox:40\.00000,-75\.00000,41\.00000,-73\.00000\]/);
+      assert.match(init.body.get('data'), /\[timeout:300\]\[bbox:40\.00000,-75\.00000,41\.00000,-73\.00000\]/);
       if (n === 1) return { ok: false, status: 504, json: async () => ({}) };
       return { ok: true, status: 200, json: async () => ({ elements: [TOILET, FOUNTAIN, FOUNTAIN, outside, privateOne] }) };
     };
@@ -301,7 +339,7 @@ test('buildData writes tiles the site can read, and protects existing data', asy
 
     // A download that fails everywhere leaves the old files alone...
     const down = async () => ({ ok: false, status: 429, json: async () => ({}) });
-    await assert.rejects(buildData({ ...quiet, fetchImpl: down, attempts: 2 }), /Giving up/);
+    await assert.rejects(buildData({ ...quiet, fetchImpl: down, attempts: 1 }), /Giving up/);
     // ...and so does one that suddenly returns almost nothing.
     const empty = async () => ({ ok: true, status: 200, json: async () => ({ elements: [] }) });
     await assert.rejects(buildData({ ...quiet, fetchImpl: empty }), /down from 2/);

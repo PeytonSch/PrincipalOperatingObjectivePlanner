@@ -73,12 +73,12 @@ If you ever change the tile server or the Overpass servers, update the
 ## Keeping the data fresh
 
 `.github/workflows/update-data.yml` runs `scripts/build-data.mjs` every Monday.
-It downloads the data in about 190 requests, rebuilds `public/data/tiles/`, and
+It downloads the data in about 14 large requests, rebuilds `public/data/tiles/`, and
 commits the result; Cloudflare then redeploys the site. If the download fails,
 or suddenly returns far fewer places than last time, nothing is changed.
 
 - **Run it now:** on GitHub, open **Actions → Update map data → Run workflow**.
-- **Run it on your computer:** `npm run build-data` (takes 15 to 40 minutes).
+- **Run it on your computer:** `npm run build-data`.
 - **Cover more of the world:** add a box to `REGIONS` at the top of
   `scripts/build-data.mjs`. The free Cloudflare plan allows 20,000 files; the
   United States uses a few thousand.

@@ -27,8 +27,12 @@ export const REGIONS = [
   { name: 'Puerto Rico and US Virgin Islands', bbox: [17.5, -67.5, 19, -64.5] },
 ];
 
-const CHUNK_DEGREES = 4; // size of each Overpass request
-const QUERY_TIMEOUT_S = 180;
+// Each request to Overpass costs half a minute or more however little it
+// returns, so ask for big boxes: the whole download is about 14 requests.
+// A box that proves too big for the server is split into smaller ones.
+const CHUNK_DEGREES = 20;
+const MAX_SPLITS = 3; // 20° -> 10° -> 5° -> 2.5°
+const QUERY_TIMEOUT_S = 300;
 const DEFAULT_ENDPOINTS = [
   'https://overpass-api.de/api/interpreter',
   'https://overpass.private.coffee/api/interpreter',
@@ -39,12 +43,19 @@ const USER_AGENT = process.env.OVERPASS_USER_AGENT || 'restroom-map-data-builder
 
 const realSleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-/** Split a box into pieces no larger than `size` degrees on a side. */
+/** Split a box into equal pieces no larger than `size` degrees on a side. */
 export function chunksFor([s, w, n, e], size = CHUNK_DEGREES) {
+  const rows = Math.max(1, Math.ceil((n - s) / size - 1e-9));
+  const cols = Math.max(1, Math.ceil((e - w) / size - 1e-9));
   const chunks = [];
-  for (let lat = s; lat < n; lat += size) {
-    for (let lon = w; lon < e; lon += size) {
-      chunks.push([lat, lon, Math.min(n, lat + size), Math.min(e, lon + size)]);
+  for (let r = 0; r < rows; r++) {
+    for (let c = 0; c < cols; c++) {
+      chunks.push([
+        s + ((n - s) * r) / rows,
+        w + ((e - w) * c) / cols,
+        s + ((n - s) * (r + 1)) / rows,
+        w + ((e - w) * (c + 1)) / cols,
+      ]);
     }
   }
   return chunks;
@@ -61,30 +72,44 @@ async function queryOnce(url, bbox, fetchImpl) {
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const json = await res.json();
   if (!json || !Array.isArray(json.elements)) throw new Error('unexpected response');
-  if (json.remark && /error|timed out/i.test(json.remark)) throw new Error(json.remark);
+  if (json.remark && /error|timed out/i.test(json.remark)) {
+    // The server ran the query and gave up: asking again will not help.
+    throw Object.assign(new Error(json.remark), { tooBig: true });
+  }
   return json.elements;
 }
 
-/** Fetch one box, retrying across servers and splitting it if it keeps failing. */
+/**
+ * Fetch one box. Servers that keep failing are tried less: each failure is a
+ * strike (a slow failure counts double) and the server with the fewest
+ * strikes goes next. A box that cannot be fetched is split into smaller ones.
+ */
 async function fetchBox(bbox, opts, depth = 0) {
-  const { fetchImpl, endpoints, attempts, sleep, log } = opts;
+  const { fetchImpl, endpoints, attempts, sleep, log, strikes, clock } = opts;
   let lastError;
   for (let attempt = 0; attempt < attempts; attempt++) {
-    const url = endpoints[attempt % endpoints.length];
+    const url = endpoints.reduce((best, u) => (strikes.get(u) < strikes.get(best) ? u : best));
+    const started = clock();
     try {
-      return await queryOnce(url, bbox, fetchImpl);
+      const elements = await queryOnce(url, bbox, fetchImpl);
+      strikes.set(url, 0);
+      return elements;
     } catch (err) {
       lastError = err;
+      const slow = clock() - started > 60000;
       log(`  attempt ${attempt + 1}/${attempts} at ${new URL(url).host} failed: ${err.message}`);
+      if (err.tooBig) break;
+      strikes.set(url, strikes.get(url) + (slow ? 2 : 1));
       await sleep(Math.min(60000, 5000 * 2 ** attempt));
     }
   }
-  if (depth >= 2) throw new Error(`Giving up on ${bbox.join(',')}: ${lastError.message}`);
-  log(`  splitting ${bbox.join(',')} into quarters`);
+  if (depth >= MAX_SPLITS) throw new Error(`Giving up on ${bbox.join(',')}: ${lastError.message}`);
+  log(`  splitting ${bbox.join(',')} into smaller boxes`);
   const [s, w, n, e] = bbox;
   const elements = [];
   for (const quarter of chunksFor(bbox, Math.max(n - s, e - w) / 2)) {
     elements.push(...(await fetchBox(quarter, opts, depth + 1)));
+    await sleep(2000);
   }
   return elements;
 }
@@ -98,8 +123,9 @@ export async function buildData({
   regions = REGIONS,
   fetchImpl = fetch,
   endpoints = (process.env.OVERPASS_URLS || '').split(',').filter(Boolean),
-  attempts = 6,
+  attempts = 4,
   sleep = realSleep,
+  clock = Date.now,
   log = console.log,
   force = false,
   now = () => new Date(),
@@ -115,7 +141,9 @@ export async function buildData({
     regions.some(({ bbox: [s, w, n, e] }) => p.lat >= s && p.lat < n && p.lon >= w && p.lon < e);
 
   const places = new Map();
-  const opts = { fetchImpl, endpoints, attempts, sleep, log };
+  const strikes = new Map(endpoints.map((url) => [url, 0]));
+  const opts = { fetchImpl, endpoints, attempts, sleep, log, strikes, clock };
+  const startedAt = clock();
   for (const { name, bbox } of regions) {
     const chunks = chunksFor(bbox);
     log(`${name}: ${chunks.length} requests`);
@@ -125,8 +153,9 @@ export async function buildData({
         const place = normalizeElement(element);
         if (place && inRegions(place)) places.set(place.id, place);
       }
-      log(`  [${i + 1}/${chunks.length}] ${chunk.join(',')}: ${elements.length} found, ${places.size} total`);
-      await sleep(1000); // be gentle with the volunteer-run servers
+      const minutes = ((clock() - startedAt) / 60000).toFixed(1);
+      log(`  [${i + 1}/${chunks.length}] ${chunk.join(',')}: ${elements.length} found, ${places.size} total, ${minutes} min elapsed`);
+      await sleep(3000); // be gentle with the volunteer-run servers
     }
   }
 
