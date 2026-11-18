@@ -1,0 +1,13 @@
+{"p":[
+["n13370767589","t",40.2629,-77.56326,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2840675159","t",40.24766,-77.60958,{"name":"Fowler Hollow Privy","amenity":"toilets"}],
+["n34519585","t",40.06694,-77.51569,{"wheelchair":"yes","amenity":"toilets"}],
+["n8786599877","t",40.42937,-77.99033,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1158552176","t",40.24178,-77.89926,{"amenity":"toilets"}],
+["w1168162714","t",40.03569,-77.78149,{"amenity":"toilets"}],
+["w1202106383","t",40.27022,-77.58376,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1369958968","t",40.27153,-77.58136,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w704828998","t",40.10588,-77.6642,{"amenity":"toilets"}],
+["w929002758","t",40.2642,-77.65635,{"amenity":"toilets"}],
+["w929002760","t",40.26298,-77.65865,{"access":"yes","amenity":"toilets"}]
+]}

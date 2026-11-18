@@ -1,0 +1,21 @@
+{"p":[
+["n11146967406","w",38.93847,-114.03277,{"drinking_water":"yes","man_made":"water_tap"}],
+["n11433168542","t",38.92646,-114.25168,{"operator":"National Park Service","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11433168603","t",38.91907,-114.1952,{"operator":"National Park Service","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11433168629","t",38.92182,-114.22868,{"operator":"National Park Service","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11433168638","t",38.91618,-114.1484,{"operator":"National Park Service","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11433168643","t",38.91274,-114.17266,{"operator":"National Park Service","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13120541876","t",38.98996,-114.2124,{"operator":"National Park Service","amenity":"toilets"}],
+["n4910527834","t",38.99124,-114.21774,{"fee":"no","wheelchair":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1218312823","t",38.98474,-114.24242,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1218312831","t",38.98386,-114.243,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1218312841","t",38.98595,-114.24033,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1218312847","t",38.98685,-114.23898,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1218312855","t",38.98739,-114.23709,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1218315944","t",38.99033,-114.22346,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1218315945","t",38.99016,-114.22174,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1218315950","t",38.99138,-114.22652,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1218332189","t",38.97673,-114.24563,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1423242833","t",38.99013,-114.22521,{"operator":"National Park Service","amenity":"toilets"}],
+["w1423242834","t",38.99,-114.22755,{"operator":"National Park Service","amenity":"toilets"}]
+]}

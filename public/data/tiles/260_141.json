@@ -1,0 +1,18 @@
+{"p":[
+["n11999833646","t",40.42585,-109.17459,{"fee":"no","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12068378466","w",40.42236,-109.24383,{"access":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n12068378467","w",40.41985,-109.24327,{"access":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n12068378468","w",40.42106,-109.24356,{"access":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n12068387869","w",40.42322,-109.24508,{"access":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n13446479991","t",40.01009,-109.4455,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2333721084","t",40.44392,-109.25302,{"amenity":"toilets"}],
+["n2333721147","t",40.48617,-109.09409,{"amenity":"toilets"}],
+["n412064474","t",40.45397,-109.01671,{"fee":"no","amenity":"toilets"}],
+["n4589251560","t",40.42235,-109.24389,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4589251561","t",40.42103,-109.2436,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4589251562","t",40.41987,-109.24333,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4589251563","t",40.42319,-109.24511,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1328724978","t",40.44009,-109.3009,{"amenity":"toilets"}],
+["w410084123","t",40.44469,-109.25353,{"amenity":"toilets"}],
+["w728905457","t",40.49591,-109.17473,{"name":"Rainbow Park Comfort Station","amenity":"toilets"}]
+]}

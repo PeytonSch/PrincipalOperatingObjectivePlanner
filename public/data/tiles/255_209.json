@@ -1,0 +1,18 @@
+{"p":[
+["n12412956270","t",37.89539,-75.36054,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12412963839","t",37.90413,-75.33685,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13085191387","t",37.92388,-75.32075,{"amenity":"toilets"}],
+["n5246324459","t",37.91096,-75.34939,{"fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"chemical","drinking_water":"no","amenity":"toilets"}],
+["n5419840009","t",37.91027,-75.35426,{"fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"chemical","drinking_water":"no","amenity":"toilets"}],
+["n6412887534","t",37.9244,-75.35653,{"fee":"no","access":"customers","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["n6417094580","t",37.92443,-75.35647,{"fee":"no","access":"customers","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["n6418085528","t",37.88998,-75.34399,{"amenity":"toilets"}],
+["n6418377625","t",37.90267,-75.33503,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9868869422","t",37.93392,-75.3773,{"name":"Municipal Restrooms","opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1430428593","t",37.90916,-75.38565,{"amenity":"toilets"}],
+["w1430428594","t",37.90921,-75.38576,{"wheelchair":"yes","amenity":"toilets"}],
+["w1531303405","t",37.93713,-75.37267,{"access":"customers","amenity":"toilets"}],
+["w542611068","t",37.88995,-75.34407,{"access":"yes","amenity":"toilets"}],
+["w669860462","t",37.91736,-75.38056,{"amenity":"toilets"}],
+["w684886859","t",37.9243,-75.35774,{"fee":"no","access":"customers","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}]
+]}

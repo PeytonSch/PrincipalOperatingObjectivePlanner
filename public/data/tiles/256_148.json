@@ -1,0 +1,18 @@
+{"p":[
+["n14049491793","w",38.08031,-105.56512,{"amenity":"drinking_water"}],
+["n14049560553","t",38.0802,-105.56509,{"amenity":"toilets"}],
+["n14049570809","t",38.07961,-105.56399,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14052180339","t",38.07862,-105.56323,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14052195538","w",38.07866,-105.56331,{"amenity":"drinking_water"}],
+["n14071569142","t",38.07873,-105.56336,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14071569143","w",38.07961,-105.56397,{"amenity":"drinking_water"}],
+["n14071569144","t",38.07961,-105.56393,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3130312196","t",38.36747,-105.71479,{"name":"Trading Post River Access","amenity":"toilets"}],
+["n3130448893","t",38.47206,-105.86553,{"amenity":"toilets"}],
+["n7304646314","t",38.4713,-105.87119,{"amenity":"toilets"}],
+["n8268916674","t",38.192,-105.81603,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n9789081145","t",38.41612,-105.58706,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w476700709","t",38.39094,-105.65215,{"name":"Lone Pine","amenity":"toilets"}],
+["w492568131","t",38.39198,-105.77477,{"fee":"no","amenity":"toilets"}],
+["w889428330","t",38.19219,-105.81518,{"name":"Pool Bathroom","access":"customers","amenity":"toilets"}]
+]}

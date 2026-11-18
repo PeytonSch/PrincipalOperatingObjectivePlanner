@@ -1,0 +1,15 @@
+{"p":[
+["n11364995617","t",42.35996,-95.47962,{"amenity":"toilets"}],
+["n3954505471","t",42.30359,-95.04194,{"amenity":"toilets"}],
+["n9681169085","t",42.29874,-95.03984,{"amenity":"toilets"}],
+["n9701493418","t",42.36326,-95.4803,{"amenity":"toilets"}],
+["n9701493419","t",42.35282,-95.47837,{"amenity":"toilets"}],
+["n9701493420","t",42.35513,-95.48215,{"amenity":"toilets"}],
+["n9868394527","w",42.02393,-95.32698,{"amenity":"drinking_water"}],
+["n9868414082","w",42.02615,-95.31971,{"drinking_water":"yes","amenity":"water_point"}],
+["n9868414083","t",42.02623,-95.31963,{"amenity":"toilets"}],
+["w1075336310","t",42.01384,-95.34735,{"name":"Stage","amenity":"toilets"}],
+["w1078866379","t",42.30702,-95.0448,{"amenity":"toilets"}],
+["w1443057672","t",42.29257,-95.01977,{"description":"Shower house with restrooms","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w392010911","t",42.30714,-95.04816,{"amenity":"toilets"}]
+]}

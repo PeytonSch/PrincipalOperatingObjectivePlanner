@@ -1,0 +1,20 @@
+{"p":[
+["n10281308408","t",35.8737,-114.65181,{"amenity":"toilets"}],
+["n11305260103","t",35.98773,-114.83205,{"opening_hours":"Mo-Fr 09:00-17:00","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n11853045312","w",35.97671,-114.85178,{"operator":"Canyon Trail RV Park","fee":"yes","access":"yes","amenity":"water_point"}],
+["n3527851346","t",35.87066,-114.65799,{"amenity":"toilets"}],
+["n3527851347","t",35.87045,-114.6589,{"amenity":"toilets"}],
+["n7288235404","t",35.9591,-114.72807,{"amenity":"toilets"}],
+["n9140113265","t",35.95487,-114.84672,{"amenity":"toilets"}],
+["w1150263177","t",35.99574,-114.8323,{"amenity":"toilets"}],
+["w1205350331","t",35.97788,-114.85174,{"access":"customers","wheelchair":"yes","amenity":"toilets"}],
+["w1205350332","t",35.97768,-114.85108,{"access":"customers","wheelchair":"yes","amenity":"toilets"}],
+["w1223327543","t",35.97721,-114.8528,{"access":"customers","wheelchair":"yes","amenity":"toilets"}],
+["w1223327544","t",35.97667,-114.85243,{"access":"customers","wheelchair":"yes","amenity":"toilets"}],
+["w332372250","t",35.95244,-114.84763,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["w378906159","t",35.86947,-114.66088,{"amenity":"toilets"}],
+["w876425940","t",35.99777,-114.99819,{"amenity":"toilets"}],
+["w876635535","t",35.98412,-114.86162,{"amenity":"toilets"}],
+["w884034696","t",35.95751,-114.84572,{"amenity":"toilets"}],
+["w958550476","t",35.70727,-114.71105,{"amenity":"toilets"}]
+]}

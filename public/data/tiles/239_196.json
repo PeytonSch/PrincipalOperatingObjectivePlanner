@@ -1,0 +1,22 @@
+{"p":[
+["n4212498048","w",29.76394,-81.99255,{"amenity":"drinking_water"}],
+["n4212498049","t",29.7639,-81.99261,{"operator":"Clay County","toilets:disposal":"flush","amenity":"toilets"}],
+["n5296443766","t",29.99975,-81.70864,{"amenity":"toilets"}],
+["n8119372825","t",29.82643,-81.95259,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1231804019","t",29.65151,-81.98675,{"amenity":"toilets"}],
+["w1231804020","t",29.65284,-81.97952,{"amenity":"toilets"}],
+["w1337384888","t",29.62383,-81.89132,{"unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1490752382","t",29.71495,-81.51467,{"amenity":"toilets"}],
+["w348818121","t",29.95986,-81.63239,{"amenity":"toilets"}],
+["w548030209","t",29.65388,-81.98451,{"unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w548030214","t",29.65612,-81.98403,{"amenity":"toilets"}],
+["w548030225","t",29.65714,-81.98338,{"amenity":"toilets"}],
+["w548030233","t",29.65436,-81.9797,{"amenity":"toilets"}],
+["w548030237","t",29.65239,-81.98056,{"amenity":"toilets"}],
+["w548030239","t",29.65318,-81.98251,{"amenity":"toilets"}],
+["w564396216","t",29.9597,-81.53325,{"amenity":"toilets"}],
+["w690926910","t",29.65652,-81.98564,{"amenity":"toilets"}],
+["w690926911","t",29.65542,-81.98355,{"amenity":"toilets"}],
+["w740416334","t",29.76209,-81.84344,{"operator":"Florida Forest Service","amenity":"toilets"}],
+["w975114456","t",29.55102,-81.57327,{"amenity":"toilets"}]
+]}

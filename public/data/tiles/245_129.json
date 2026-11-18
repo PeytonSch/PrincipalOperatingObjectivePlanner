@@ -1,0 +1,23 @@
+{"p":[
+["n1227434408","t",32.6549,-115.40928,{"amenity":"toilets"}],
+["n1227434412","t",32.65431,-115.40643,{"amenity":"toilets"}],
+["n1227434487","t",32.65535,-115.40885,{"amenity":"toilets"}],
+["n12351557374","t",32.90989,-115.11645,{"amenity":"toilets"}],
+["n12730167829","t",32.65881,-115.47716,{"amenity":"toilets"}],
+["n3351541915","w",32.60484,-115.48449,{"name":"Venezia","amenity":"drinking_water"}],
+["n4797476995","t",32.99085,-115.06139,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4797476996","t",32.99082,-115.06132,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4797476997","t",32.98803,-115.05703,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4797476998","t",32.98798,-115.05696,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6244822164","t",32.65595,-115.4093,{"amenity":"toilets"}],
+["n8754114240","t",32.55132,-115.07541,{"amenity":"toilets"}],
+["w1175730271","t",32.64942,-115.44243,{"amenity":"toilets"}],
+["w1177064242","t",32.76581,-115.26966,{"operator":"US Bureau of Land Management","amenity":"toilets"}],
+["w1309085711","t",32.66296,-115.41328,{"amenity":"toilets"}],
+["w1309085712","t",32.66249,-115.41392,{"amenity":"toilets"}],
+["w1309085731","t",32.66246,-115.4127,{"amenity":"toilets"}],
+["w147096289","t",32.98353,-115.13248,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["w382012111","t",32.5528,-115.06549,{"name":"Baños Públicos Parque Bataquez","amenity":"toilets"}],
+["w583551899","t",32.6767,-115.48425,{"fee":"no","access":"permissive","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w597088979","t",32.66641,-115.48297,{"amenity":"toilets"}]
+]}

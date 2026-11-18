@@ -1,0 +1,15 @@
+{"p":[
+["n11235024056","t",47.00358,-123.90505,{"amenity":"toilets"}],
+["n13175380552","t",47.46243,-123.85797,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13175470457","t",47.4756,-123.83083,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n6654324422","t",47.49258,-123.86354,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n848916197","t",47.46161,-123.86062,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n8664460200","t",47.45722,-123.73144,{"operator":"United States Forest Service","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8666160579","t",47.48233,-123.68512,{"operator":"US Forest Service","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1396029799","t",47.47737,-123.83101,{"access":"customers","wheelchair":"yes","changing_table":"no","amenity":"toilets"}],
+["w1396029954","t",47.45992,-123.86226,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1545313626","t",47.39048,-123.60307,{"amenity":"toilets"}],
+["w1545313627","t",47.38946,-123.60403,{"amenity":"toilets"}],
+["w1545313628","t",47.3916,-123.60357,{"amenity":"toilets"}],
+["w1545313629","t",47.38946,-123.60657,{"amenity":"toilets"}]
+]}

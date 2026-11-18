@@ -1,0 +1,23 @@
+{"p":[
+["n10125861612","t",38.6405,-78.53501,{"amenity":"toilets"}],
+["n1260260200","w",38.73134,-78.51697,{"amenity":"drinking_water"}],
+["n1401261349","w",38.95192,-78.73226,{"amenity":"drinking_water"}],
+["n1401261350","t",38.95287,-78.73265,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n1770938659","t",38.95312,-78.73515,{"amenity":"toilets"}],
+["n1770938689","t",38.9519,-78.73348,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n2953128800","t",38.95591,-78.73589,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n2953128801","t",38.95517,-78.73754,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n2953128802","t",38.95684,-78.73739,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n31319629","t",38.61394,-78.70599,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n3677684059","t",38.59531,-78.67286,{"amenity":"toilets"}],
+["n6872450194","t",38.66155,-78.67107,{"amenity":"toilets"}],
+["n7862972643","t",38.61398,-78.70585,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9528472758","t",38.71549,-78.66917,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w286997466","t",38.61697,-78.70639,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w394203657","t",38.78851,-78.52286,{"amenity":"toilets"}],
+["w405987520","t",38.73167,-78.51726,{"amenity":"toilets"}],
+["w405988669","t",38.72781,-78.53354,{"amenity":"toilets"}],
+["w532974060","t",38.92473,-78.68918,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w746781460","t",38.60731,-78.79437,{"description":"Lower Level Concession stand female bathroom access","opening_hours":"\"open during games\"","fee":"no","access":"permissive","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w746781461","t",38.60733,-78.79446,{"description":"Lower level concession stand male bathroom access","opening_hours":"\"open during games\"","fee":"no","access":"permissive","wheelchair":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}]
+]}

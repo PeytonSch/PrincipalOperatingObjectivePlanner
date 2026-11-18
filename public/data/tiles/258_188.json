@@ -1,0 +1,22 @@
+{"p":[
+["n10293821412","t",39.3106,-85.95967,{"amenity":"toilets"}],
+["n14006415238","w",39.19028,-85.98835,{"amenity":"drinking_water"}],
+["n14006415239","w",39.18906,-85.97345,{"amenity":"drinking_water"}],
+["n14029292118","w",39.21745,-85.91787,{"amenity":"drinking_water"}],
+["n14049839112","w",39.23301,-85.90871,{"amenity":"drinking_water"}],
+["n14049839113","w",39.21967,-85.89797,{"amenity":"drinking_water"}],
+["n8175403562","w",39.245,-85.90948,{"amenity":"drinking_water"}],
+["w1108057733","t",39.23706,-85.6996,{"amenity":"toilets"}],
+["w1132510245","t",39.00989,-85.63254,{"amenity":"toilets"}],
+["w1132522484","t",39.01148,-85.63291,{"amenity":"toilets"}],
+["w543720622","t",39.20536,-85.92769,{"amenity":"toilets"}],
+["w543720623","t",39.20575,-85.93206,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w546839444","t",39.21749,-85.91781,{"wheelchair":"yes","amenity":"toilets"}],
+["w567559675","t",39.27671,-85.95692,{"amenity":"toilets"}],
+["w567559685","t",39.26012,-85.95203,{"amenity":"toilets"}],
+["w620637313","t",39.01137,-85.63329,{"operator":"North Vernon City Parks Department","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w624772064","t",39.01274,-85.63361,{"amenity":"toilets"}],
+["w624781033","t",39.05766,-85.63798,{"operator":"Jennings County Fair Board","toilets:disposal":"flush","amenity":"toilets"}],
+["w624782648","t",39.05677,-85.63721,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w631039818","t",39.12096,-85.75873,{"amenity":"toilets"}]
+]}

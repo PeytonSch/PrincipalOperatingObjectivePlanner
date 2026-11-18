@@ -1,0 +1,13 @@
+{"p":[
+["n11946108043","w",31.96045,-104.6803,{"amenity":"drinking_water"}],
+["n1642609246","t",31.89429,-104.82186,{"amenity":"toilets"}],
+["n1642609512","t",31.97765,-104.75211,{"amenity":"toilets"}],
+["n5747148120","w",31.89599,-104.82787,{"amenity":"drinking_water","man_made":"water_well"}],
+["n5747212622","t",31.99527,-104.83289,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5747212623","w",31.99348,-104.83401,{"amenity":"drinking_water"}],
+["w151435926","t",31.89604,-104.82821,{"amenity":"toilets"}],
+["w151435927","t",31.89523,-104.82493,{"name":"Pine Springs Campground Restroom","amenity":"toilets"}],
+["w264982745","t",31.90631,-104.80158,{"fee":"no","access":"yes","amenity":"toilets"}],
+["w436017985","t",31.96041,-104.68033,{"wheelchair":"yes","amenity":"toilets"}],
+["w994113279","t",31.89933,-104.79965,{"name":"Frijoles Ranch Road Restroom","amenity":"toilets"}]
+]}

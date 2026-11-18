@@ -1,0 +1,19 @@
+{"p":[
+["n12421822967","w",30.17454,-92.04042,{"fee":"no","access":"permissive","wheelchair":"yes","amenity":"drinking_water"}],
+["n12421841183","w",30.20711,-92.0192,{"fee":"no","access":"yes","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n12421861924","w",30.20024,-92.02053,{"fee":"no","access":"yes","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n12429843704","w",30.20883,-92.01892,{"fee":"no","access":"yes","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n12450342099","w",30.20136,-92.03879,{"bottle":"yes","amenity":"drinking_water"}],
+["n12450342100","w",30.203,-92.03978,{"bottle":"yes","amenity":"drinking_water"}],
+["n12520120154","t",30.10888,-92.11401,{"amenity":"toilets"}],
+["n12520120155","t",30.10888,-92.11402,{"amenity":"toilets"}],
+["n13153974953","w",30.19558,-92.02313,{"fee":"no","access":"yes","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n4750827319","t",30.24548,-92.10881,{"amenity":"toilets"}],
+["w1266786481","t",30.19174,-92.37611,{"amenity":"toilets"}],
+["w1342809606","t",30.20982,-92.00058,{"access":"yes","amenity":"toilets"}],
+["w1546126582","t",30.23907,-92.00478,{"amenity":"toilets"}],
+["w382173358","t",30.2232,-92.01497,{"operator":"Taco Sisters","unisex":"yes","amenity":"toilets"}],
+["w427248723","t",30.47287,-92.43793,{"name":"Locker Room Facility","amenity":"toilets"}],
+["w603144829","t",30.20539,-92.02083,{"access":"yes","amenity":"toilets"}],
+["w603144845","t",30.20944,-92.01803,{"fee":"no","amenity":"toilets"}]
+]}

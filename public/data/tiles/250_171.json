@@ -1,0 +1,20 @@
+{"p":[
+["n11179157607","t",35.39257,-94.4303,{"name":"Women's Restroom","access":"yes","amenity":"toilets"}],
+["n11179157608","t",35.39228,-94.42981,{"name":"Men's Restroom","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["n11764575624","w",35.39257,-94.43032,{"amenity":"drinking_water"}],
+["n13672600343","t",35.34263,-94.29501,{"amenity":"toilets"}],
+["n13672660876","t",35.43939,-94.16996,{"amenity":"toilets"}],
+["n1590428874","t",35.34878,-94.45284,{"amenity":"toilets"}],
+["n2351681675","w",35.3591,-94.40676,{"description":"Hill Crest exposed agit fountain, a few feet north of the playground","amenity":"drinking_water"}],
+["n2351681678","w",35.37238,-94.39712,{"description":"creekmore park","amenity":"drinking_water"}],
+["n9721096349","t",35.34074,-94.29345,{"amenity":"toilets"}],
+["w1071794421","t",35.3668,-94.35001,{"amenity":"toilets"}],
+["w1123934273","t",35.02741,-94.1208,{"amenity":"toilets"}],
+["w1205169783","t",35.31414,-94.31431,{"amenity":"toilets"}],
+["w1456549104","t",35.49725,-94.21714,{"description":"Closed during the \"winter\".","toilets:disposal":"flush","amenity":"toilets"}],
+["w624775039","t",35.29971,-94.02894,{"amenity":"toilets"}],
+["w629907661","t",35.43636,-94.35278,{"amenity":"toilets"}],
+["w673723245","t",35.38406,-94.39174,{"amenity":"toilets"}],
+["w691289182","t",35.38462,-94.42826,{"amenity":"toilets"}],
+["w932243003","t",35.37169,-94.39722,{"amenity":"toilets"}]
+]}

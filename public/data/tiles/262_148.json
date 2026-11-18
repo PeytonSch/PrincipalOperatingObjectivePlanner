@@ -1,0 +1,15 @@
+{"p":[
+["n1435923115","t",41.31475,-105.62833,{"amenity":"toilets"}],
+["n1436017906","t",41.30393,-105.56487,{"amenity":"toilets"}],
+["n1436026502","t",41.30658,-105.5694,{"amenity":"toilets"}],
+["n1436032111","t",41.30655,-105.56946,{"amenity":"toilets"}],
+["n2344073876","t",41.23662,-105.83659,{"amenity":"toilets"}],
+["n7707408314","t",41.30957,-105.60269,{"amenity":"toilets"}],
+["n7707429327","t",41.30958,-105.60477,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["w1168273384","t",41.39354,-105.7872,{"amenity":"toilets"}],
+["w1190646583","t",41.23759,-105.90208,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1353755585","t",41.23464,-105.85416,{"amenity":"toilets"}],
+["w1371900622","t",41.25606,-105.66768,{"name":"Laramie River - Monolith","operator":"Wyoming Game and Fish Department","fee":"no","access":"yes","amenity":"toilets"}],
+["w1489207821","t",41.23548,-105.86436,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1489207830","t",41.21418,-105.82368,{"operator":"Wyoming Game and Fish Deptartment","fee":"no","access":"yes","amenity":"toilets"}]
+]}

@@ -1,0 +1,10 @@
+{"p":[
+["w284550434","t",37.7739,-76.59178,{"operator":"Virginia State Parks","amenity":"toilets"}],
+["w678662482","t",37.64786,-76.58905,{"name":"Restrooms & Showers","wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["w678672192","t",37.65119,-76.58848,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w678737440","t",37.65388,-76.58533,{"name":"Restrooms & Showers","toilets:disposal":"flush","amenity":"toilets"}],
+["w801361695","t",37.54894,-76.53042,{"name":"Toilets & Showers","amenity":"toilets"}],
+["w801364732","t",37.54464,-76.52382,{"name":"Toilets & Showers","amenity":"toilets"}],
+["w801365899","t",37.54612,-76.52755,{"name":"Toilets & Showers","amenity":"toilets"}],
+["w813689728","t",37.64732,-76.58794,{"access":"customers","wheelchair":"yes","unisex":"yes","amenity":"toilets"}]
+]}

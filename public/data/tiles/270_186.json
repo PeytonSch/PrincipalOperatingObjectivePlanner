@@ -1,0 +1,21 @@
+{"p":[
+["n11258100313","t",45.40699,-86.94481,{"amenity":"toilets"}],
+["n4313829847","t",45.2347,-86.9981,{"name":"Park Office toilet","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4313830959","t",45.23467,-86.98692,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6585433850","t",45.42729,-86.82863,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6585433851","t",45.40812,-86.80691,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6585433852","t",45.40756,-86.82436,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6585433853","t",45.40541,-86.82866,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6585433855","t",45.40655,-86.82623,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6585433856","t",45.40626,-86.8274,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9066722581","w",45.40931,-86.8289,{"amenity":"drinking_water"}],
+["n9066722583","t",45.40764,-86.81281,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9066722590","w",45.40851,-86.82867,{"amenity":"drinking_water"}],
+["n9066722597","w",45.42738,-86.82804,{"amenity":"drinking_water"}],
+["n9980725026","t",45.23715,-86.98749,{"access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1314058134","t",45.40727,-86.82376,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w168936875","t",45.40971,-86.82784,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w905984224","t",45.34014,-86.90727,{"amenity":"toilets"}],
+["w954721344","t",45.39874,-86.85602,{"amenity":"toilets"}],
+["w954721347","t",45.36326,-86.86541,{"access":"yes","amenity":"toilets"}]
+]}

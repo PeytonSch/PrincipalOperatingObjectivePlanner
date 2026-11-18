@@ -1,0 +1,19 @@
+{"p":[
+["n1133337224","t",34.03832,-120.35147,{"amenity":"toilets"}],
+["n12714111978","w",34.00308,-120.05203,{"amenity":"drinking_water"}],
+["n13201652658","w",34.4656,-120.02497,{"fee":"no","bottle":"yes","seasonal":"no","amenity":"drinking_water"}],
+["n8329180802","w",34.47192,-120.22808,{"amenity":"drinking_water"}],
+["w1204307497","t",34.45979,-120.02583,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1506514833","t",34.03178,-120.43326,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w166267576","t",34.48497,-120.22865,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w267291050","t",34.00312,-120.05211,{"name":"Bechers Public Restroom","access":"yes","amenity":"toilets"}],
+["w667278894","t",34.46557,-120.02493,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w896030947","t",34.47186,-120.22804,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w899676440","t",34.46358,-120.06746,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w899676445","t",34.46377,-120.06909,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w899676446","t",34.46348,-120.06844,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w899676448","t",34.46358,-120.07022,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w899676449","t",34.4631,-120.07178,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w976486758","t",34.04045,-120.3486,{"unisex":"yes","amenity":"toilets"}],
+["w99417115","t",34.48384,-120.23073,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

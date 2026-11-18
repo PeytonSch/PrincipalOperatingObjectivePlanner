@@ -1,0 +1,15 @@
+{"p":[
+["n12572409045","t",45.33276,-91.65294,{"amenity":"toilets"}],
+["n2411251356","t",45.23779,-91.59386,{"amenity":"toilets"}],
+["n2443799058","t",45.31278,-91.64167,{"amenity":"toilets"}],
+["n7398940724","t",45.19247,-91.7046,{"amenity":"toilets"}],
+["n7398940727","t",45.19279,-91.70366,{"amenity":"toilets"}],
+["n7398940730","t",45.05205,-91.71242,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7806768798","t",45.0036,-91.73126,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1393640976","t",45.38971,-91.71738,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w359844225","t",45.41307,-91.74116,{"access":"yes","amenity":"toilets"}],
+["w361431164","t",45.28397,-91.63696,{"amenity":"toilets"}],
+["w456645719","t",45.16787,-91.68825,{"operator":"Town of Sand Creek","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w456703254","t",45.31178,-91.63527,{"amenity":"toilets"}],
+["w602644041","t",45.00808,-91.73606,{"amenity":"toilets"}]
+]}

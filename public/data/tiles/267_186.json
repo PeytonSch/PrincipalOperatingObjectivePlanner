@@ -1,0 +1,14 @@
+{"p":[
+["n13452622141","t",43.55814,-86.50589,{"name":"\"The Spa\"","amenity":"toilets"}],
+["n13970953417","t",43.63224,-86.51741,{"amenity":"toilets"}],
+["n5794641350","w",43.68219,-86.5017,{"amenity":"drinking_water"}],
+["w1070755105","t",43.65434,-86.51949,{"amenity":"toilets"}],
+["w1482378205","t",43.55832,-86.50322,{"amenity":"toilets"}],
+["w1482380439","t",43.55721,-86.50501,{"amenity":"toilets"}],
+["w1482380440","t",43.55733,-86.50575,{"amenity":"toilets"}],
+["w1484387740","t",43.55684,-86.50056,{"amenity":"toilets"}],
+["w1484703473","t",43.55556,-86.50161,{"amenity":"toilets"}],
+["w476718746","t",43.68224,-86.5017,{"name":"ORV Area Restroom","operator":"Silver Lake State Park","fee":"no","access":"permit","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w477954887","t",43.65227,-86.53818,{"operator":"Silver Lake State Park","access":"customers","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w477954888","t",43.65221,-86.53819,{"operator":"Silver Lake State Park","access":"customers","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

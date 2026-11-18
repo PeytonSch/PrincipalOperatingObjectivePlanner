@@ -1,0 +1,23 @@
+{"p":[
+["n11805260369","t",34.86345,-84.52012,{"amenity":"toilets"}],
+["n12010274794","t",34.80799,-84.98704,{"amenity":"toilets"}],
+["n12010274796","t",34.8059,-84.98945,{"amenity":"toilets"}],
+["n12685490205","t",34.76172,-84.70795,{"amenity":"toilets"}],
+["n12685490206","t",34.76168,-84.70801,{"amenity":"toilets"}],
+["n3247277962","t",34.77762,-84.70892,{"wheelchair":"yes","amenity":"toilets"}],
+["n3248672245","t",34.75837,-84.70667,{"amenity":"toilets"}],
+["n4474178774","t",34.59531,-84.96185,{"operator":"Resaca Battlefield State Historic Site","opening_hours":"Apr-Oct Fr-Su 07:00-20:00; Nov-Mar Fr-Su 08:00-17:00","amenity":"toilets"}],
+["n4475472836","t",34.50898,-84.50527,{"operator":"John S. Quinton Memorial Park","fee":"no","amenity":"toilets"}],
+["n4931461566","t",34.64175,-84.57422,{"amenity":"toilets"}],
+["n9158448418","t",34.50557,-84.95033,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1050341056","t",34.52459,-84.76026,{"amenity":"toilets"}],
+["w1050341067","t",34.52316,-84.76026,{"amenity":"toilets"}],
+["w1293740932","t",34.83191,-84.99487,{"amenity":"toilets"}],
+["w1312680319","t",34.7724,-84.97725,{"amenity":"toilets"}],
+["w1503648029","t",34.60295,-84.69497,{"access":"yes","amenity":"toilets"}],
+["w174341413","t",34.99406,-84.94546,{"name":"Visitor's Center","amenity":"toilets"}],
+["w359444178","t",34.86102,-84.64947,{"access":"yes","amenity":"toilets"}],
+["w429765050","t",34.56333,-84.94439,{"operator":"Rest Area #35","opening_hours":"24/7","amenity":"toilets"}],
+["w447083457","t",34.94147,-84.70907,{"opening_hours":"We-Mo sunrise-sunset; Tu 12:00-sunset","fee":"no","wheelchair":"limited","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["w502487056","t",34.60872,-84.61972,{"fee":"no","access":"customers","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}]
+]}

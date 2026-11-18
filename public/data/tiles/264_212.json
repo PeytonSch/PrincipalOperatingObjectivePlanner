@@ -1,0 +1,22 @@
+{"p":[
+["n10312586099","t",42.42845,-73.80301,{"opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["n10916433572","t",42.09086,-73.71845,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n11232441452","w",42.25666,-73.79608,{"bottle":"yes","amenity":"drinking_water"}],
+["n13167850130","t",42.34984,-73.90282,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13167850132","t",42.34964,-73.90044,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n1331622250","t",42.01401,-73.99973,{"wheelchair":"yes","amenity":"toilets"}],
+["n2408078535","t",42.21775,-73.82933,{"amenity":"toilets"}],
+["n2409304037","t",42.01139,-73.91608,{"amenity":"toilets"}],
+["n5695755554","t",42.01356,-73.91962,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5700041519","t",42.0835,-73.9192,{"amenity":"toilets"}],
+["n5965228019","t",42.42797,-73.80583,{"fee":"no","access":"yes","unisex":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w1174546149","t",42.09244,-73.71123,{"amenity":"toilets"}],
+["w1174547467","t",42.09311,-73.70583,{"amenity":"toilets"}],
+["w1302614247","t",42.49906,-73.77535,{"amenity":"toilets"}],
+["w264329827","t",42.00537,-73.9443,{"amenity":"toilets"}],
+["w264467533","t",42.07101,-73.95134,{"name":"Saugerties Beach Restrooms","amenity":"toilets"}],
+["w264662652","t",42.09319,-73.94559,{"amenity":"toilets"}],
+["w264668477","t",42.091,-73.94324,{"amenity":"toilets"}],
+["w305358115","t",42.0943,-73.70982,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w932133218","t",42.12293,-73.51486,{"operator":"New York State Office of Parks, Recreation and Historic Preservation","access":"yes","amenity":"toilets"}]
+]}

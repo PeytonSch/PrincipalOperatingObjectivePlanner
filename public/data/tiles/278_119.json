@@ -1,0 +1,19 @@
+{"p":[
+["n11142686226","t",49.03475,-120.40291,{"access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11160162943","w",49.04505,-120.1927,{"amenity":"water_point"}],
+["n11160196363","w",49.0651,-120.2071,{"amenity":"water_point"}],
+["n12798874189","t",49.41225,-120.26204,{"operator":"BC Parks","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12798874221","t",49.41212,-120.26204,{"operator":"BC Parks","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12798874244","t",49.41405,-120.26118,{"operator":"BC Parks","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12798874245","t",49.41415,-120.26111,{"operator":"BC Parks","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4298750999","t",49.37448,-120.14593,{"operator":"Recreation Sites and Trails BC","fee":"no","access":"permissive","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4298757298","t",49.3736,-120.14494,{"operator":"Recreation Sites and Trails BC","fee":"no","access":"permissive","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4298757299","t",49.37332,-120.14462,{"operator":"Recreation Sites and Trails BC","fee":"no","access":"permissive","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4298773084","t",49.13281,-120.08884,{"operator":"BC Parks","fee":"no","access":"yes","wheelchair":"no","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4298773085","t",49.13273,-120.0889,{"operator":"BC Parks","fee":"no","access":"yes","wheelchair":"no","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4740857262","t",49.41808,-120.25796,{"operator":"BC Parks","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6413480493","t",49.38287,-120.43412,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7633205579","t",49.35755,-120.07644,{"amenity":"toilets"}],
+["n7636175746","t",49.48314,-120.48863,{"amenity":"toilets"}],
+["n7651053738","t",49.41805,-120.25789,{"operator":"BC Parks","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

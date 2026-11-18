@@ -1,0 +1,21 @@
+{"p":[
+["n10846929963","t",40.40986,-80.59642,{"amenity":"toilets"}],
+["n12382580951","t",40.44692,-80.82135,{"amenity":"toilets"}],
+["n12410390876","t",40.32913,-80.98789,{"amenity":"toilets"}],
+["n13932550671","t",40.07818,-80.73577,{"amenity":"toilets"}],
+["n476390063","t",40.09193,-80.53594,{"amenity":"toilets"}],
+["n4932421899","t",40.18627,-80.67436,{"name":"Iron Men Park","operator":"Brooke Pioneer Trail Assoc.","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4932425117","t",40.212,-80.66079,{"name":"Ruby Park","fee":"no","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1152769901","t",40.10121,-80.652,{"amenity":"toilets"}],
+["w1152769902","t",40.1011,-80.6588,{"amenity":"toilets"}],
+["w1156356582","t",40.10165,-80.63912,{"amenity":"toilets"}],
+["w1156615978","t",40.10307,-80.64225,{"amenity":"toilets"}],
+["w1194475116","t",40.09508,-80.67413,{"amenity":"toilets"}],
+["w1222502985","t",40.0524,-80.62827,{"amenity":"toilets"}],
+["w1312437372","t",40.38006,-80.6273,{"amenity":"toilets"}],
+["w1338639552","t",40.46935,-80.80854,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1338639554","t",40.46444,-80.80484,{"amenity":"toilets"}],
+["w1432108867","t",40.26311,-80.54374,{"amenity":"toilets"}],
+["w1536409671","t",40.35816,-80.61321,{"name":"Latrines","amenity":"toilets"}],
+["w915097262","t",40.07237,-80.69507,{"amenity":"toilets"}]
+]}

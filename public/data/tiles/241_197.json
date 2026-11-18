@@ -1,0 +1,23 @@
+{"p":[
+["n1068330158","t",30.92304,-81.43441,{"operator":"National Park Service","amenity":"toilets"}],
+["n11964661073","t",30.69505,-81.4487,{"amenity":"toilets"}],
+["n2413754931","t",30.75432,-81.47325,{"amenity":"toilets"}],
+["n2413754979","w",30.75429,-81.47319,{"amenity":"drinking_water"}],
+["n2413775703","t",30.76438,-81.47057,{"amenity":"toilets"}],
+["n2413820639","w",30.76416,-81.46236,{"amenity":"drinking_water"}],
+["n2413820670","w",30.7468,-81.46764,{"amenity":"drinking_water"}],
+["n2413820674","t",30.76406,-81.46237,{"amenity":"toilets"}],
+["n2413976740","t",30.70338,-81.45369,{"amenity":"toilets"}],
+["n358681372","w",30.89746,-81.44482,{"name":"Brickhill Bluff","operator":"NPS","access":"permit","wheelchair":"no","amenity":"drinking_water"}],
+["n4858738995","t",30.80576,-81.45208,{"fee":"no","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4858738996","w",30.80564,-81.45197,{"name":"Water (Non-potable)","description":"Water must be treated or boiled.","amenity":"drinking_water"}],
+["n4858758922","w",30.84257,-81.44682,{"name":"Water (Non-potable)","fee":"no","access":"yes","wheelchair":"no","amenity":"drinking_water"}],
+["n5679958181","t",30.6692,-81.43109,{"amenity":"toilets"}],
+["n6722168141","t",30.52215,-81.4447,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n8486770479","t",30.85612,-81.46493,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n8486770480","w",30.85619,-81.46498,{"drinking_water":"yes","man_made":"water_tap"}],
+["w1361731878","t",30.60347,-81.44628,{"amenity":"toilets"}],
+["w1444823648","t",30.50932,-81.4587,{"amenity":"toilets"}],
+["w301949784","t",30.74747,-81.46863,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w403515439","t",30.67096,-81.46447,{"access":"yes","wheelchair":"yes","amenity":"toilets"}]
+]}

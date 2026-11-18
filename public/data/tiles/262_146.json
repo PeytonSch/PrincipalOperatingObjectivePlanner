@@ -1,0 +1,13 @@
+{"p":[
+["n10542018150","t",41.33139,-106.72762,{"amenity":"toilets"}],
+["n10544076379","t",41.15326,-106.98063,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14244123490","t",41.46908,-106.78827,{"amenity":"toilets"}],
+["n3327953849","t",41.34282,-106.52448,{"amenity":"toilets"}],
+["n4270705313","w",41.26083,-106.57326,{"amenity":"drinking_water"}],
+["n4270705314","t",41.26129,-106.57329,{"amenity":"toilets"}],
+["n4270705315","w",41.27063,-106.58987,{"amenity":"drinking_water"}],
+["n4270705316","t",41.27096,-106.59031,{"amenity":"toilets"}],
+["n9752250629","t",41.15608,-106.9818,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w854406999","t",41.34406,-106.50452,{"amenity":"toilets"}],
+["w854407000","t",41.34463,-106.50137,{"amenity":"toilets"}]
+]}

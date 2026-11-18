@@ -1,0 +1,14 @@
+{"p":[
+["n11668379670","w",36.608,-117.14447,{"access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n11932333310","t",36.60602,-117.11549,{"fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14028587811","w",36.96329,-117.36805,{"drinking_water":"yes","amenity":"drinking_water","man_made":"water_well"}],
+["n2696517350","t",36.60602,-117.11557,{"fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2755524628","t",36.64848,-117.04287,{"amenity":"toilets"}],
+["n4610761326","t",36.60692,-117.14668,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n6425649277","w",36.99613,-117.36611,{"amenity":"drinking_water"}],
+["w1151560266","t",36.96244,-117.36972,{"operator":"National Park Service","amenity":"toilets"}],
+["w1151560267","t",36.96275,-117.36782,{"name":"Public Bathroom","operator":"National Park Service","amenity":"toilets"}],
+["w198732325","t",36.60743,-117.14793,{"access":"yes","amenity":"toilets"}],
+["w270523786","t",36.82209,-117.17402,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w685635299","t",36.9961,-117.36625,{"wheelchair":"yes","amenity":"toilets"}]
+]}

@@ -1,0 +1,19 @@
+{"p":[
+["n10263249920","t",44.46647,-90.72408,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n10927647571","t",44.14767,-90.52281,{"amenity":"toilets"}],
+["n10927647584","t",44.15061,-90.5199,{"amenity":"toilets"}],
+["n11092985564","t",44.06088,-90.86786,{"amenity":"toilets"}],
+["n11161095563","t",44.01914,-90.50299,{"amenity":"toilets"}],
+["n11161095564","t",44.01914,-90.50302,{"amenity":"toilets"}],
+["n2351682661","w",44.22613,-90.70735,{"description":"rest area SE of Black River Falls, WI","amenity":"drinking_water"}],
+["n2411262966","t",44.24722,-90.73803,{"fee":"no","amenity":"toilets"}],
+["n2411273416","t",44.22605,-90.70759,{"amenity":"toilets"}],
+["n7233516021","t",44.13311,-90.50701,{"amenity":"toilets"}],
+["n8047464151","t",44.28549,-90.7132,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8047464164","t",44.29474,-90.72811,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8047464166","w",44.29412,-90.72883,{"drinking_water":"yes","man_made":"water_tap"}],
+["n8758971925","t",44.47708,-90.72391,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1176080154","t",44.15057,-90.52494,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1176080155","t",44.15058,-90.5246,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w808074760","t",44.28306,-90.82936,{"amenity":"toilets"}]
+]}

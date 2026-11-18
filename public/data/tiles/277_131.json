@@ -1,0 +1,20 @@
+{"p":[
+["n11233678394","t",48.62839,-114.38868,{"operator":"Flathead National Forest","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12108699009","t",48.56904,-114.13043,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12128109792","t",48.7826,-114.28331,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12179278190","t",48.96498,-114.06765,{"unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n14301003560","t",48.60061,-114.13433,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5895124087","t",48.5985,-114.16384,{"amenity":"toilets"}],
+["n9973484278","t",48.54489,-114.00257,{"access":"customers","amenity":"toilets"}],
+["w1199530593","t",48.87427,-114.37417,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w83325949","t",48.69845,-114.19191,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w83325976","t",48.82939,-114.20122,{"amenity":"toilets"}],
+["w83326006","t",48.96043,-114.42182,{"amenity":"toilets"}],
+["w83326152","t",48.82942,-114.20383,{"amenity":"toilets"}],
+["w83326168","t",48.83012,-114.20317,{"amenity":"toilets"}],
+["w83326335","t",48.69747,-114.1931,{"description":"Outhouse","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w83326339","t",48.82894,-114.20259,{"amenity":"toilets"}],
+["w83326472","t",48.936,-114.34581,{"amenity":"toilets"}],
+["w83326575","t",48.72286,-114.22403,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w83326725","t",48.82834,-114.20072,{"amenity":"toilets"}]
+]}

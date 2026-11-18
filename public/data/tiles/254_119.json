@@ -1,0 +1,18 @@
+{"p":[
+["n10932508087","t",37.3705,-120.42903,{"amenity":"toilets"}],
+["n4868814811","w",37.43096,-120.09818,{"bottle":"yes","indoor":"no","amenity":"drinking_water"}],
+["n4868814812","t",37.43097,-120.09812,{"description":"Portable toilets.","amenity":"toilets"}],
+["n677606573","t",37.32109,-120.48502,{"wheelchair":"yes","amenity":"toilets"}],
+["w1220613043","t",37.36539,-120.4174,{"wheelchair":"yes","amenity":"toilets"}],
+["w311716442","t",37.29455,-120.44781,{"description":"Restroom","amenity":"toilets"}],
+["w311716675","t",37.30533,-120.4519,{"amenity":"toilets"}],
+["w311716705","t",37.31249,-120.48494,{"amenity":"toilets"}],
+["w311718060","t",37.32429,-120.45223,{"description":"Restroom","amenity":"toilets"}],
+["w311718298","t",37.29256,-120.4484,{"description":"Restroom","amenity":"toilets"}],
+["w311719044","t",37.28849,-120.47897,{"description":"Restrooms","amenity":"toilets"}],
+["w311719796","t",37.2838,-120.47606,{"description":"Restrooms","amenity":"toilets"}],
+["w311720232","t",37.32505,-120.48761,{"description":"Restroom","amenity":"toilets"}],
+["w311722990","t",37.29341,-120.48712,{"description":"Restroom","amenity":"toilets"}],
+["w875685208","t",37.37236,-120.42705,{"amenity":"toilets"}],
+["w875685220","t",37.37442,-120.42389,{"amenity":"toilets"}]
+]}

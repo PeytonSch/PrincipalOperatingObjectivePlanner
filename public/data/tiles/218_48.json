@@ -1,0 +1,18 @@
+{"p":[
+["n11208800584","t",19.06118,-155.58589,{"amenity":"toilets"}],
+["n11575740465","t",19.46645,-155.58154,{"amenity":"toilets"}],
+["n2553418272","t",19.47512,-155.9191,{"amenity":"toilets"}],
+["n3539654787","t",19.13407,-155.50523,{"amenity":"toilets"}],
+["n3615855138","t",19.08444,-155.77691,{"description":"The men’s restroom has been broken for a while, so the building management decided to change the woman’s toilet into a unisex restroom, with the sign saying “Woman”, with “and Men” etched underneath.","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n3944508480","t",19.43454,-155.88803,{"access":"yes","amenity":"toilets"}],
+["n3944508497","t",19.43474,-155.88793,{"access":"yes","amenity":"toilets"}],
+["n4328538791","t",19.42141,-155.91028,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n4328579689","w",19.42143,-155.91034,{"amenity":"drinking_water"}],
+["n4548734989","w",19.13409,-155.5053,{"amenity":"drinking_water"}],
+["n5452398725","t",19.11519,-155.53156,{"amenity":"toilets"}],
+["n5455427723","t",19.13658,-155.50321,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n5646136335","t",19.38622,-155.51069,{"amenity":"toilets"}],
+["n5984227683","t",19.44644,-155.87968,{"access":"customers","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1137975278","t",19.06401,-155.67856,{"amenity":"toilets"}],
+["w494626314","t",19.38028,-155.89841,{"access":"yes","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

@@ -1,0 +1,9 @@
+{"p":[
+["n650850972","t",36.57255,-79.36448,{"operator":"Virginia DOT","fee":"no","amenity":"toilets"}],
+["n650904574","t",36.52132,-79.47519,{"operator":"NC DOT","fee":"no","amenity":"toilets"}],
+["w469216555","t",36.5886,-79.38947,{"name":"Public Bathroom","operator":"City of Danville","access":"permissive","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w471240332","t",36.55891,-79.35595,{"unisex":"yes","amenity":"toilets"}],
+["w473039587","t",36.57451,-79.43492,{"amenity":"toilets"}],
+["w473072406","t",36.57599,-79.42522,{"amenity":"toilets"}],
+["w775142503","t",36.53876,-79.20642,{"amenity":"toilets"}]
+]}

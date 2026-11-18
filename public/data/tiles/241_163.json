@@ -1,0 +1,20 @@
+{"p":[
+["n11351464296","t",30.76473,-98.45457,{"amenity":"toilets"}],
+["n11351464298","t",30.765,-98.45378,{"amenity":"toilets"}],
+["n11793927024","w",30.79343,-98.35095,{"name":"Water refill station at Texas Eclipse","amenity":"drinking_water"}],
+["n11805155182","t",30.75572,-98.23054,{"amenity":"toilets"}],
+["n12874008796","t",30.61206,-98.15061,{"wheelchair":"yes","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["n13354644995","t",30.55018,-98.32583,{"amenity":"toilets"}],
+["n13354644996","w",30.55019,-98.3258,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n3381605255","t",30.58511,-98.17032,{"name":"Office Restroom","amenity":"toilets"}],
+["n3382150496","t",30.59623,-98.16426,{"amenity":"toilets"}],
+["n3382150498","t",30.61262,-98.15044,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1215099173","t",30.57163,-98.27729,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1249375161","t",30.73573,-98.37235,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1363943760","t",30.7343,-98.3748,{"access":"customers","amenity":"toilets"}],
+["w1364115298","t",30.72425,-98.36431,{"amenity":"toilets"}],
+["w1364115300","t",30.73392,-98.35831,{"amenity":"toilets"}],
+["w1365204227","t",30.74307,-98.36225,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1448064983","t",30.62025,-98.07392,{"access":"yes","amenity":"toilets"}],
+["w523666539","t",30.75773,-98.22323,{"amenity":"toilets"}]
+]}

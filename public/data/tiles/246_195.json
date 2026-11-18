@@ -1,0 +1,11 @@
+{"p":[
+["n13936446148","w",33.45707,-82.2032,{"operator":"City of Grovetown Leisure and Recreation Department","fee":"no","access":"yes","wheelchair":"no","bottle":"no","seasonal":"no","indoor":"no","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n13936446154","w",33.45721,-82.20305,{"operator":"City of Grovetown Leisure and Recreation Department","fee":"no","access":"yes","wheelchair":"no","bottle":"no","seasonal":"no","indoor":"no","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n5303467315","t",33.45659,-82.23139,{"amenity":"toilets"}],
+["w1443731025","t",33.49962,-82.32785,{"amenity":"toilets"}],
+["w1443763703","t",33.49796,-82.33575,{"amenity":"toilets"}],
+["w562626869","t",33.46364,-82.24849,{"amenity":"toilets"}],
+["w598224234","t",33.45656,-82.23142,{"amenity":"toilets"}],
+["w677889623","t",33.4582,-82.20236,{"operator":"City of Grovetown Leisure and Recreation Department","opening_hours":"dawn-dusk","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w853991813","t",33.43057,-82.05195,{"amenity":"toilets"}]
+]}

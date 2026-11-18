@@ -1,0 +1,16 @@
+{"p":[
+["n13046892874","t",46.94365,-116.65114,{"changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13046892875","t",46.94356,-116.64875,{"changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3735705607","t",46.50677,-116.54925,{"amenity":"toilets"}],
+["n5104431672","t",46.74082,-116.98642,{"fee":"no","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n6632189485","t",46.7155,-116.855,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6632189487","t",46.72107,-116.96264,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8143341304","t",46.80075,-116.95362,{"wheelchair":"yes","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["n8459419668","t",46.7453,-116.99408,{"wheelchair":"yes","amenity":"toilets"}],
+["n9139870130","w",46.74349,-116.97223,{"fee":"no","amenity":"drinking_water"}],
+["w1306976358","t",46.80007,-116.56066,{"name":"Restroom","access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1513160992","t",46.92427,-116.90446,{"amenity":"toilets"}],
+["w255768973","t",46.73825,-116.9746,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w536136887","t",46.74568,-116.98991,{"name":"Jim LaFortune Memorial Groover","amenity":"toilets"}],
+["w879990307","t",46.7865,-116.75574,{"amenity":"toilets"}]
+]}

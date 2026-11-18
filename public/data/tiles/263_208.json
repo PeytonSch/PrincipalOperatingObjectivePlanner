@@ -1,0 +1,20 @@
+{"p":[
+["n1325639680","t",41.98379,-75.74844,{"access":"yes","amenity":"toilets"}],
+["n1784239602","t",41.5635,-75.70883,{"amenity":"toilets"}],
+["n1784239652","t",41.55997,-75.7141,{"amenity":"toilets"}],
+["n1784316333","t",41.56096,-75.7158,{"amenity":"toilets"}],
+["n1784316456","t",41.55728,-75.7162,{"amenity":"toilets"}],
+["n1784323322","w",41.56121,-75.71464,{"amenity":"drinking_water"}],
+["n1784323323","w",41.56182,-75.7144,{"amenity":"drinking_water"}],
+["n2318892773","w",41.89366,-75.66576,{"amenity":"drinking_water"}],
+["n2318892961","t",41.89483,-75.66535,{"amenity":"toilets"}],
+["n4110449650","t",41.55436,-75.70521,{"operator":"Lackawanna State Park","fee":"no","amenity":"toilets"}],
+["n5538223682","w",41.71447,-75.89048,{"amenity":"drinking_water"}],
+["n7524694465","t",41.91204,-75.86588,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w223591713","t",41.67393,-75.68273,{"amenity":"toilets"}],
+["w365443226","t",41.56348,-75.7089,{"fee":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w487511517","t",41.56517,-75.71068,{"amenity":"toilets"}],
+["w487512654","t",41.5573,-75.71621,{"amenity":"toilets"}],
+["w584913190","t",41.59984,-75.71578,{"amenity":"toilets"}],
+["w970796502","t",41.97459,-75.75158,{"amenity":"toilets"}]
+]}

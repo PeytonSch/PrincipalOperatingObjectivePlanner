@@ -1,0 +1,18 @@
+{"p":[
+["n12978655288","t",41.26884,-84.39921,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n12978680948","t",41.27068,-84.392,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n5339928511","t",41.38041,-84.1445,{"amenity":"toilets"}],
+["n5646164830","t",41.3809,-84.14398,{"amenity":"toilets"}],
+["n5646282021","t",41.32474,-84.19684,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n5646283322","w",41.32514,-84.19612,{"amenity":"drinking_water"}],
+["n5646661722","w",41.36441,-84.15445,{"amenity":"drinking_water"}],
+["n5647646921","t",41.29209,-84.27933,{"amenity":"toilets"}],
+["n5676656797","w",41.38218,-84.13913,{"amenity":"drinking_water"}],
+["n6299354321","t",41.39204,-84.1181,{"amenity":"toilets"}],
+["n6299354322","w",41.39207,-84.11811,{"amenity":"drinking_water"}],
+["w285707085","t",41.03161,-84.08007,{"operator":"Village of Glandorf","fee":"no","access":"yes","amenity":"toilets"}],
+["w287071877","t",41.01648,-84.02612,{"operator":"Putnam County Fairgrounds","fee":"no","access":"yes","amenity":"toilets"}],
+["w287272319","t",41.0173,-84.02833,{"operator":"Putnam County Fairgrounds","fee":"no","access":"yes","amenity":"toilets"}],
+["w521950747","t",41.3822,-84.13916,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w667894910","t",41.29499,-84.29145,{"amenity":"toilets"}]
+]}

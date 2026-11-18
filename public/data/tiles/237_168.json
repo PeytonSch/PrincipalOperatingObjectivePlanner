@@ -1,0 +1,11 @@
+{"p":[
+["n14100138807","t",28.97099,-95.98148,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["n5311465127","t",28.78825,-95.99702,{"operator":"County","fee":"no","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n5312641664","t",28.59774,-95.97714,{"operator":"LCRA","fee":"no","access":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n5406271731","t",28.60142,-95.97813,{"amenity":"toilets"}],
+["w560604558","t",28.69255,-95.95787,{"amenity":"toilets"}],
+["w561407382","t",28.98717,-95.98209,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w570791843","t",28.98649,-95.97418,{"amenity":"toilets"}],
+["w636163408","t",28.77117,-95.61442,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w636165060","t",28.76342,-95.63003,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

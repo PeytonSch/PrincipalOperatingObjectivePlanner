@@ -1,0 +1,23 @@
+{"p":[
+["n12859908381","t",39.32085,-121.84489,{"unisex":"yes","amenity":"toilets"}],
+["n12861928038","t",39.3236,-121.83822,{"access":"yes","wheelchair":"no","amenity":"toilets"}],
+["n12861928039","t",39.3236,-121.83825,{"access":"yes","wheelchair":"no","amenity":"toilets"}],
+["n12861928040","t",39.32363,-121.83824,{"access":"yes","wheelchair":"no","amenity":"toilets"}],
+["n13621055011","w",39.27573,-121.6601,{"amenity":"drinking_water"}],
+["n13624026015","w",39.27191,-121.66557,{"amenity":"drinking_water"}],
+["n13624026109","w",39.27191,-121.6651,{"amenity":"drinking_water"}],
+["n13655676311","w",39.27427,-121.66174,{"amenity":"drinking_water"}],
+["n2267364308","t",39.23199,-121.84647,{"amenity":"toilets"}],
+["n4337928914","w",39.27021,-121.67567,{"amenity":"drinking_water"}],
+["n4337928915","w",39.2701,-121.67541,{"amenity":"drinking_water"}],
+["n4337928919","w",39.26994,-121.67519,{"amenity":"drinking_water"}],
+["n6820084685","w",39.46814,-121.63239,{"name":"Larkin Road Boat Launch","amenity":"water_point"}],
+["n7021286035","w",39.26372,-121.66805,{"amenity":"drinking_water"}],
+["n9457826822","t",39.47816,-121.89761,{"access":"yes","amenity":"toilets"}],
+["n9495160341","t",39.32358,-121.8382,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w1389207286","t",39.3175,-121.7997,{"description":"Bathrooms are not always open","amenity":"toilets"}],
+["w1553092198","t",39.47502,-121.61709,{"opening_hours":"sunrise-sunset","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w545129999","t",39.1029,-121.6486,{"amenity":"toilets"}],
+["w545130001","t",39.10251,-121.64872,{"amenity":"toilets"}],
+["w751005852","t",39.26374,-121.668,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

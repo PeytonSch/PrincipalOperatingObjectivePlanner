@@ -1,0 +1,21 @@
+{"p":[
+["n1445022130","t",24.8132,-107.39954,{"amenity":"toilets"}],
+["n2741292228","t",24.82707,-107.38046,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n2741292231","t",24.8272,-107.37986,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n2741292356","t",24.82656,-107.38064,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n2968245235","t",24.82405,-107.38477,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n4049336397","t",24.82534,-107.38429,{"amenity":"toilets"}],
+["n4049336398","t",24.82442,-107.38737,{"amenity":"toilets"}],
+["n4377408095","t",24.57055,-107.43,{"amenity":"toilets"}],
+["n4513977789","w",24.78802,-107.43247,{"name":"Agua Modelo","amenity":"drinking_water"}],
+["n4690729292","t",24.80967,-107.39323,{"amenity":"toilets"}],
+["n5272747771","t",24.75401,-107.43868,{"amenity":"toilets"}],
+["n5488943121","w",24.81368,-107.14962,{"name":"Inicio Kayak","amenity":"drinking_water"}],
+["w1232291495","t",24.81601,-107.44953,{"amenity":"toilets"}],
+["w284386467","t",24.76833,-107.38585,{"amenity":"toilets"}],
+["w292250850","t",24.8132,-107.39955,{"amenity":"toilets"}],
+["w404133180","t",24.71656,-107.34377,{"amenity":"toilets"}],
+["w617457710","t",24.82576,-107.36517,{"amenity":"toilets"}],
+["w617670605","t",24.85866,-107.3973,{"amenity":"toilets"}],
+["w618127207","t",24.7224,-107.34378,{"amenity":"toilets"}]
+]}

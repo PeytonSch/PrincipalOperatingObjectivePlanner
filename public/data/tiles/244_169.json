@@ -1,0 +1,16 @@
+{"p":[
+["n1251308438","t",32.31398,-95.29412,{"amenity":"toilets"}],
+["n12923726541","t",32.31235,-95.27777,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n12923726542","t",32.31237,-95.2777,{"changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13603998012","t",32.42589,-95.21299,{"operator":"UT Health","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13603998013","t",32.42589,-95.21303,{"operator":"UT Health","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n6346181026","t",32.3006,-95.30297,{"amenity":"toilets"}],
+["n6346181027","t",32.30004,-95.30297,{"amenity":"toilets"}],
+["w1115443130","t",32.27708,-95.31862,{"amenity":"toilets"}],
+["w1115458639","t",32.17801,-95.32448,{"amenity":"toilets"}],
+["w1148092457","t",32.47928,-95.28741,{"opening_hours":"24/7","fee":"no","wheelchair":"yes","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["w1148092459","t",32.47811,-95.29084,{"unisex":"yes","amenity":"toilets"}],
+["w1148092460","t",32.47812,-95.29303,{"wheelchair":"no","unisex":"yes","amenity":"toilets"}],
+["w1239218225","t",32.11638,-95.443,{"amenity":"toilets"}],
+["w400254475","t",32.47461,-95.29208,{"wheelchair":"yes","unisex":"yes","amenity":"toilets"}]
+]}

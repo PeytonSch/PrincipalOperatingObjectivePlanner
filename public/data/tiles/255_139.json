@@ -1,0 +1,10 @@
+{"p":[
+["n11226005037","w",37.87638,-110.38416,{"name":"Potable water tap near RV dump and fish cleaning station","amenity":"drinking_water"}],
+["w1130771666","t",37.59808,-110.02662,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1202589876","t",37.96265,-110.49105,{"access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1378933207","t",37.91012,-110.3982,{"amenity":"toilets"}],
+["w1378933208","t",37.90127,-110.39877,{"amenity":"toilets"}],
+["w1378933209","t",37.90259,-110.3992,{"amenity":"toilets"}],
+["w1378933210","t",37.88839,-110.40039,{"amenity":"toilets"}],
+["w1378933211","t",37.88841,-110.40044,{"amenity":"toilets"}]
+]}

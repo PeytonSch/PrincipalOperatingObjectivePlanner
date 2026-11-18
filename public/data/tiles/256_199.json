@@ -1,0 +1,20 @@
+{"p":[
+["n10914063689","t",38.19813,-80.27504,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12029251006","t",38.0101,-80.30903,{"access":"yes","amenity":"toilets"}],
+["n12029251007","w",38.01014,-80.30927,{"fee":"yes","access":"yes","amenity":"drinking_water"}],
+["n12033559909","t",38.15876,-80.14009,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12033559923","t",38.21033,-80.09968,{"access":"yes","amenity":"toilets"}],
+["n12033559925","w",38.2103,-80.09965,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n12035808690","t",38.2746,-80.01684,{"description":"Includes hand sanitizer.","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13362748453","t",38.34052,-80.16456,{"amenity":"toilets"}],
+["n2748558630","t",38.00594,-80.00952,{"name":"Bathhouse","fee":"no","amenity":"toilets"}],
+["n2748558753","t",38.00682,-80.01108,{"amenity":"toilets"}],
+["n2930507937","t",38.19782,-80.27543,{"amenity":"toilets"}],
+["n6765374740","t",38.17831,-80.33907,{"amenity":"toilets"}],
+["n7876489220","t",38.08055,-80.13961,{"changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7876489221","t",38.0802,-80.14153,{"changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1298554107","t",38.03278,-80.23968,{"access":"yes","amenity":"toilets"}],
+["w720038001","t",38.11783,-80.11039,{"amenity":"toilets"}],
+["w720038002","t",38.11692,-80.11973,{"wheelchair":"no","amenity":"toilets"}],
+["w844398698","t",38.11045,-80.17677,{"amenity":"toilets"}]
+]}

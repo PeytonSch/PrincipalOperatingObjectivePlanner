@@ -1,0 +1,22 @@
+{"p":[
+["n11300923920","t",39.21271,-114.96931,{"amenity":"toilets"}],
+["n12389161786","t",39.03753,-114.84625,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7055247587","t",39.18761,-114.69048,{"amenity":"toilets"}],
+["n770813666","t",39.18698,-114.68926,{"amenity":"toilets"}],
+["w1210666531","t",39.10207,-114.76001,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1235079329","t",39.21468,-114.5415,{"operator":"Bureau of Land Management","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1235079330","t",39.21427,-114.5435,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1235129779","t",39.49571,-114.64645,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1235129780","t",39.49575,-114.65358,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1235468293","t",39.28312,-114.94984,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1235953256","t",39.22278,-114.9701,{"operator":"Bureau of Land Management","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1235959171","t",39.21039,-114.96577,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1236096002","t",39.40184,-114.63851,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1236096003","t",39.40148,-114.63438,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1236096004","t",39.40071,-114.62976,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1236409621","t",39.19187,-114.69265,{"amenity":"toilets"}],
+["w1236409626","t",39.19446,-114.69593,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1236741630","t",39.46353,-114.65481,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w755277409","t",39.1906,-114.69421,{"amenity":"toilets"}],
+["w879511425","t",39.18676,-114.71707,{"amenity":"toilets"}]
+]}

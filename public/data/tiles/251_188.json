@@ -1,0 +1,11 @@
+{"p":[
+["n14294681829","t",35.67347,-85.8206,{"fee":"no","changing_table":"no","toilets:disposal":"flush","indoor":"yes","amenity":"toilets"}],
+["n14294681830","t",35.67347,-85.82058,{"fee":"no","changing_table":"no","toilets:disposal":"flush","indoor":"yes","amenity":"toilets"}],
+["n14306614746","w",35.68182,-85.78109,{"bottle":"yes","amenity":"drinking_water"}],
+["n7615714485","w",35.88333,-85.67289,{"name":"Center Hill Lake - Pate's Ford Marina & Fishlipz Grill","opening_hours":"Fr-Sa 09:00-19:00; Su-Th 09:00-17:00","amenity":"water_point"}],
+["w1237291765","t",35.68151,-85.78109,{"opening_hours":"Mo-Sa dawn-20:00; Su dawn-18:00","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1567714382","t",35.67362,-85.77845,{"name":"Pepper Branch Bathrooms","opening_hours":"Mo-Sa dawn-20:00; Su dawn-18:00","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w1571738045","t",35.69131,-85.78729,{"toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w264732133","t",35.69157,-85.78711,{"access":"customers","amenity":"toilets"}],
+["w917170702","t",35.66627,-85.68386,{"access":"permissive","wheelchair":"no","amenity":"toilets"}]
+]}

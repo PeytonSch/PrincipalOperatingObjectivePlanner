@@ -1,0 +1,11 @@
+{"p":[
+["n10990145664","t",59.62267,-151.19596,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n10990145666","t",59.60843,-151.14075,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2049285421","t",59.60809,-151.43674,{"operator":"City of Homer","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n2923752449","t",59.66052,-151.1441,{"amenity":"toilets"}],
+["n3601376777","w",59.60997,-151.44167,{"drinking_water":"yes","amenity":"water_point","man_made":"water_tap"}],
+["w217510370","t",59.60228,-151.42248,{"fee":"no","access":"yes","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["w435753387","t",59.60803,-151.42803,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w593196740","t",59.60611,-151.43246,{"operator":"City of Homer","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w604069445","t",59.60415,-151.42816,{"operator":"City of Homer","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

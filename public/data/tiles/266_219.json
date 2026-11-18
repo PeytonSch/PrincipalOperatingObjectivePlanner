@@ -1,0 +1,13 @@
+{"p":[
+["n12135590413","t",43.39898,-70.41697,{"amenity":"toilets"}],
+["n12919310909","t",43.36201,-70.47705,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4853657933","t",43.4754,-70.38706,{"amenity":"toilets"}],
+["n9443100241","t",43.47338,-70.40979,{"amenity":"toilets"}],
+["n9454301886","t",43.48565,-70.47385,{"amenity":"toilets"}],
+["n9522777139","t",43.47134,-70.38717,{"amenity":"toilets"}],
+["n9522777169","t",43.4709,-70.38637,{"amenity":"toilets"}],
+["w1431375074","t",43.44284,-70.35188,{"name":"Pool Beach Bathhouse","access":"yes","wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["w1460347707","t",43.485,-70.38605,{"unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w788922155","t",43.34394,-70.49964,{"wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w857310461","t",43.4881,-70.44829,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

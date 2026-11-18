@@ -1,0 +1,15 @@
+{"p":[
+["n12133297594","w",36.69255,-79.87137,{"fee":"no","access":"yes","wheelchair":"yes","bottle":"no","indoor":"no","amenity":"drinking_water"}],
+["n12133792915","t",36.69166,-79.85777,{"fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n12290838790","t",36.97044,-79.9393,{"access":"yes","amenity":"toilets"}],
+["n12290928509","t",36.96959,-79.94191,{"access":"yes","amenity":"toilets"}],
+["n12290928542","t",36.96683,-79.94086,{"access":"yes","amenity":"toilets"}],
+["n12409540169","t",36.61045,-79.8168,{"wheelchair":"limited","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1092977720","t",36.9778,-79.59492,{"amenity":"toilets"}],
+["w1310787294","t",36.69252,-79.87134,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1310828105","t",36.70358,-79.87543,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1310998915","t",36.6353,-79.82528,{"operator":"Henry County Parks & Recreation","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1311004940","t",36.66113,-79.83096,{"operator":"Henry County Parks & Recreation","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w469431948","t",36.74571,-79.8705,{"amenity":"toilets"}],
+["w581022755","t",36.63832,-79.82587,{"fee":"no","access":"yes","amenity":"toilets"}]
+]}

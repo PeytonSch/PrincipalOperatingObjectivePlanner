@@ -1,0 +1,20 @@
+{"p":[
+["n10862270366","t",46.2589,-85.87125,{"amenity":"toilets"}],
+["n11187020330","t",46.23183,-85.92818,{"fee":"no","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11397776508","t",46.30365,-85.56854,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11397874096","t",46.31105,-85.53158,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14183508719","t",46.03928,-85.59406,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14183508720","t",46.04044,-85.59356,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14183508721","t",46.04,-85.59282,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3723647980","t",46.35407,-85.96338,{"name":"Pit Toilets","amenity":"toilets"}],
+["n5424857131","t",46.40685,-85.94498,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1229052026","t",46.30365,-85.56855,{"amenity":"toilets"}],
+["w1229054015","t",46.31105,-85.53158,{"amenity":"toilets"}],
+["w1539564948","t",46.37039,-85.5106,{"amenity":"toilets"}],
+["w422981382","t",46.06764,-85.9576,{"amenity":"toilets"}],
+["w422981387","t",46.23183,-85.92818,{"amenity":"toilets"}],
+["w428724569","t",46.31005,-85.58994,{"amenity":"toilets"}],
+["w428724571","t",46.31001,-85.59006,{"amenity":"toilets"}],
+["w910615599","t",46.28887,-85.94696,{"description":"Open May to October.","access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w910615602","t",46.29171,-85.93431,{"access":"yes","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

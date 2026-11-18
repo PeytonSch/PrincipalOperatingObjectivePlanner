@@ -1,0 +1,10 @@
+{"p":[
+["n13039634111","t",32.64168,-87.86829,{"amenity":"toilets"}],
+["n13894296201","t",32.51829,-87.83854,{"amenity":"toilets"}],
+["n8195362281","t",32.55279,-87.87673,{"access":"permissive","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n8195370448","w",32.55221,-87.87592,{"drinking_water":"yes","man_made":"water_tap"}],
+["n8195370449","w",32.55249,-87.87702,{"drinking_water":"yes","man_made":"water_tap"}],
+["w1231414675","t",32.89513,-87.78125,{"amenity":"toilets"}],
+["w456128604","t",32.84457,-87.95206,{"operator":"Greene County Rest Area - I 59 Northbound","opening_hours":"24/7","access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w456130776","t",32.85753,-87.94121,{"operator":"Greene County Rest Area - I 59 Southbound","opening_hours":"24/7","amenity":"toilets"}]
+]}

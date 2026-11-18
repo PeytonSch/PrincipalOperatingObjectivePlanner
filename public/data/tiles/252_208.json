@@ -1,0 +1,23 @@
+{"p":[
+["n11987627964","w",36.02059,-75.66742,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n11997136034","w",36.16506,-75.75369,{"access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n11997585383","w",36.01454,-75.67019,{"access":"yes","wheelchair":"limited","amenity":"drinking_water"}],
+["n12023222838","t",36.32558,-75.81887,{"access":"yes","amenity":"toilets"}],
+["n12023222842","t",36.32514,-75.81852,{"access":"yes","amenity":"toilets"}],
+["n12742161545","t",36.16221,-75.75168,{"access":"yes","amenity":"toilets"}],
+["n13694213499","t",36.0143,-75.67104,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n14073427343","w",36.2607,-75.786,{"operator":"Pine Island Owner's Association","access":"residents","bottle":"no","indoor":"no","amenity":"drinking_water"}],
+["n14084660939","w",36.37587,-75.83081,{"fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n14084660940","t",36.37587,-75.83083,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4117771193","t",36.02066,-75.6675,{"wheelchair":"yes","amenity":"toilets"}],
+["n4346173227","t",36.37397,-75.82815,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["n5721645526","t",36.16511,-75.7537,{"operator":"Town of Duck, NC","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["n5849447287","t",36.01867,-75.66701,{"amenity":"toilets"}],
+["n6037745845","t",36.30474,-75.9305,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n812669937","w",36.1927,-75.7614,{"amenity":"drinking_water"}],
+["n9930137273","t",36.39649,-75.98398,{"amenity":"toilets"}],
+["w515554967","t",36.06632,-75.69037,{"amenity":"toilets"}],
+["w603536990","t",36.17515,-75.74857,{"operator":"Barrier Island Resort","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w692334043","t",36.11203,-75.82864,{"amenity":"toilets"}],
+["w692337779","t",36.11063,-75.82722,{"amenity":"toilets"}]
+]}

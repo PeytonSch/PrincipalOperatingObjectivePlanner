@@ -1,0 +1,10 @@
+{"p":[
+["n2317352313","t",30.51251,-98.82571,{"name":"Composting toilet","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3956832793","t",30.50607,-98.83009,{"name":"Composting toilet","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3957569445","t",30.50558,-98.82236,{"name":"Composting toilet","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4033995589","t",30.50184,-98.81378,{"access":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w1327040824","t",30.5102,-98.80405,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1327040825","t",30.51136,-98.81129,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w407403785","t",30.75147,-98.67494,{"amenity":"toilets"}],
+["w931883595","t",30.75108,-98.70653,{"access":"yes","amenity":"toilets"}]
+]}

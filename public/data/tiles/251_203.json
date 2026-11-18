@@ -1,0 +1,21 @@
+{"p":[
+["n13175690289","t",35.83243,-78.39106,{"access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n13334427165","t",35.5077,-78.31699,{"access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13609684678","t",35.6793,-78.38169,{"access":"yes","amenity":"toilets"}],
+["n13609684687","w",35.67931,-78.38166,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n4417954376","t",35.68687,-78.48706,{"amenity":"toilets"}],
+["n5205033732","t",35.81875,-78.3093,{"amenity":"toilets"}],
+["n5486357421","t",35.53608,-78.25221,{"amenity":"toilets"}],
+["n5486357521","t",35.53813,-78.2513,{"amenity":"toilets"}],
+["n5631817861","t",35.66251,-78.44217,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n9228907546","t",35.79427,-78.47443,{"access":"yes","wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n9228907547","t",35.79529,-78.47188,{"access":"yes","wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n9247079234","w",35.79533,-78.47188,{"operator":"Knightdale Parks & Recreation","fee":"no","bottle":"yes","indoor":"no","amenity":"drinking_water"}],
+["n9247079235","w",35.79425,-78.47447,{"operator":"Knightdale Parks & Recreation","fee":"no","access":"yes","bottle":"yes","indoor":"no","amenity":"drinking_water"}],
+["w1116574117","t",35.66038,-78.46429,{"access":"yes","amenity":"toilets"}],
+["w180893584","t",35.92204,-78.46068,{"amenity":"toilets"}],
+["w446337756","t",35.78305,-78.38111,{"amenity":"toilets"}],
+["w968260461","t",35.6997,-78.12357,{"amenity":"toilets"}],
+["w975766219","t",35.63896,-78.41737,{"amenity":"toilets"}],
+["w975766221","t",35.63845,-78.41779,{"fee":"no","access":"yes","amenity":"toilets"}]
+]}

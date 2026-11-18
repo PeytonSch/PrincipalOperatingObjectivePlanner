@@ -1,0 +1,12 @@
+{"p":[
+["n11959265100","t",35.32748,-84.17673,{"access":"yes","amenity":"toilets"}],
+["n12930406099","t",35.31405,-84.1259,{"name":"North River Checking Station","description":"The North River Checking Station offers the only potable water along the Tellico River Corridor. Sanitary RV Dump Station is also available at this site.","opening_hours":"06:00-22:00","fee":"no","access":"yes","amenity":"toilets"}],
+["n14057368991","t",35.03522,-84.42915,{"amenity":"toilets"}],
+["n14057368992","t",35.03526,-84.42916,{"amenity":"toilets"}],
+["n2644472800","t",35.0757,-84.48392,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n356894937","t",35.20091,-84.46715,{"name":"Big Bend Recreation Area","amenity":"toilets"}],
+["n5025126661","t",35.19498,-84.44998,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5025126662","t",35.19473,-84.44993,{"name":"Towee Creek Picnic area","amenity":"toilets"}],
+["n5028786630","t",35.16009,-84.46833,{"amenity":"toilets"}],
+["w653486398","t",35.06528,-84.16356,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

@@ -1,0 +1,7 @@
+{"p":[
+["n10004853076","t",34.63299,-120.53022,{"amenity":"toilets"}],
+["n6656587935","t",34.96521,-120.65014,{"fee":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8735451128","t",34.51026,-120.50118,{"operator":"Santa Barbara County Parks","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n8735451129","t",34.51077,-120.50168,{"operator":"Santa Barbara County Parks","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1559220379","t",34.6829,-120.6046,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

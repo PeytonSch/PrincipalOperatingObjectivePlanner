@@ -1,0 +1,19 @@
+{"p":[
+["n10297622192","t",36.97691,-76.62785,{"access":"yes","amenity":"toilets"}],
+["n10297622193","t",36.97693,-76.62784,{"access":"yes","amenity":"toilets"}],
+["n5883268072","t",36.85138,-76.56893,{"amenity":"toilets"}],
+["n5886048236","t",36.86443,-76.57121,{"amenity":"toilets"}],
+["n8518672608","t",36.824,-76.50073,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["n8526600731","t",36.98956,-76.62914,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["n8735949928","t",36.96163,-76.56393,{"amenity":"toilets"}],
+["n9168290109","t",36.84297,-76.62663,{"access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n9168421511","t",36.80905,-76.61883,{"access":"yes","wheelchair":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n9176236634","w",36.95608,-76.61998,{"amenity":"drinking_water"}],
+["n9176236635","t",36.95606,-76.61998,{"access":"destination","amenity":"toilets"}],
+["n9176236636","t",36.95604,-76.61998,{"access":"destination","amenity":"toilets"}],
+["n9366172448","t",36.96911,-76.62639,{"access":"destination","amenity":"toilets"}],
+["n9366172449","t",36.96913,-76.62641,{"access":"destination","amenity":"toilets"}],
+["w383913220","t",36.8405,-76.52045,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w614336887","t",36.98176,-76.63262,{"opening_hours":"Su-Th 11:00-20:00; Fr 11:00-21:00; Sa 10:00-21:00","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w637184449","t",36.71673,-76.52942,{"operator":"United States Fish and Wildlife Service","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}]
+]}

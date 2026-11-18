@@ -1,0 +1,16 @@
+{"p":[
+["n13047536448","t",43.70151,-74.33497,{"access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13047588202","t",43.65094,-74.3938,{"opening_hours":"Mo-Su 00:00-13:00,14:00-24:00","fee":"no","access":"customers","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13047588203","t",43.65093,-74.39388,{"opening_hours":"Mo-Su 00:00-13:00,14:00-24:00","fee":"no","access":"customers","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n14316887646","w",43.83908,-74.38394,{"drinking_water":"yes","man_made":"water_tap"}],
+["n2419956814","t",43.85428,-74.43477,{"access":"yes","amenity":"toilets"}],
+["n304241142","t",43.5875,-74.48404,{"amenity":"toilets"}],
+["n3709911020","t",43.81877,-74.42087,{"access":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n3709925130","t",43.83871,-74.38494,{"operator":"NYSDEC","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["n4382842481","w",43.50464,-74.38495,{"amenity":"drinking_water"}],
+["w1088952245","t",43.89546,-74.16824,{"amenity":"toilets"}],
+["w506520153","t",43.95784,-74.10376,{"name":"Newcomb Picnic Area","opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w813387353","t",43.97438,-74.42421,{"opening_hours":"24/7","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["w815599806","t",43.64755,-74.38884,{"amenity":"toilets"}],
+["w815600164","t",43.64936,-74.38597,{"amenity":"toilets"}]
+]}

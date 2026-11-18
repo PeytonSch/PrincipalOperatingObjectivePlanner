@@ -1,0 +1,23 @@
+{"p":[
+["n11149048463","w",40.269,-124.23037,{"amenity":"drinking_water"}],
+["n11805381381","t",40.35329,-124.00902,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n11805381382","t",40.35276,-124.01,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n11805381384","t",40.35341,-124.008,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n11848521830","t",40.31772,-124.01227,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11848521840","t",40.31041,-124.01207,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11848606687","t",40.3438,-124.02421,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13712969832","t",40.33506,-124.03619,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4426608918","t",40.04526,-124.07719,{"amenity":"toilets"}],
+["n4426608923","w",40.04524,-124.07726,{"amenity":"drinking_water"}],
+["n5162160521","w",40.45577,-124.05686,{"amenity":"drinking_water"}],
+["n7734884838","t",40.01931,-124.00328,{"amenity":"toilets"}],
+["n7734884885","t",40.02184,-124.00642,{"toilets:disposal":"vault","amenity":"toilets"}],
+["n9027715665","t",40.4766,-124.10141,{"amenity":"toilets"}],
+["w1202641016","t",40.26737,-124.22971,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1202641017","t",40.26882,-124.23025,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1287861473","t",40.28883,-124.35579,{"operator":"Bureau of Land Management","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1287861474","t",40.28885,-124.35587,{"operator":"Bureau of Land Management","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1497246004","t",40.33516,-124.0349,{"unisex":"yes","amenity":"toilets"}],
+["w816699328","t",40.35026,-124.02255,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w872890990","t",40.02305,-124.06851,{"amenity":"toilets"}]
+]}

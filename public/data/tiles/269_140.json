@@ -1,0 +1,15 @@
+{"p":[
+["n11986211571","w",44.94209,-109.7735,{"operator":"Crazy Creek Campground / National Forest","amenity":"drinking_water"}],
+["n11986211572","t",44.94245,-109.77559,{"opening_hours":"24/7","amenity":"toilets"}],
+["n13058926601","t",44.97718,-109.83415,{"amenity":"toilets"}],
+["n13765635630","t",44.7396,-109.52977,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n1865214847","t",44.94233,-109.54051,{"amenity":"toilets"}],
+["n2613413586","t",44.9438,-109.59112,{"amenity":"toilets"}],
+["n2613413607","t",44.94575,-109.58677,{"amenity":"toilets"}],
+["n2972449190","t",44.92447,-109.6946,{"operator":"USFS","access":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n3135513268","t",44.93773,-109.50463,{"access":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n4993189237","t",44.50254,-109.96407,{"amenity":"toilets"}],
+["n6505303061","t",44.84949,-109.64035,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1574290550","t",44.50258,-109.96411,{"amenity":"toilets"}],
+["w454243369","t",44.94448,-109.6263,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}]
+]}

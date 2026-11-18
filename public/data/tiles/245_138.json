@@ -1,0 +1,13 @@
+{"p":[
+["n10056889768","t",32.89743,-110.56994,{"description":"Pit toilet","wheelchair":"no","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["n14339030001","t",32.5807,-110.84831,{"wheelchair":"yes","amenity":"toilets"}],
+["n3353222676","t",32.62142,-110.74634,{"amenity":"toilets"}],
+["n3353222677","t",32.60986,-110.73968,{"amenity":"toilets"}],
+["n4728598157","t",32.5388,-110.71669,{"amenity":"toilets"}],
+["n4728598158","t",32.53843,-110.71724,{"amenity":"toilets"}],
+["w658401835","t",32.90941,-110.71981,{"amenity":"toilets"}],
+["w907931826","t",32.98701,-110.76729,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w907931830","t",32.98827,-110.76628,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w918504413","t",32.60982,-110.7346,{"amenity":"toilets"}],
+["w918504421","t",32.60925,-110.7336,{"amenity":"toilets"}]
+]}

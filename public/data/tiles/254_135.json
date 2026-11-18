@@ -1,0 +1,19 @@
+{"p":[
+["n12187320797","t",37.44243,-112.22818,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13278911560","t",37.48313,-112.09732,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14188529901","w",37.42282,-112.29254,{"name":"Stream (still flowing June 2026)","amenity":"drinking_water"}],
+["n2351320490","t",37.43829,-112.48308,{"amenity":"toilets"}],
+["n8152815185","t",37.16583,-112.38675,{"access":"yes","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["w1059202808","t",37.14356,-112.39394,{"operator":"U.S. Department of the Interior;Bureau of Land Management","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1075303877","t",37.0186,-112.02568,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1179867021","t",37.06669,-112.00048,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1302153150","t",37.48722,-112.29794,{"operator":"US Forest Service","access":"yes","amenity":"toilets"}],
+["w132090783","t",37.01853,-112.02571,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1383317292","t",37.00108,-112.03522,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1383317293","t",37.00102,-112.03529,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1416643215","t",37.43515,-112.34433,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1494112991","t",37.02266,-112.35243,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w198277057","t",37.47478,-112.24091,{"changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w198277064","t",37.47498,-112.24088,{"changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w523030409","t",37.47488,-112.23996,{"amenity":"toilets"}]
+]}

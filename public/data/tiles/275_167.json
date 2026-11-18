@@ -1,0 +1,10 @@
+{"p":[
+["n5656585931","t",47.81428,-96.00277,{"operator":"Brooks Community Center","fee":"no","access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["n5656585932","t",47.81446,-96.00193,{"operator":"City of Brooks","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n5656585933","t",47.81798,-96.00191,{"operator":"City of Brooks","toilets:disposal":"chemical","amenity":"toilets"}],
+["n7680402354","t",47.61552,-96.37447,{"amenity":"toilets"}],
+["n7680402356","t",47.52936,-96.29577,{"amenity":"toilets"}],
+["w496511357","t",47.88686,-96.2758,{"name":"Riverside Park Restrooms","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w545567028","t",47.90966,-96.03907,{"operator":"City of Plummer","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w954273399","t",47.65871,-96.09254,{"description":"Two modern outhouse style bathrooms, hand sanitizer despisers.","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

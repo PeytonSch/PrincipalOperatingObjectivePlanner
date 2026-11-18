@@ -1,0 +1,10 @@
+{"p":[
+["n1133965407","t",39.44193,-87.50207,{"name":"Clear Creek Welcome Center","amenity":"toilets"}],
+["n13409456904","t",39.35303,-87.70965,{"amenity":"toilets"}],
+["n13812615239","t",39.29867,-87.99346,{"access":"yes","amenity":"toilets"}],
+["n13826161609","t",39.2944,-87.98553,{"access":"yes","amenity":"toilets"}],
+["n13876886389","t",39.29946,-87.99341,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5370546875","t",39.33798,-87.70951,{"access":"customers","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1127412960","t",39.33756,-87.72,{"amenity":"toilets"}],
+["w346414747","t",39.42281,-87.66164,{"name":"Cumberland Road Welcome Center","toilets:disposal":"flush","amenity":"toilets"}]
+]}

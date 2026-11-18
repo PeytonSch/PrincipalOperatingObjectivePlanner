@@ -1,0 +1,21 @@
+{"p":[
+["n10049387596","w",36.08488,-86.32392,{"amenity":"water_point"}],
+["n10049563213","t",36.07695,-86.31719,{"amenity":"toilets"}],
+["n10735661936","t",36.31025,-86.46652,{"name":"Latrine 5","opening_hours":"24/7","access":"customers","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n10735661941","t",36.31078,-86.47065,{"name":"Latrine 6","opening_hours":"24/7","access":"customers","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n10735661943","t",36.31026,-86.46891,{"name":"Latrine 6","opening_hours":"24/7","access":"customers","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9555074673","t",36.08328,-86.31982,{"amenity":"toilets"}],
+["n9555074678","t",36.08492,-86.32051,{"amenity":"toilets"}],
+["n9556004893","t",36.08415,-86.32384,{"amenity":"toilets"}],
+["n9556121861","w",36.08725,-86.32437,{"amenity":"drinking_water"}],
+["n9556814811","t",36.0872,-86.32439,{"amenity":"toilets"}],
+["n9556958050","t",36.08272,-86.32305,{"amenity":"toilets"}],
+["w1037224991","t",36.08415,-86.32384,{"amenity":"toilets"}],
+["w1037230156","t",36.0832,-86.32225,{"amenity":"toilets"}],
+["w1037230171","t",36.08327,-86.31983,{"amenity":"toilets"}],
+["w1037230172","t",36.08491,-86.32051,{"amenity":"toilets"}],
+["w1037233277","t",36.07696,-86.31718,{"amenity":"toilets"}],
+["w1037446414","t",36.08271,-86.32305,{"amenity":"toilets"}],
+["w1092336272","t",36.04279,-86.48405,{"amenity":"toilets"}],
+["w1155282081","t",36.30909,-86.47065,{"name":"Latrine 4","opening_hours":"24/7","access":"customers","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

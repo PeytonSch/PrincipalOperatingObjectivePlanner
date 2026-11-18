@@ -1,0 +1,21 @@
+{"p":[
+["n11090675621","t",37.19802,-80.88683,{"access":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12129020126","w",37.0587,-80.62469,{"access":"customers","drinking_water":"yes","man_made":"water_tap"}],
+["n12146721401","w",37.05845,-80.62577,{"access":"customers","drinking_water":"yes","man_made":"water_tap"}],
+["n12146721408","w",37.05854,-80.62568,{"access":"customers","drinking_water":"yes","man_made":"water_tap"}],
+["n12146721415","w",37.05862,-80.62542,{"access":"customers","drinking_water":"yes","man_made":"water_tap"}],
+["n12146721422","w",37.05868,-80.62483,{"access":"customers","drinking_water":"yes","man_made":"water_tap"}],
+["n12154615319","w",37.04556,-80.77932,{"operator":"Town of Pulaski","fee":"no","access":"yes","wheelchair":"yes","bottle":"no","amenity":"drinking_water"}],
+["n1618307525","w",37.35375,-80.59899,{"amenity":"drinking_water"}],
+["n1618307526","t",37.35383,-80.599,{"amenity":"toilets"}],
+["w1022768065","t",37.09792,-80.52338,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1022768069","t",37.09953,-80.52106,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1310003107","t",37.059,-80.61975,{"operator":"Virginia State Parks","fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["w1313136477","t",37.04352,-80.76531,{"operator":"Town of Pulaski","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1392706020","t",37.0891,-80.69921,{"amenity":"toilets"}],
+["w1483373085","t",37.39925,-80.87321,{"access":"customers","amenity":"toilets"}],
+["w469844156","t",37.09005,-80.70007,{"access":"yes","wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["w484014191","t",37.10244,-80.51542,{"amenity":"toilets"}],
+["w805407383","t",37.05814,-80.6224,{"operator":"Virginia State Parks","fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["w805411760","t",37.05727,-80.62188,{"operator":"Virginia State Parks","fee":"no","access":"yes","unisex":"yes","amenity":"toilets"}]
+]}

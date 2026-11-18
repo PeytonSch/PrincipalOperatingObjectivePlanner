@@ -1,0 +1,16 @@
+{"p":[
+["n10184386403","t",35.36948,-117.99619,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11471954834","w",35.36834,-117.99387,{"bottle":"yes","amenity":"drinking_water"}],
+["n11900048306","w",35.37376,-117.99322,{"fee":"no","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n12451520001","w",35.37291,-117.99055,{"name":"RV parking spot","operator":"CA State","amenity":"drinking_water"}],
+["n13318643893","w",35.00567,-117.71853,{"description":"hwy 58 rest stop working","amenity":"drinking_water"}],
+["n13318643894","t",35.00576,-117.71864,{"wheelchair":"yes","amenity":"toilets"}],
+["n2477391419","w",35.00799,-117.71934,{"description":"hwy 58 rest stop working","amenity":"drinking_water"}],
+["n3964894309","t",35.37346,-117.99622,{"fee":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4560842802","t",35.00808,-117.71945,{"wheelchair":"yes","amenity":"toilets"}],
+["w1042011153","t",35.37371,-117.9933,{"access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1042015922","t",35.36221,-117.97759,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1113161005","t",35.37139,-117.99709,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1113161006","t",35.36838,-117.99389,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w911086560","t",35.19131,-117.88111,{"amenity":"toilets"}]
+]}

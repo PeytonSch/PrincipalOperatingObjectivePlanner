@@ -1,0 +1,20 @@
+{"p":[
+["n11263357819","w",38.09272,-83.52268,{"fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n4638016155","t",38.07141,-83.90575,{"amenity":"toilets"}],
+["n8172540837","w",38.40848,-83.88888,{"amenity":"drinking_water"}],
+["n8172558984","w",38.40283,-83.90459,{"amenity":"drinking_water"}],
+["w1576348423","t",38.04958,-83.58902,{"amenity":"toilets"}],
+["w791616972","t",38.43209,-83.99353,{"operator":"Blue Licks Battlefield State Park","wheelchair":"yes","amenity":"toilets"}],
+["w977104405","t",38.09497,-83.51682,{"access":"yes","amenity":"toilets"}],
+["w977104406","t",38.09806,-83.51602,{"access":"yes","amenity":"toilets"}],
+["w977104409","t",38.0942,-83.51855,{"access":"yes","amenity":"toilets"}],
+["w977104966","t",38.09123,-83.51857,{"access":"yes","amenity":"toilets"}],
+["w977104973","t",38.09219,-83.51519,{"access":"yes","amenity":"toilets"}],
+["w977104974","t",38.08948,-83.51845,{"access":"yes","amenity":"toilets"}],
+["w977104975","t",38.09634,-83.51873,{"amenity":"toilets"}],
+["w977104977","t",38.08983,-83.5168,{"access":"yes","amenity":"toilets"}],
+["w977104982","t",38.09174,-83.5175,{"access":"yes","amenity":"toilets"}],
+["w977104983","t",38.08937,-83.51309,{"access":"yes","amenity":"toilets"}],
+["w977104984","t",38.09053,-83.51264,{"access":"yes","amenity":"toilets"}],
+["w977105872","t",38.09274,-83.52207,{"access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

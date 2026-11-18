@@ -1,0 +1,21 @@
+{"p":[
+["n1671356125","w",32.51379,-95.6863,{"amenity":"drinking_water"}],
+["n1671356130","w",32.51561,-95.68738,{"amenity":"drinking_water"}],
+["n2567483010","t",32.56522,-95.86348,{"amenity":"toilets"}],
+["w1526891744","t",32.69047,-95.87406,{"amenity":"toilets"}],
+["w250258051","t",32.55691,-95.8535,{"amenity":"toilets"}],
+["w250260033","t",32.56329,-95.86594,{"amenity":"toilets"}],
+["w250260049","t",32.56241,-95.86433,{"amenity":"toilets"}],
+["w250260068","t",32.56059,-95.86234,{"amenity":"toilets"}],
+["w250260071","t",32.56092,-95.86021,{"name":"Restrooms","amenity":"toilets"}],
+["w469707235","t",32.847,-95.99382,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w469707242","t",32.84645,-95.99157,{"description":"2 single toilets with shower","fee":"no","access":"customers","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w594891403","t",32.5136,-95.68539,{"amenity":"toilets"}],
+["w594891404","t",32.51357,-95.68522,{"amenity":"toilets"}],
+["w594911327","t",32.51549,-95.68684,{"amenity":"toilets"}],
+["w594911329","t",32.51544,-95.68667,{"amenity":"toilets"}],
+["w857001302","t",32.55952,-95.88375,{"access":"yes","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["w867331811","t",32.83427,-95.5628,{"amenity":"toilets"}],
+["w867537777","t",32.84196,-95.56765,{"amenity":"toilets"}],
+["w958749064","t",32.81922,-95.88855,{"name":"Pool Bathhouse","amenity":"toilets"}]
+]}

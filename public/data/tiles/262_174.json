@@ -1,0 +1,19 @@
+{"p":[
+["n4214812581","t",41.28215,-92.65424,{"amenity":"toilets"}],
+["n4216560015","t",41.28463,-92.65527,{"amenity":"toilets"}],
+["n4216644339","w",41.28288,-92.65793,{"amenity":"drinking_water"}],
+["n7340976162","w",41.40655,-92.91639,{"operator":"Drinking Fountain by Smokey Row","amenity":"drinking_water"}],
+["n7402708572","t",41.39787,-92.87806,{"amenity":"toilets"}],
+["n9643814447","w",41.36348,-92.972,{"amenity":"drinking_water"}],
+["n9695549299","t",41.37693,-92.97023,{"access":"yes","amenity":"toilets"}],
+["n9698419607","w",41.37681,-92.97036,{"amenity":"drinking_water"}],
+["n9735508141","w",41.36956,-92.9775,{"amenity":"drinking_water"}],
+["n9735508143","t",41.36992,-92.97761,{"access":"yes","amenity":"toilets"}],
+["n9744956656","w",41.36962,-92.97701,{"amenity":"drinking_water"}],
+["n9834017205","w",41.36739,-92.98008,{"amenity":"drinking_water"}],
+["n9858740662","w",41.36843,-92.97703,{"amenity":"drinking_water"}],
+["w421727307","t",41.28422,-92.65915,{"amenity":"toilets"}],
+["w421727323","t",41.28305,-92.65674,{"amenity":"toilets"}],
+["w422114840","t",41.30299,-92.66613,{"amenity":"toilets"}],
+["w949868293","t",41.36688,-92.98071,{"fee":"no","amenity":"toilets"}]
+]}

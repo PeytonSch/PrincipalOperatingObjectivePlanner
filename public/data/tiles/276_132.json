@@ -1,0 +1,12 @@
+{"p":[
+["n12109124283","t",48.16852,-113.79101,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12109126131","t",48.12681,-113.80935,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3141021080","t",48.27207,-113.81651,{"operator":"US Forest Service","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4189567189","t",48.42494,-113.77368,{"amenity":"toilets"}],
+["n4316707928","t",48.46277,-113.98264,{"operator":"West Glacier KOA","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n4316707931","t",48.4628,-113.97966,{"operator":"West Glacier KOA","fee":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n4316710502","t",48.4644,-113.98079,{"operator":"West Glacier KOA","fee":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n9969137764","t",48.48141,-113.99411,{"access":"customers","amenity":"toilets"}],
+["w83326727","t",48.25867,-113.57502,{"amenity":"toilets"}],
+["w83326772","t",48.27477,-113.60294,{"amenity":"toilets"}]
+]}

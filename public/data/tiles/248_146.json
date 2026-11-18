@@ -1,0 +1,18 @@
+{"p":[
+["n11473131518","t",34.00197,-106.99238,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2597876323","w",34.30554,-106.89053,{"amenity":"drinking_water"}],
+["n2604059418","w",34.30316,-106.8896,{"amenity":"drinking_water"}],
+["n6483230344","w",34.06592,-106.90637,{"description":"Fill Station","amenity":"drinking_water"}],
+["n6484089954","t",34.06704,-106.90514,{"amenity":"toilets"}],
+["n6484581957","w",34.06585,-106.90618,{"amenity":"drinking_water"}],
+["n6484581958","t",34.06582,-106.90617,{"amenity":"toilets"}],
+["n6874543114","t",34.06618,-106.90692,{"changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n6874543115","t",34.06613,-106.90691,{"changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w253923776","t",34.30559,-106.89072,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w253923777","t",34.30555,-106.89057,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w254600775","t",34.30312,-106.8894,{"fee":"no","access":"yes","amenity":"toilets"}],
+["w254600776","t",34.30316,-106.88957,{"fee":"no","access":"yes","amenity":"toilets"}],
+["w553407161","t",34.07213,-106.91203,{"operator":"New Mexico Tech Golf Course","amenity":"toilets"}],
+["w553447856","t",34.06361,-106.91215,{"amenity":"toilets"}],
+["w791950361","t",34.06647,-106.91417,{"amenity":"toilets"}]
+]}

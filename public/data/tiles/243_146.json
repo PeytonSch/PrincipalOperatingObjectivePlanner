@@ -1,0 +1,19 @@
+{"p":[
+["n10080315140","t",31.92926,-106.63115,{"amenity":"toilets"}],
+["n11460177756","w",31.88501,-106.57148,{"operator":"Raiz","fee":"no","access":"yes","bottle":"no","indoor":"no","amenity":"drinking_water"}],
+["n13778291002","t",31.76792,-106.50603,{"amenity":"toilets"}],
+["n13982281018","t",31.77693,-106.50426,{"access":"yes","amenity":"toilets"}],
+["n13982281019","t",31.77682,-106.50417,{"access":"yes","amenity":"toilets"}],
+["n14116486161","w",31.85152,-106.50954,{"amenity":"drinking_water"}],
+["n1671246466","t",31.98245,-106.58438,{"opening_hours":"24/7","amenity":"toilets"}],
+["n1671246497","w",31.98259,-106.58464,{"amenity":"drinking_water"}],
+["n4063106771","t",31.57878,-106.66826,{"amenity":"toilets"}],
+["n4063106776","t",31.57602,-106.6662,{"amenity":"toilets"}],
+["n6277414422","w",31.70747,-106.513,{"name":"El Pocito","fee":"no","access":"yes","drinking_water":"yes","bottle":"no","amenity":"drinking_water"}],
+["w1279208269","t",31.80215,-106.5609,{"amenity":"toilets"}],
+["w1279208297","t",31.80348,-106.56155,{"amenity":"toilets"}],
+["w1279208309","t",31.80307,-106.56067,{"amenity":"toilets"}],
+["w183123905","t",31.93121,-106.51307,{"access":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w278809160","t",31.91428,-106.51748,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["w880004059","t",31.60857,-106.68548,{"amenity":"toilets"}]
+]}

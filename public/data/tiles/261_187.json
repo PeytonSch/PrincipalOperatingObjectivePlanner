@@ -1,0 +1,21 @@
+{"p":[
+["n11693938399","w",40.74673,-86.07604,{"description":"disabled in winter","access":"yes","seasonal":"yes","indoor":"no","amenity":"drinking_water"}],
+["n12144580172","w",40.76334,-86.32437,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n12144998503","w",40.76411,-86.3248,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n5947092208","t",40.86072,-86.49762,{"unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n6857971937","w",40.75949,-86.35395,{"amenity":"drinking_water"}],
+["n7006592193","w",40.75305,-86.07127,{"access":"permissive","drinking_water":"yes","indoor":"no","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n8512282427","t",40.69192,-86.00593,{"access":"yes","amenity":"toilets"}],
+["n8945250012","t",40.77224,-86.48176,{"amenity":"toilets"}],
+["w1284219899","t",40.74072,-86.37475,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w464058088","t",40.74787,-86.07399,{"description":"closed in winter","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","seasonal":"yes","amenity":"toilets"}],
+["w545698576","t",40.74435,-86.06271,{"amenity":"toilets"}],
+["w583994800","w",40.7564,-86.30975,{"name":"ALDI","operator":"Aldi","opening_hours":"Mo-Su 09:00-20:00","amenity":"drinking_water"}],
+["w583994871","w",40.75678,-86.31058,{"name":"Young's Culligan Water Conditioning","description":"Fill jugs 24/7","opening_hours":"Mo-Fr 08:00-17:00; Sa 08:00-12:00","amenity":"drinking_water"}],
+["w689970116","t",40.78493,-86.3329,{"amenity":"toilets"}],
+["w694760441","t",40.86766,-86.49837,{"amenity":"toilets"}],
+["w732365778","t",40.76003,-86.35409,{"amenity":"toilets"}],
+["w742392016","t",40.76713,-86.35153,{"access":"yes","drinking_water":"yes","amenity":"toilets"}],
+["w746287047","w",40.74441,-86.09364,{"name":"Peru Mart","opening_hours":"Mo-Sa 04:00-22:00; Su 06:00-22:00","drinking_water":"yes","amenity":"drinking_water"}],
+["w993590000","t",40.76274,-86.32357,{"amenity":"toilets"}]
+]}

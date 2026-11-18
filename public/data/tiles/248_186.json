@@ -1,0 +1,20 @@
+{"p":[
+["n10722514055","t",34.34158,-86.76114,{"access":"yes","amenity":"toilets"}],
+["n10722514056","t",34.34157,-86.76118,{"access":"yes","amenity":"toilets"}],
+["n10722519146","w",34.34156,-86.76116,{"amenity":"drinking_water"}],
+["n12879726604","t",34.10169,-86.58193,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13541303979","t",34.0741,-86.78081,{"access":"students","toilets:disposal":"flush","amenity":"toilets"}],
+["n14039802274","t",34.07084,-86.782,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4305433432","t",34.07459,-86.86361,{"operator":"Alabama Department of Transportation","fee":"no","access":"yes","drinking_water":"yes","indoor":"yes","amenity":"toilets"}],
+["n5714059718","t",34.15349,-86.84544,{"amenity":"toilets"}],
+["w1391368506","t",34.1025,-86.58118,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1391417649","t",34.10149,-86.58219,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1490859497","t",34.13175,-86.71027,{"amenity":"toilets"}],
+["w1490862787","t",34.13143,-86.70784,{"amenity":"toilets"}],
+["w1564200322","t",34.18062,-86.84473,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w557843765","t",34.42528,-86.93676,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["w601322988","t",34.08053,-86.95972,{"amenity":"toilets"}],
+["w601414603","t",34.15349,-86.84544,{"amenity":"toilets"}],
+["w601414610","t",34.15721,-86.84473,{"amenity":"toilets"}],
+["w608367296","t",34.17945,-86.84431,{"amenity":"toilets"}]
+]}

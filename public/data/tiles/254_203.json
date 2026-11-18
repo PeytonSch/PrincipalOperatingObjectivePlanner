@@ -1,0 +1,18 @@
+{"p":[
+["n11343670243","t",37.2693,-78.29406,{"operator":"Virginia Department of Conservation and Recreation","fee":"no","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11343670244","t",37.3066,-78.31346,{"operator":"Virginia Department of Conservation and Recreation","fee":"no","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12176008670","w",37.30453,-78.39113,{"fee":"no","access":"yes","bottle":"no","indoor":"no","amenity":"drinking_water"}],
+["n13418636486","t",37.3064,-78.31333,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n13650948611","t",37.17597,-78.12092,{"amenity":"toilets"}],
+["n7193476367","t",37.1742,-78.27952,{"amenity":"toilets"}],
+["n7199054786","t",37.172,-78.27196,{"fee":"no","access":"yes","amenity":"toilets"}],
+["n7199054788","t",37.17212,-78.27213,{"fee":"no","access":"yes","amenity":"toilets"}],
+["w1132498095","t",37.32447,-78.33806,{"operator":"Virginia Department of Conservation and Recreation","fee":"no","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1221365722","t",37.30653,-78.48674,{"access":"yes","amenity":"toilets"}],
+["w1463200860","t",37.23239,-78.26981,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1545157674","t",37.26931,-78.29405,{"amenity":"toilets"}],
+["w190529897","t",37.3045,-78.39123,{"wheelchair":"yes","amenity":"toilets"}],
+["w744515405","t",37.17419,-78.27954,{"access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w744518780","t",37.17651,-78.27981,{"description":"Campground bathhouse. Contains bathrooms and individual shower rooms.","access":"customers","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w782231233","t",37.30981,-78.22191,{"amenity":"toilets"}]
+]}

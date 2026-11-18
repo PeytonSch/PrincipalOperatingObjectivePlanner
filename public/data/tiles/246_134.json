@@ -1,0 +1,10 @@
+{"p":[
+["n14005561296","t",33.12588,-112.58189,{"wheelchair":"limited","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n822497131","t",33.43112,-112.54493,{"amenity":"toilets"}],
+["w1003644595","t",33.3641,-112.58861,{"amenity":"toilets"}],
+["w1376388440","t",33.41931,-112.5448,{"name":"Bathrooms","changing_table":"yes","amenity":"toilets"}],
+["w1376435089","t",33.36501,-112.58956,{"amenity":"toilets"}],
+["w744218707","t",33.48196,-112.55941,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w945648998","w",33.07985,-112.62888,{"name":"Poyner Water","amenity":"drinking_water"}],
+["w951751967","t",33.4945,-112.93632,{"operator":"Woody's","amenity":"toilets"}]
+]}

@@ -1,0 +1,19 @@
+{"p":[
+["n10696096629","t",39.20819,-79.25906,{"access":"yes","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n11470417857","t",39.11271,-79.48464,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13032618032","t",39.42252,-79.39146,{"operator":"Walmart","fee":"no","access":"yes","changing_table":"yes","unisex":"no","amenity":"toilets"}],
+["n13032618081","t",39.42175,-79.391,{"operator":"Walmart","fee":"no","access":"yes","changing_table":"yes","unisex":"no","amenity":"toilets"}],
+["n13059054546","t",39.41048,-79.40462,{"operator":"Sheetz","opening_hours":"24/7","fee":"no","access":"yes","unisex":"no","toilets:disposal":"flush","indoor":"yes","amenity":"toilets"}],
+["n13482196299","t",39.45713,-79.45208,{"access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13936206701","t",39.12833,-79.46383,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n1814293989","t",39.41819,-79.1163,{"amenity":"toilets"}],
+["n1814317453","t",39.41664,-79.11599,{"amenity":"toilets"}],
+["n8375756620","t",39.37397,-79.21036,{"amenity":"toilets"}],
+["w1388410660","t",39.01637,-79.45848,{"amenity":"toilets"}],
+["w1414813148","t",39.40809,-79.40887,{"operator":"Town of Oakland, Maryland","fee":"no","unisex":"no","amenity":"toilets"}],
+["w1423342162","t",39.40817,-79.3741,{"operator":"Town of Oakland","access":"yes","amenity":"toilets"}],
+["w249952314","t",39.01679,-79.45863,{"amenity":"toilets"}],
+["w398306145","t",39.11654,-79.48947,{"amenity":"toilets"}],
+["w398306147","t",39.11545,-79.49064,{"wheelchair":"yes","amenity":"toilets"}],
+["w848932817","t",39.49933,-79.41872,{"amenity":"toilets"}]
+]}

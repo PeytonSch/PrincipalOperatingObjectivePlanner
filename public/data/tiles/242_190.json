@@ -1,0 +1,11 @@
+{"p":[
+["n10157413333","t",31.46613,-84.91717,{"changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n14389376486","w",31.46519,-84.91659,{"access":"yes","drinking_water":"yes","man_made":"water_tap"}],
+["n3435178531","w",31.46653,-84.9177,{"amenity":"drinking_water"}],
+["n3435179165","w",31.4682,-84.94833,{"amenity":"drinking_water"}],
+["n3435179171","t",31.46824,-84.94836,{"access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n3437379662","w",31.47106,-84.92232,{"amenity":"drinking_water"}],
+["w335581533","t",31.46924,-84.93127,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w336472934","t",31.46736,-84.92787,{"name":"Picnic Shelter 4","amenity":"toilets"}],
+["w336472990","t",31.46744,-84.92932,{"amenity":"toilets"}]
+]}

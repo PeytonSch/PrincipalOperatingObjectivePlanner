@@ -1,0 +1,21 @@
+{"p":[
+["n10813050806","w",33.67876,-115.96251,{"amenity":"drinking_water"}],
+["n11492547936","t",33.74352,-115.81464,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n11492547962","w",33.74323,-115.81501,{"amenity":"drinking_water","man_made":"water_tap"}],
+["n11492590051","w",33.74369,-115.81475,{"amenity":"drinking_water","man_made":"water_tap"}],
+["n11582832694","w",33.74502,-115.81741,{"drinking_water":"yes","man_made":"water_tap"}],
+["n11582832761","w",33.74553,-115.81228,{"drinking_water":"yes","man_made":"water_tap"}],
+["n11582832762","w",33.74466,-115.81271,{"drinking_water":"yes","man_made":"water_tap"}],
+["n11582832765","w",33.74509,-115.81331,{"drinking_water":"yes","man_made":"water_tap"}],
+["n11582832766","w",33.74592,-115.81297,{"drinking_water":"yes","man_made":"water_tap"}],
+["n11748771570","t",33.74856,-115.82398,{"amenity":"toilets"}],
+["n4090424507","w",33.502,-115.91377,{"bottle":"yes","amenity":"drinking_water"}],
+["n4090424533","t",33.50371,-115.91462,{"fee":"destination","wheelchair":"yes","drinking_water":"no","amenity":"toilets"}],
+["n4090424536","w",33.5038,-115.91499,{"bottle":"no","amenity":"drinking_water"}],
+["w187718393","t",33.67882,-115.96252,{"description":"under construction as of September 2026: https://dot.ca.gov/caltrans-near-me/district-8/district-8-current-projects/i-10-cactus-city-rest-areas-reconstruction-upgrades-project","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w187718395","t",33.67779,-115.96534,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["w206624998","t",33.74575,-115.81218,{"access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["w206624999","t",33.74489,-115.81259,{"access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["w681555841","t",33.50143,-115.91152,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w94850537","t",33.74846,-115.82395,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

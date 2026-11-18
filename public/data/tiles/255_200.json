@@ -1,0 +1,16 @@
+{"p":[
+["n12068973917","t",37.62033,-79.55165,{"fee":"no","access":"customers","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n12178694105","w",37.81979,-79.98688,{"fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","indoor":"no","amenity":"drinking_water"}],
+["n12178734767","t",37.84053,-79.98899,{"fee":"no","access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n12178832700","t",37.91949,-79.96581,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n12178925117","t",37.87827,-79.97532,{"operator":"Alleghany County Parks & Recreation","fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13231423168","t",37.91536,-79.79693,{"amenity":"toilets"}],
+["n13231423169","t",37.91534,-79.79706,{"amenity":"toilets"}],
+["n13231876893","t",37.89622,-79.80408,{"amenity":"toilets"}],
+["n13231879337","t",37.85594,-79.81199,{"amenity":"toilets"}],
+["n7644775155","t",37.70739,-79.89341,{"amenity":"toilets"}],
+["n7658947221","t",37.61349,-79.95644,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1282212509","t",37.81984,-79.9869,{"operator":"Alleghany County Parks & Recreation","fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w1304569558","t",37.62681,-79.5431,{"fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w1441982605","t",37.90921,-79.79738,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,23 @@
+{"p":[
+["n10170243662","t",21.59055,-158.10313,{"amenity":"toilets"}],
+["n13302470277","t",21.63638,-158.05423,{"amenity":"toilets"}],
+["n13302696737","t",21.67779,-158.03601,{"wheelchair":"no","amenity":"toilets"}],
+["n13310487818","t",21.6364,-158.05434,{"access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["n13310550717","w",21.6333,-158.05293,{"bottle":"yes","amenity":"drinking_water"}],
+["n13310550771","w",21.63072,-158.04549,{"bottle":"yes","amenity":"drinking_water"}],
+["n13361201990","t",21.69571,-158.00563,{"fee":"no","access":"permissive","amenity":"toilets"}],
+["n13361201991","t",21.6957,-158.00562,{"fee":"no","access":"permissive","amenity":"toilets"}],
+["n13361201992","t",21.69569,-158.00562,{"fee":"no","access":"permissive","amenity":"toilets"}],
+["n13904304168","t",21.58592,-158.10246,{"amenity":"toilets"}],
+["n13919408699","t",21.58957,-158.10325,{"amenity":"toilets"}],
+["n13922346735","t",21.59403,-158.10777,{"amenity":"toilets"}],
+["n4908313395","t",21.59988,-158.10367,{"operator":"City and County of Honolulu Parks and ecreation","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n7082788685","t",21.62276,-158.08028,{"opening_hours":"24/7","amenity":"toilets"}],
+["n8178884246","t",21.63057,-158.04515,{"wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["w1286945411","t",21.58851,-158.11692,{"amenity":"toilets"}],
+["w316425558","t",21.63941,-158.0631,{"amenity":"toilets"}],
+["w500287783","t",21.67427,-158.0394,{"wheelchair":"yes","amenity":"toilets"}],
+["w552523357","t",21.64992,-158.06239,{"opening_hours":"07:00-22:00","access":"yes","unisex":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w727392625","t",21.66467,-158.05004,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w768098898","t",21.6651,-158.05078,{"access":"yes","wheelchair":"yes","amenity":"toilets"}]
+]}

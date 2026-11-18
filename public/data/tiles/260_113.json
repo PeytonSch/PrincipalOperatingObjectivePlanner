@@ -1,0 +1,12 @@
+{"p":[
+["n12005332066","t",40.49204,-123.104,{"toilets:disposal":"vault","amenity":"toilets"}],
+["n12242809362","t",40.37687,-123.32785,{"operator":"Shasta-Trinity National Forest","access":"yes","unisex":"yes","toilets:disposal":"vault","amenity":"toilets"}],
+["n12242826004","t",40.37079,-123.31507,{"operator":"Shasta-Trinity National Forest","unisex":"yes","toilets:disposal":"vault","amenity":"toilets"}],
+["n12242826005","t",40.37046,-123.31357,{"operator":"Shasta-Trinity National Forest","unisex":"yes","toilets:disposal":"vault","amenity":"toilets"}],
+["n12242826006","t",40.37072,-123.31383,{"operator":"Shasta-Trinity National Forest","unisex":"yes","toilets:disposal":"vault","amenity":"toilets"}],
+["n12244899653","t",40.36436,-123.30747,{"operator":"Shasta-Trinity National Forest","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12244899654","t",40.36021,-123.30506,{"operator":"Shasta-Trinity National Forest","access":"yes","unisex":"yes","toilets:disposal":"vault","amenity":"toilets"}],
+["n12244899687","t",40.36224,-123.30621,{"operator":"Shasta-Trinity National Forest","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"vault","amenity":"toilets"}],
+["n12249331814","t",40.24733,-123.12463,{"access":"yes","toilets:disposal":"tank","amenity":"toilets"}],
+["n12294856892","t",40.46648,-123.18989,{"operator":"Shasta-Trinity National Forest","fee":"no","access":"yes","wheelchair":"no","unisex":"yes","toilets:disposal":"vaut","amenity":"toilets"}]
+]}

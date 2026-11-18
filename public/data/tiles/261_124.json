@@ -1,0 +1,14 @@
+{"p":[
+["n1350620052","w",40.97807,-117.74293,{"bottle":"no","amenity":"drinking_water"}],
+["n13946266087","t",40.97753,-117.70669,{"amenity":"toilets"}],
+["n9558994124","w",40.95739,-117.71492,{"amenity":"drinking_water"}],
+["w1095790016","t",40.97547,-117.70954,{"fee":"no","access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["w1125357113","t",40.92154,-117.65728,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1125357128","t",40.92701,-117.66764,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1125357130","t",40.93024,-117.67515,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1125357134","t",40.92098,-117.6504,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1163983516","t",40.97414,-117.72077,{"operator":"Winnemucca Municipal Golf Course","access":"customers","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w416607491","t",40.95892,-117.74679,{"operator":"Chevron","amenity":"toilets"}],
+["w731140591","t",40.97803,-117.74292,{"amenity":"toilets"}],
+["w953808149","t",40.95742,-117.71489,{"fee":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}]
+]}

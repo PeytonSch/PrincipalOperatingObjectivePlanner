@@ -1,0 +1,15 @@
+{"p":[
+["n10177295034","w",37.06151,-94.52931,{"amenity":"drinking_water"}],
+["n4475971831","t",37.00754,-94.54812,{"amenity":"toilets"}],
+["n9261831049","t",37.03863,-94.544,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1003727500","t",37.03857,-94.54401,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1014270171","t",37.09631,-94.51043,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["w1014931779","t",37.06095,-94.52952,{"amenity":"toilets"}],
+["w1054974539","t",37.04275,-94.64193,{"access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1482296797","t",37.4244,-94.75874,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1505325003","t",37.0038,-94.58581,{"amenity":"toilets"}],
+["w1505325017","t",37.00379,-94.58587,{"amenity":"toilets"}],
+["w416761000","t",37.00266,-94.58406,{"name":"Missouri Welcome Center","wheelchair":"yes","amenity":"toilets"}],
+["w663073122","t",37.0989,-94.5104,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["w712906183","t",37.1643,-94.84121,{"amenity":"toilets"}]
+]}

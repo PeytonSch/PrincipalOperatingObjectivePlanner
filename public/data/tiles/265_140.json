@@ -1,0 +1,17 @@
+{"p":[
+["n10018861625","t",42.86411,-109.88758,{"amenity":"toilets"}],
+["n10541946018","t",42.85408,-109.61931,{"amenity":"toilets"}],
+["n10738345616","t",42.85717,-109.61717,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n10738345617","t",42.85796,-109.61689,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n10839982229","t",42.99213,-109.90311,{"amenity":"toilets"}],
+["n12943279398","t",42.89841,-109.82068,{"wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3898740975","w",42.74695,-109.71986,{"description":"hose","indoor":"no","amenity":"drinking_water"}],
+["n3898823976","t",42.89594,-109.83529,{"fee":"no","access":"yes","amenity":"toilets"}],
+["n6135665752","t",42.95912,-109.85745,{"amenity":"toilets"}],
+["n6135667802","t",42.95479,-109.85349,{"amenity":"toilets"}],
+["n7717643417","t",42.86458,-109.86506,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["n7717643418","t",42.86412,-109.86406,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["w1094254916","t",42.87591,-109.86549,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1094254920","t",42.8677,-109.86968,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w654071886","t",42.97736,-109.76295,{"fee":"no","amenity":"toilets"}]
+]}

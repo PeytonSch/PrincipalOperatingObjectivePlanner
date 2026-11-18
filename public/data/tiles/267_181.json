@@ -1,0 +1,12 @@
+{"p":[
+["n12111190301","t",43.65629,-89.19883,{"amenity":"toilets"}],
+["n2408412366","t",43.95041,-89.4829,{"amenity":"toilets"}],
+["n7462946133","t",43.54476,-89.46439,{"amenity":"toilets"}],
+["n7462946142","t",43.53898,-89.47403,{"wheelchair":"yes","amenity":"toilets"}],
+["n7462946149","t",43.54056,-89.48227,{"amenity":"toilets"}],
+["n8171626418","w",43.51618,-89.45746,{"amenity":"water_point"}],
+["n9432578663","w",43.88977,-89.48605,{"name":"Artesian Water Well","amenity":"drinking_water"}],
+["w1455361735","t",43.54021,-89.0118,{"access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w411379598","t",43.69009,-89.39513,{"amenity":"toilets"}],
+["w469577151","t",43.98014,-89.21706,{"fee":"no","unisex":"yes","amenity":"toilets"}]
+]}

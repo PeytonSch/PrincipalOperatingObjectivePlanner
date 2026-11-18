@@ -1,0 +1,13 @@
+{"p":[
+["n1273711531","t",49.02464,-114.06569,{"amenity":"toilets"}],
+["n4557788938","t",49.41326,-114.11279,{"name":"Washroom","operator":"Alberta Parks","fee":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4557788940","t",49.41642,-114.11079,{"name":"Washroom","operator":"Alberta Parks","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4557817909","t",49.41758,-114.11791,{"name":"Washroom","operator":"Alberta Parks","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4557822241","t",49.41284,-114.11274,{"name":"Washroom","operator":"Alberta Parks","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4557822242","t",49.41254,-114.10023,{"name":"Washroom","operator":"Alberta Parks","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4562343446","t",49.38084,-114.35956,{"name":"Washroom (Under Construction)","operator":"Alberta Parks","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9163423240","t",49.34553,-114.41608,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9731366050","t",49.129,-114.02668,{"amenity":"toilets"}],
+["n9733215845","t",49.13131,-114.02572,{"amenity":"toilets"}],
+["w1241834903","t",49.04074,-114.0327,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,8 @@
+{"p":[
+["n6468482221","t",40.8946,-90.94938,{"amenity":"toilets"}],
+["n7833150753","w",40.79166,-90.77845,{"access":"yes","drinking_water":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n7835919968","w",40.91187,-90.62987,{"operator":"Monmouth Park District","fee":"no","access":"yes","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["w575397792","t",40.91188,-90.6299,{"fee":"no","wheelchair":"limited","amenity":"toilets"}],
+["w589077169","t",40.92946,-90.62842,{"amenity":"toilets"}],
+["w589077171","t",40.92721,-90.62803,{"amenity":"toilets"}]
+]}

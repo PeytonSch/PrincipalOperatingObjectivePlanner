@@ -1,0 +1,21 @@
+{"p":[
+["n11023279411","t",38.00171,-84.19584,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n11023281547","w",38.00114,-84.19559,{"fee":"no","access":"yes","wheelchair":"yes","bottle":"no","amenity":"drinking_water"}],
+["n11653425995","t",38.01851,-84.42126,{"fee":"no","access":"permissive","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","drinking_water":"no","amenity":"toilets"}],
+["n12133264172","w",38.05984,-84.4924,{"amenity":"drinking_water"}],
+["n12908627262","t",38.03548,-84.49143,{"access":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13761054940","t",38.06539,-84.47917,{"amenity":"toilets"}],
+["n1735640750","w",38.04752,-84.49809,{"amenity":"drinking_water"}],
+["n2627429933","w",38.05065,-84.49481,{"amenity":"drinking_water"}],
+["n2685381402","w",38.02909,-84.48038,{"amenity":"drinking_water"}],
+["n2685382122","t",38.02908,-84.48041,{"amenity":"toilets"}],
+["n3007167882","w",38.0347,-84.49111,{"amenity":"drinking_water"}],
+["n5185766231","w",38.01993,-84.45949,{"description":"bubbller fountain with separate spigot","wheelchair":"yes","amenity":"drinking_water"}],
+["n5188546603","w",38.02065,-84.45878,{"description":"bubbler founyain with separate spigot","wheelchair":"yes","amenity":"drinking_water"}],
+["n5188546613","w",38.01931,-84.45861,{"description":"bubbler fountain with separate spigot","wheelchair":"yes","amenity":"drinking_water"}],
+["n5577446861","t",38.07332,-84.39179,{"operator":"LFUCG","access":"permissive","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n5705936773","t",38.05456,-84.47457,{"operator":"Lexington Parks and Recreation","fee":"no","access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["n5705936774","t",38.05451,-84.47457,{"operator":"Lexington Parks and Recreation","fee":"no","access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["n7943547350","t",38.01225,-84.44247,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w402024364","t",38.02019,-84.45846,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

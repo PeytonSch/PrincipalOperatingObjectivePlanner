@@ -1,0 +1,21 @@
+{"p":[
+["n14005801642","t",46.9538,-103.67314,{"amenity":"toilets"}],
+["n14007142032","w",46.94911,-103.53397,{"access":"yes","wheelchair":"yes","indoor":"no","amenity":"drinking_water"}],
+["n2528856724","t",46.91438,-103.52498,{"operator":"Theodore Roosevelt Medora Foundation","fee":"no","access":"permissive","wheelchair":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n9375136686","t",46.77692,-103.51491,{"amenity":"toilets"}],
+["w1472040785","t",46.95185,-103.53014,{"amenity":"toilets"}],
+["w245747064","t",46.91383,-103.52091,{"operator":"Theodore Roosevelt Medora Foundation","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w245747065","t",46.91432,-103.52477,{"operator":"Theodore Roosevelt Medora Foundation","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w414866731","t",46.94954,-103.53361,{"operator":"National Park Service","amenity":"toilets"}],
+["w414866743","t",46.95068,-103.53207,{"amenity":"toilets"}],
+["w414866744","t",46.95055,-103.53279,{"wheelchair":"yes","amenity":"toilets"}],
+["w414866753","t",46.94864,-103.53385,{"operator":"National Park Service","opening_hours":"24/7","fee":"no","access":"customers","amenity":"toilets"}],
+["w556916678","t",46.92231,-103.53178,{"operator":"Medora Campground","toilets:disposal":"flush","amenity":"toilets"}],
+["w556916679","t",46.92331,-103.53392,{"operator":"Medora Campground","toilets:disposal":"flush","amenity":"toilets"}],
+["w556916836","t",46.91727,-103.5287,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w815086840","t",46.89272,-103.53814,{"amenity":"toilets"}],
+["w815086843","t",46.8902,-103.53724,{"amenity":"toilets"}],
+["w815086844","t",46.89372,-103.53835,{"amenity":"toilets"}],
+["w898006749","t",46.91495,-103.54452,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w898006750","t",46.91445,-103.54485,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

@@ -1,0 +1,21 @@
+{"p":[
+["n11349548510","t",33.22047,-80.35371,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n1225619286","t",33.00932,-80.16433,{"amenity":"toilets"}],
+["n1235104168","t",33.04679,-80.10698,{"access":"yes","wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n12995932255","t",33.02917,-80.03625,{"access":"yes","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["n13694255891","t",33.015,-80.04531,{"access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13694255892","t",33.01501,-80.04535,{"access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13694255893","t",33.01502,-80.04539,{"access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13694259153","t",33.01388,-80.04531,{"access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13694326721","w",33.01503,-80.04528,{"operator":"City of Goose Creek","amenity":"drinking_water"}],
+["n1371715561","w",33.4745,-80.48253,{"amenity":"drinking_water"}],
+["n1533028874","t",33.0147,-80.17987,{"amenity":"toilets"}],
+["n1863697680","w",33.02764,-80.17656,{"amenity":"drinking_water"}],
+["n1863697684","t",33.02767,-80.17623,{"amenity":"toilets"}],
+["n263790444","t",33.03287,-80.38748,{"amenity":"toilets"}],
+["w123210841","t",33.47449,-80.4826,{"amenity":"toilets"}],
+["w1279526137","t",33.00773,-80.0577,{"access":"yes","wheelchair":"limited","changing_table":"no","amenity":"toilets"}],
+["w469334568","t",33.015,-80.18523,{"amenity":"toilets"}],
+["w615934383","t",33.47268,-80.48121,{"access":"yes","amenity":"toilets"}],
+["w615934385","t",33.47266,-80.48138,{"access":"yes","amenity":"toilets"}]
+]}

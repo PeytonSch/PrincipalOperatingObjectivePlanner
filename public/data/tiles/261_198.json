@@ -1,0 +1,22 @@
+{"p":[
+["n10732856342","w",40.83579,-80.53951,{"name":"Emergency Water Distribution Point","fee":"no","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n10950493571","t",40.94065,-80.5862,{"fee":"no","access":"yes","toilets:disposal":"flush","drinking_water":"no","amenity":"toilets"}],
+["n13657256876","t",40.88344,-80.75394,{"amenity":"toilets"}],
+["n13657281810","t",40.88529,-80.75593,{"amenity":"toilets"}],
+["n13657281811","t",40.88534,-80.75594,{"amenity":"toilets"}],
+["n14135931368","w",40.73067,-80.62253,{"amenity":"water_point"}],
+["n3658801235","t",40.80481,-80.89185,{"amenity":"toilets"}],
+["n3658801242","t",40.79445,-80.866,{"amenity":"toilets"}],
+["n3658801261","t",40.80046,-80.86865,{"amenity":"toilets"}],
+["n4217591348","t",40.93863,-80.58686,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","indoor":"yes","amenity":"toilets"}],
+["n4911271043","t",40.94493,-80.70515,{"amenity":"toilets"}],
+["n7083310677","t",40.89152,-80.68532,{"amenity":"toilets"}],
+["w1011884300","t",40.64172,-80.55902,{"amenity":"toilets"}],
+["w1112116470","t",40.71315,-80.58175,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1165487565","t",40.70611,-80.58382,{"wheelchair":"yes","amenity":"toilets"}],
+["w1495966740","t",40.61288,-80.56637,{"amenity":"toilets"}],
+["w1524949387","t",40.72647,-80.61208,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1524949388","t",40.72861,-80.62229,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w489969092","t",40.88583,-80.64966,{"amenity":"toilets"}],
+["w951350394","t",40.62451,-80.58986,{"operator":"East Liverpool City School District","fee":"no","access":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}]
+]}

@@ -1,0 +1,18 @@
+{"p":[
+["n3787952470","w",41.76891,-89.68241,{"name":"Lion","description":"Lion drinking fountain","amenity":"drinking_water"}],
+["n3787952705","t",41.76824,-89.68435,{"amenity":"toilets"}],
+["n4437194484","t",41.8416,-89.96936,{"amenity":"toilets"}],
+["n4437194711","t",41.84832,-89.95941,{"amenity":"toilets"}],
+["n4437194729","w",41.85497,-89.95806,{"description":"Hydrant with hose hookup","amenity":"drinking_water"}],
+["n4437194741","w",41.8556,-89.95849,{"amenity":"drinking_water"}],
+["n619565822","t",41.84713,-89.96117,{"amenity":"toilets"}],
+["n619565839","t",41.85341,-89.96457,{"amenity":"toilets"}],
+["n619565859","t",41.85562,-89.95842,{"amenity":"toilets"}],
+["n699292315","w",41.80113,-89.96088,{"amenity":"drinking_water"}],
+["n699377476","w",41.80981,-89.96891,{"amenity":"drinking_water"}],
+["n898601625","w",41.8502,-89.96466,{"amenity":"drinking_water"}],
+["n898601808","w",41.84721,-89.96127,{"amenity":"drinking_water"}],
+["n898601927","w",41.85018,-89.96467,{"amenity":"drinking_water"}],
+["n898602067","w",41.84718,-89.96127,{"amenity":"drinking_water"}],
+["n9925065315","t",41.84142,-89.97457,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

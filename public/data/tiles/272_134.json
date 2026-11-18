@@ -1,0 +1,23 @@
+{"p":[
+["n11070212494","t",46.04305,-112.79474,{"opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11168608346","t",46.13988,-112.50597,{"amenity":"toilets"}],
+["n11168652858","w",46.13995,-112.50557,{"amenity":"drinking_water"}],
+["n11168658312","t",46.13903,-112.50534,{"amenity":"toilets"}],
+["n12190333573","t",46.00845,-112.51693,{"amenity":"toilets"}],
+["n12301940411","t",46.2811,-112.93695,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12302365142","t",46.27885,-112.94754,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12303036485","t",46.28028,-112.93953,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12304865397","t",46.20233,-112.98807,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12304865637","t",46.20361,-112.99479,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12310915014","t",46.16403,-112.82456,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12310915138","t",46.17905,-112.78309,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12312399961","t",46.1131,-112.82721,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12312927312","t",46.18223,-112.85529,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13591021077","t",46.47298,-112.72965,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4483410206","t",46.17175,-112.78671,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w333016139","t",46.09255,-112.80834,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w335147666","t",46.1346,-112.96647,{"amenity":"toilets"}],
+["w885361846","t",46.02297,-112.54329,{"operator":"Butte Silver Bow","fee":"no","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["w885370151","t",46.02275,-112.53079,{"operator":"Butte Silver Bow","fee":"no","wheelchair":"yes","unisex":"no","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w894313886","t",46.0022,-112.66295,{"operator":"Butte Silver Bow","fee":"no","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}]
+]}

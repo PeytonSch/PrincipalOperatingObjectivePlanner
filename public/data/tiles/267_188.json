@@ -1,0 +1,22 @@
+{"p":[
+["n10002389782","t",43.68859,-85.51577,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12120618690","t",43.89999,-85.85335,{"wheelchair":"yes","amenity":"toilets"}],
+["n12184601611","t",43.78644,-85.50095,{"amenity":"toilets"}],
+["n12184601623","t",43.78733,-85.50101,{"amenity":"toilets"}],
+["n12192580721","w",43.56257,-85.54569,{"amenity":"drinking_water"}],
+["n14357473715","t",43.75865,-85.89975,{"amenity":"toilets"}],
+["n2945064129","t",43.64882,-85.52005,{"amenity":"toilets"}],
+["n6008631250","t",43.62841,-85.89995,{"operator":"United States Department of Agriculture Forest Service Huron-Manistee National Forests","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6089474566","t",43.88956,-85.93978,{"operator":"American Land and Leisure","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6883359510","t",43.94776,-85.99681,{"access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6883359511","t",43.94819,-85.9956,{"access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1099755025","t",43.51246,-85.5807,{"amenity":"toilets"}],
+["w1346681283","t",43.6715,-85.82217,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1357114315","t",43.61519,-85.81729,{"name":"Bathhouse","amenity":"toilets"}],
+["w1357115298","t",43.61366,-85.82032,{"name":"Back Bathhouse","amenity":"toilets"}],
+["w1357564655","t",43.61397,-85.81534,{"name":"Changing Rooms","amenity":"toilets"}],
+["w288399169","t",43.50178,-85.58237,{"amenity":"toilets"}],
+["w892077391","t",43.50434,-85.60974,{"amenity":"toilets"}],
+["w892077392","t",43.50479,-85.60872,{"amenity":"toilets"}],
+["w892077393","t",43.50339,-85.6095,{"amenity":"toilets"}]
+]}

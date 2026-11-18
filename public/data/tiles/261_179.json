@@ -1,0 +1,21 @@
+{"p":[
+["n13920785412","w",40.9324,-90.36064,{"operator":"City of Galesburg","opening_hours":"Apr-Oct","fee":"no","access":"yes","seasonal":"yes","amenity":"drinking_water"}],
+["n14017405825","t",40.93682,-90.38156,{"opening_hours":"Apr-Oct","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n14017405826","w",40.93682,-90.38162,{"operator":"City of Galesburg","opening_hours":"Apr-Oct","fee":"no","access":"yes","seasonal":"yes","amenity":"drinking_water"}],
+["n7835833372","w",40.94707,-90.36855,{"operator":"Galesburg Parks and Recreation","fee":"no","access":"yes","seasonal":"yes","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n7835833377","w",40.95686,-90.39586,{"operator":"Galesburg Parks and Recreation","access":"yes","amenity":"drinking_water","man_made":"drinking_fountain"}],
+["n8457350268","t",40.95547,-90.35083,{"opening_hours":"08:00-18:00 open \"open seasonally\"","access":"yes","toilets:disposal":"flush","seasonal":"yes","amenity":"toilets"}],
+["n8837838932","t",40.87794,-90.09259,{"fee":"no","access":"yes","toilets:disposal":"flush","indoor":"yes","amenity":"toilets"}],
+["n9585720569","t",40.98736,-90.41092,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9866879327","w",40.86113,-90.20211,{"drinking_water":"yes","man_made":"water_tap"}],
+["n9866908246","w",40.9123,-90.28336,{"operator":"City of Knoxville","drinking_water":"yes","man_made":"water_tap"}],
+["w1153142566","t",40.94705,-90.36851,{"opening_hours":"Apr-Oct","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1229919530","t",40.9324,-90.36058,{"opening_hours":"Apr-Oct","access":"yes","amenity":"toilets"}],
+["w183175769","t",40.88046,-90.08883,{"amenity":"toilets"}],
+["w823538952","t",40.98774,-90.37968,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w823771099","t",40.98855,-90.39166,{"opening_hours":"Apr-Oct","toilets:disposal":"flush","amenity":"toilets"}],
+["w839729875","t",40.95687,-90.39582,{"opening_hours":"Apr-Oct","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w842249137","t",40.71294,-90.32238,{"name":"Ingersoll Pool House","amenity":"toilets"}],
+["w872067743","t",40.9123,-90.28334,{"amenity":"toilets"}],
+["w969656301","t",40.88222,-90.12221,{"name":"Bathhouse","toilets:disposal":"flush","amenity":"toilets"}]
+]}

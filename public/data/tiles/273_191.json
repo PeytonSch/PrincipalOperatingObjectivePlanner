@@ -1,0 +1,15 @@
+{"p":[
+["n13006971223","t",46.50828,-84.33623,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n2711625769","t",46.81311,-84.25018,{"name":"Norm's Cabin","operator":"Stokely Creek Lodge","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n5681350598","t",46.50061,-84.29703,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5716152895","t",46.51328,-84.34997,{"amenity":"toilets"}],
+["n5744858757","t",46.50864,-84.33647,{"amenity":"toilets"}],
+["n5833576800","t",46.50246,-84.30712,{"amenity":"toilets"}],
+["n9476860846","t",46.80664,-84.31396,{"name":"Stokely Guidepost 8","operator":"Stokely Creek Lodge","access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n9493996406","t",46.80557,-84.33029,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n9533422704","t",46.80001,-84.31931,{"wheelchair":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n9533422705","t",46.81576,-84.36059,{"wheelchair":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n9534915259","t",46.78397,-84.3331,{"unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1577605272","t",46.57462,-84.31428,{"wheelchair":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w720249388","t",46.92836,-84.42526,{"amenity":"toilets"}]
+]}

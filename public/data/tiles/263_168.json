@@ -1,0 +1,9 @@
+{"p":[
+["n10941244008","t",41.85034,-95.58816,{"amenity":"toilets"}],
+["w1453250794","t",41.77269,-95.78465,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1460347337","t",41.58421,-95.94131,{"operator":"FBG Facility Services","opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1483531257","t",41.5916,-95.95398,{"amenity":"toilets"}],
+["w186988167","t",41.87926,-95.97318,{"amenity":"toilets"}],
+["w186988170","t",41.88189,-95.97296,{"amenity":"toilets"}],
+["w186990211","t",41.87626,-95.972,{"amenity":"toilets"}]
+]}

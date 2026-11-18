@@ -1,0 +1,17 @@
+{"p":[
+["n10653159344","t",34.24671,-112.05762,{"name":"Silver Creek Restroom","amenity":"toilets"}],
+["n12288667059","t",34.36265,-112.17576,{"amenity":"toilets"}],
+["n12300447194","t",34.32391,-112.11731,{"amenity":"toilets"}],
+["n3072860864","t",34.23189,-112.10286,{"amenity":"toilets"}],
+["n4099049218","t",34.46457,-112.44067,{"amenity":"toilets"}],
+["n4214467988","t",34.45524,-112.46113,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4214475589","t",34.45477,-112.45984,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5646815510","w",34.18633,-112.13453,{"amenity":"drinking_water"}],
+["n5646815512","t",34.45537,-112.46044,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5646815514","t",34.46236,-112.40371,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5646815518","w",34.18642,-112.13448,{"amenity":"drinking_water"}],
+["w211565765","t",34.18642,-112.13457,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w671419460","t",34.05295,-112.15129,{"amenity":"toilets"}],
+["w820267022","t",34.47111,-112.435,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w823490337","t",34.04895,-112.14976,{"access":"yes","amenity":"toilets"}]
+]}

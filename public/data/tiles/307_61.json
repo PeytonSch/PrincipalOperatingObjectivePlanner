@@ -1,0 +1,21 @@
+{"p":[
+["n13141909574","t",63.72761,-149.35697,{"amenity":"toilets"}],
+["n13141940418","t",63.72774,-149.35694,{"amenity":"toilets"}],
+["n2684469418","t",63.73993,-149.29138,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w263567390","t",63.74014,-149.29383,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w263567415","t",63.74016,-149.29371,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w275374558","t",63.71635,-149.25995,{"operator":"National Park Service","amenity":"toilets"}],
+["w275374597","t",63.719,-149.26014,{"amenity":"toilets"}],
+["w275374630","t",63.72774,-149.35696,{"operator":"National Park Service","amenity":"toilets"}],
+["w275374696","t",63.71403,-149.26337,{"operator":"National Park Service","amenity":"toilets"}],
+["w275374720","t",63.71541,-149.25495,{"operator":"National Park Service","amenity":"toilets"}],
+["w275374724","t",63.71899,-149.25991,{"amenity":"toilets"}],
+["w275374749","t",63.71546,-149.25499,{"operator":"National Park Service","amenity":"toilets"}],
+["w275374845","t",63.71616,-149.25961,{"operator":"National Park Service","amenity":"toilets"}],
+["w275374865","t",63.71508,-149.25435,{"operator":"National Park Service","amenity":"toilets"}],
+["w275374980","t",63.71503,-149.25424,{"operator":"National Park Service","amenity":"toilets"}],
+["w275375136","t",63.72254,-149.47344,{"operator":"National Park Service","amenity":"toilets"}],
+["w275375275","t",63.7147,-149.26196,{"operator":"National Park Service","amenity":"toilets"}],
+["w275375288","t",63.719,-149.26035,{"operator":"National Park Service","amenity":"toilets"}],
+["w275375430","t",63.72762,-149.35699,{"operator":"National Park Service","amenity":"toilets"}]
+]}

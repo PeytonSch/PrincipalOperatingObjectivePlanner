@@ -1,0 +1,13 @@
+{"p":[
+["n2338632241","t",40.1784,-120.58504,{"amenity":"toilets"}],
+["n2338632242","t",40.17817,-120.58156,{"amenity":"toilets"}],
+["n2338632243","t",40.17859,-120.58326,{"amenity":"toilets"}],
+["n2338632244","t",40.18109,-120.60807,{"amenity":"toilets"}],
+["n2338681333","t",40.18613,-120.59277,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2338702120","t",40.17862,-120.57848,{"amenity":"toilets"}],
+["n4386130662","w",40.41878,-120.65444,{"amenity":"drinking_water"}],
+["n5860258542","w",40.41121,-120.65083,{"amenity":"drinking_water"}],
+["w1122485066","t",40.42228,-120.52616,{"operator":"US Bureau of Land Management","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w440844352","t",40.41885,-120.65442,{"amenity":"toilets"}],
+["w620243869","t",40.41118,-120.65088,{"amenity":"toilets"}]
+]}

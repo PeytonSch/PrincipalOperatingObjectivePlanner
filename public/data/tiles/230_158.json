@@ -1,0 +1,11 @@
+{"p":[
+["n11191337099","w",25.39165,-100.95158,{"amenity":"water_point"}],
+["n11191337100","w",25.40081,-100.94679,{"operator":"PURAGUA","opening_hours":"24/7","amenity":"water_point"}],
+["n12141273991","t",25.45499,-100.98137,{"amenity":"toilets"}],
+["n13409807048","t",25.33532,-100.99296,{"access":"yes","amenity":"toilets"}],
+["w1207826786","t",25.434,-100.95772,{"amenity":"toilets"}],
+["w1207830681","t",25.43483,-100.95731,{"amenity":"toilets"}],
+["w152416195","t",25.44381,-100.99571,{"fee":"no","amenity":"toilets"}],
+["w628946655","t",25.43132,-100.9764,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w628946659","t",25.43216,-100.97537,{"amenity":"toilets"}]
+]}

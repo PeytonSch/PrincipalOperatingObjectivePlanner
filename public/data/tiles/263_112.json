@@ -1,0 +1,11 @@
+{"p":[
+["n11013344208","t",41.68698,-123.90931,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11013344209","t",41.6886,-123.90884,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11013344321","t",41.85661,-123.8879,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11013344322","t",41.85631,-123.88937,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12331409449","t",41.8723,-123.84474,{"wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12717198629","t",41.65423,-123.86377,{"operator":"Smith River National Recreation Area","access":"yes","unisex":"yes","toilets:disposal":"vault","amenity":"toilets"}],
+["n2574781275","t",41.96855,-123.74757,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w1290104801","t",41.96857,-123.74758,{"fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1290573972","t",41.98242,-123.96057,{"amenity":"toilets"}]
+]}

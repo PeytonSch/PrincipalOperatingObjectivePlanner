@@ -1,0 +1,21 @@
+{"p":[
+["n11394105827","t",43.58465,-83.68113,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12776800187","t",43.61115,-83.87408,{"amenity":"toilets"}],
+["n12776807407","t",43.61113,-83.87418,{"amenity":"toilets"}],
+["n2351682591","w",43.55731,-83.98631,{"description":"Delta college about 10-20 throughout the building.","indoor":"yes","amenity":"drinking_water"}],
+["n2945064127","t",43.52817,-83.94373,{"wheelchair":"yes","amenity":"toilets"}],
+["n2956728984","t",43.91615,-83.96691,{"amenity":"toilets"}],
+["n4330200764","t",43.98314,-83.96035,{"wheelchair":"yes","amenity":"toilets"}],
+["n5275101112","w",43.91592,-83.96708,{"amenity":"drinking_water"}],
+["n6418541759","t",43.63458,-83.81566,{"amenity":"toilets"}],
+["n6815803091","t",43.62174,-83.93342,{"access":"permissive","changing_table":"yes","amenity":"toilets"}],
+["n6827735232","t",43.5804,-83.8421,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["n6827735233","t",43.5766,-83.8533,{"unisex":"yes","amenity":"toilets"}],
+["w1212570862","t",43.61473,-83.87128,{"amenity":"toilets"}],
+["w1213000199","t",43.85455,-83.92511,{"amenity":"toilets"}],
+["w1228638875","t",43.58465,-83.68113,{"amenity":"toilets"}],
+["w1265218188","t",43.66522,-83.90421,{"opening_hours":"11:00-09:30","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w1265218189","t",43.66385,-83.90069,{"opening_hours":"09:30-08:00","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w617833758","t",43.98315,-83.96036,{"access":"yes","wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["w686348564","t",43.62292,-83.80352,{"amenity":"toilets"}]
+]}

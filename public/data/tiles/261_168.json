@@ -1,0 +1,19 @@
+{"p":[
+["n11832113960","t",40.66968,-95.68682,{"wheelchair":"no","amenity":"toilets"}],
+["n11833261270","w",40.66992,-95.68963,{"amenity":"drinking_water"}],
+["n11833679248","t",40.67421,-95.6881,{"amenity":"toilets"}],
+["n11835060749","t",40.66774,-95.69273,{"amenity":"toilets"}],
+["n11835110060","t",40.66891,-95.68958,{"amenity":"toilets"}],
+["n11835122830","w",40.6723,-95.69157,{"amenity":"drinking_water"}],
+["n2176655548","t",40.68044,-95.88247,{"amenity":"toilets"}],
+["n2176721645","t",40.67545,-95.87686,{"amenity":"toilets"}],
+["n2176721796","t",40.67518,-95.87756,{"amenity":"toilets"}],
+["n2176721824","t",40.67533,-95.87583,{"amenity":"toilets"}],
+["n4392810275","t",40.92504,-95.87283,{"fee":"no","access":"customers","amenity":"toilets"}],
+["n6865278010","w",40.82071,-95.75305,{"wheelchair":"yes","amenity":"drinking_water"}],
+["n7555055034","w",40.67468,-95.68828,{"operator":"Waubonsie State Park","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["w1273900569","t",40.67255,-95.68765,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w207412557","t",40.68038,-95.87627,{"name":"Restrooms","amenity":"toilets"}],
+["w262671694","t",40.67677,-95.85465,{"access":"yes","amenity":"toilets"}],
+["w512352022","t",40.66774,-95.69272,{"access":"yes","unisex":"yes","amenity":"toilets"}]
+]}

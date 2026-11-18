@@ -1,0 +1,11 @@
+{"p":[
+["n11343670245","t",37.30057,-78.55252,{"access":"yes","amenity":"toilets"}],
+["n13418498254","t",37.39441,-78.63881,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n13427336990","t",37.26286,-78.65638,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9312762888","w",37.37638,-78.79652,{"amenity":"drinking_water"}],
+["w1315444742","t",37.30196,-78.557,{"operator":"Virginia Department of Conservation and Recreation","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1462872330","t",37.39543,-78.63913,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w187340004","t",37.37823,-78.79602,{"name":"Slave Quarters","amenity":"toilets"}],
+["w410100079","t",37.39036,-78.6405,{"fee":"no","wheelchair":"yes","changing_table":"no","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w762753950","t",37.38984,-78.64,{"wheelchair":"yes","changing_table":"no","amenity":"toilets"}]
+]}

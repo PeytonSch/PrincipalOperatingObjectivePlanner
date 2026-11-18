@@ -1,0 +1,11 @@
+{"p":[
+["n11060482960","t",40.58655,-121.09097,{"name":"Bogard rest area","amenity":"toilets"}],
+["n13018099488","t",40.56524,-121.30461,{"amenity":"toilets"}],
+["n13018111012","w",40.56368,-121.30622,{"amenity":"drinking_water"}],
+["n13018118685","t",40.56367,-121.30623,{"amenity":"toilets"}],
+["n2977263901","t",40.56487,-121.30145,{"amenity":"toilets"}],
+["n29946571","t",40.68548,-121.41902,{"access":"yes","amenity":"toilets"}],
+["n3141193272","t",40.70213,-121.40613,{"amenity":"toilets"}],
+["n6932705142","t",40.62562,-121.47878,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w740802573","t",40.51578,-121.4646,{"wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

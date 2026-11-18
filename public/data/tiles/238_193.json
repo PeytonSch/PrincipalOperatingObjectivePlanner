@@ -1,0 +1,14 @@
+{"p":[
+["n13346842435","w",29.13594,-83.02977,{"bottle":"no","amenity":"drinking_water"}],
+["n13347121110","w",29.13699,-83.02984,{"indoor":"no","amenity":"drinking_water"}],
+["n13348960584","w",29.13743,-83.02946,{"bottle":"no","indoor":"yes","amenity":"drinking_water"}],
+["n13348969833","w",29.13736,-83.02944,{"bottle":"no","indoor":"no","amenity":"drinking_water"}],
+["n13351923560","w",29.15066,-83.0481,{"bottle":"no","indoor":"yes","amenity":"drinking_water"}],
+["n1925785388","t",29.39352,-83.20178,{"fee":"no","wheelchair":"limited","amenity":"toilets"}],
+["n1925785392","t",29.39834,-83.2046,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["n3990249529","t",29.20684,-83.06854,{"amenity":"toilets"}],
+["w1455838972","t",29.15061,-83.04815,{"unisex":"no","indoor":"room","amenity":"toilets"}],
+["w1455838973","t",29.15065,-83.04815,{"unisex":"no","indoor":"room","amenity":"toilets"}],
+["w566193373","t",29.13422,-83.03099,{"access":"yes","unisex":"no","amenity":"toilets"}],
+["w566193375","t",29.13592,-83.02978,{"operator":"Cedar Kay","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

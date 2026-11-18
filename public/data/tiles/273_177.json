@@ -1,0 +1,20 @@
+{"p":[
+["n11054016277","t",46.79181,-91.40285,{"amenity":"toilets"}],
+["n11899358308","t",46.83281,-91.10339,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12391441418","t",46.72286,-91.04572,{"access":"yes","amenity":"toilets"}],
+["n14155805510","w",46.88279,-91.04736,{"amenity":"drinking_water","man_made":"water_tap"}],
+["n14157616029","t",46.83457,-91.26164,{"wheelchair":"no","changing_table":"no","amenity":"toilets"}],
+["n14157629562","t",46.83509,-91.25486,{"wheelchair":"no","changing_table":"no","amenity":"toilets"}],
+["n14157629600","t",46.83624,-91.25618,{"wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n14157634006","t",46.8343,-91.2543,{"wheelchair":"no","changing_table":"no","amenity":"toilets"}],
+["n14157650897","t",46.83626,-91.25604,{"wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n14158060851","t",46.83711,-91.25492,{"wheelchair":"no","changing_table":"no","amenity":"toilets"}],
+["n14158068510","t",46.83714,-91.25487,{"wheelchair":"no","changing_table":"no","amenity":"toilets"}],
+["n14158069904","t",46.83681,-91.25547,{"wheelchair":"no","changing_table":"no","amenity":"toilets"}],
+["n6572395736","t",46.77574,-91.38685,{"unisex":"yes","drinking_water":"yes","amenity":"toilets"}],
+["n7417306984","t",46.62119,-91.44675,{"amenity":"toilets"}],
+["n9525751773","w",46.85969,-91.09852,{"name":"Cornucopia Artesian Well","operator":"Town of Bell","fee":"no","access":"yes","wheelchair":"yes","drinking_water":"yes","bottle":"yes","amenity":"drinking_water","man_made":"water_well"}],
+["w1190506155","t",46.79156,-91.38518,{"amenity":"toilets"}],
+["w507094936","t",46.77161,-91.45581,{"fee":"no","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w672134372","t",46.88342,-91.04768,{"operator":"National Park Service","fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

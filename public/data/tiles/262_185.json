@@ -1,0 +1,20 @@
+{"p":[
+["n10285841433","t",41.14098,-87.32237,{"amenity":"toilets"}],
+["n10285841452","t",41.14252,-87.32393,{"amenity":"toilets"}],
+["n11015846019","t",41.41065,-87.2241,{"amenity":"toilets"}],
+["n11028629785","t",41.47226,-87.06728,{"amenity":"toilets"}],
+["n1102889047","t",41.16522,-87.271,{"name":"I-65 Rest Stop (northbound)","amenity":"toilets"}],
+["n1102889048","t",41.16662,-87.27482,{"name":"I-65 Rest Stop (southbound)","amenity":"toilets"}],
+["n11098754435","t",41.49782,-87.06342,{"name":"Restroom","amenity":"toilets"}],
+["n12736107545","t",41.48941,-87.44584,{"amenity":"toilets"}],
+["n14185211789","t",41.46924,-87.22965,{"amenity":"toilets"}],
+["n14185211790","t",41.4692,-87.22962,{"amenity":"toilets"}],
+["n358680833","t",41.46476,-87.08447,{"amenity":"toilets"}],
+["w1046720679","t",41.48484,-87.04301,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1244633804","t",41.36051,-87.22784,{"access":"yes","amenity":"toilets"}],
+["w1244633818","t",41.36131,-87.22707,{"access":"yes","amenity":"toilets"}],
+["w1485582543","t",41.44531,-87.155,{"amenity":"toilets"}],
+["w1485582545","t",41.44516,-87.14874,{"amenity":"toilets"}],
+["w262259948","t",41.39913,-87.22015,{"amenity":"toilets"}],
+["w965127355","t",41.4644,-87.03025,{"name":"The Home Depot","opening_hours":"Mo-Sa 06:00-22:00; Su 07:00-20:00","wheelchair":"yes","changing_table":"yes","amenity":"toilets"}]
+]}

@@ -1,0 +1,16 @@
+{"p":[
+["n12760044376","w",36.62289,-78.52646,{"amenity":"drinking_water"}],
+["n2599649966","t",36.61935,-78.50762,{"wheelchair":"yes","amenity":"toilets"}],
+["n2602273070","w",36.61841,-78.50657,{"amenity":"drinking_water"}],
+["n2602273085","w",36.61854,-78.50676,{"amenity":"drinking_water"}],
+["n8537254619","t",36.9028,-78.74622,{"amenity":"toilets"}],
+["n8537254620","t",36.90358,-78.74514,{"amenity":"toilets"}],
+["w1087747743","t",36.63017,-78.52674,{"access":"permit","toilets:disposal":"flush","amenity":"toilets"}],
+["w1087747753","t",36.63139,-78.53677,{"amenity":"toilets"}],
+["w1087747765","t",36.62502,-78.52994,{"name":"Atlatl Campground Bathhouse","amenity":"toilets"}],
+["w1087747769","t",36.62624,-78.53121,{"amenity":"toilets"}],
+["w1087747775","t",36.62639,-78.53315,{"name":"Iron Bow Campground Bathhouse","amenity":"toilets"}],
+["w1087747778","t",36.62272,-78.52579,{"amenity":"toilets"}],
+["w1087747789","t",36.63375,-78.53446,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1396477093","t",36.66324,-78.56897,{"toilets:disposal":"vault","amenity":"toilets"}]
+]}

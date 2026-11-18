@@ -1,0 +1,11 @@
+{"p":[
+["n11227369652","t",38.41137,-79.99504,{"amenity":"toilets"}],
+["n11985691422","w",38.11604,-79.61226,{"name":"Fort Lewis Lodge & Farm","amenity":"drinking_water"}],
+["n12038112207","w",38.39717,-79.91459,{"description":"Garden hose for bike washing and water. Located in what looks like an entrance to a cellar, in front of the building.","fee":"no","access":"yes","amenity":"drinking_water"}],
+["n2030568642","t",38.43021,-79.81798,{"amenity":"toilets"}],
+["n5752410692","t",38.30655,-79.92135,{"fee":"no","access":"customers","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7876739886","t",38.31831,-79.97342,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9430312294","w",38.0689,-79.88392,{"access":"yes","drinking_water":"yes","man_made":"water_tap"}],
+["w1022502956","t",38.0691,-79.88494,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1212153741","t",38.4158,-79.985,{"fee":"no","access":"customers","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

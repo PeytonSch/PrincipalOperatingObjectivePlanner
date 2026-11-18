@@ -1,0 +1,19 @@
+{"p":[
+["n2662209129","t",40.29241,-96.84217,{"amenity":"toilets"}],
+["n2662209192","t",40.29231,-96.84218,{"amenity":"toilets"}],
+["n2662229075","t",40.28555,-96.82671,{"amenity":"toilets"}],
+["n2667909001","w",40.26632,-96.75191,{"amenity":"drinking_water"}],
+["n2667909003","t",40.26626,-96.75275,{"amenity":"toilets"}],
+["n5113410852","w",40.0458,-96.57787,{"opening_hours":"Apr-Oct 00:00-24:00","amenity":"drinking_water"}],
+["n5616377274","w",40.13907,-96.64412,{"amenity":"drinking_water"}],
+["n5745763604","w",40.25509,-96.74746,{"amenity":"drinking_water"}],
+["n5758847050","t",40.28426,-96.75184,{"fee":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w525670641","t",40.0458,-96.57789,{"opening_hours":"Apr-Oct 00:00-24:00","unisex":"yes","amenity":"toilets"}],
+["w587977647","t",40.19771,-96.66205,{"amenity":"toilets"}],
+["w587977685","t",40.13888,-96.64401,{"wheelchair":"yes","amenity":"toilets"}],
+["w605477273","t",40.27342,-96.76809,{"operator":"City of Beatrice","fee":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w605760051","t",40.25238,-96.73994,{"operator":"City of Beatrice","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w605761796","t",40.25451,-96.74365,{"operator":"City of Beatrice","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w605770914","t",40.27611,-96.72127,{"amenity":"toilets"}],
+["w607730039","t",40.26154,-96.72896,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

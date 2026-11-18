@@ -1,0 +1,13 @@
+{"p":[
+["n4036447952","t",29.48902,-82.97744,{"fee":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4037271033","w",29.49202,-82.97182,{"amenity":"drinking_water"}],
+["n4037271035","t",29.49265,-82.97058,{"amenity":"toilets"}],
+["n4037271045","t",29.49188,-82.97156,{"unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n4038359023","w",29.48917,-82.97666,{"amenity":"drinking_water"}],
+["n4038359029","w",29.48806,-82.97542,{"amenity":"drinking_water"}],
+["w316906291","t",29.0129,-82.65689,{"amenity":"toilets"}],
+["w316913397","t",29.00323,-82.70336,{"amenity":"toilets"}],
+["w400896397","t",29.48638,-82.97815,{"operator":"Salt Springs State Park","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w400896399","t",29.48801,-82.97541,{"operator":"Salt Springs State Park","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w400896402","t",29.48543,-82.9755,{"operator":"Salt Springs State Park","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}]
+]}

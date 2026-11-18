@@ -1,0 +1,12 @@
+{"p":[
+["n11406426150","t",39.68424,-88.30766,{"name":"Arcola Public Restrooms","amenity":"toilets"}],
+["n12730024666","w",39.93108,-88.30418,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n12730024681","w",39.93154,-88.30424,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n12730126978","w",39.92203,-88.29915,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n12730126988","w",39.92169,-88.29878,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n3208518162","t",39.78805,-88.26896,{"amenity":"toilets"}],
+["n3208857780","t",39.78829,-88.27057,{"amenity":"toilets"}],
+["w103482459","t",39.93135,-88.30422,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w103482468","t",39.92183,-88.29895,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1463037983","t",39.91339,-88.26848,{"access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

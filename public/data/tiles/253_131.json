@@ -1,0 +1,17 @@
+{"p":[
+["n10278022986","w",36.80882,-114.06895,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n10285716568","w",36.80112,-114.07314,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n12331438919","w",36.54092,-114.44187,{"fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n13952132350","t",36.80055,-114.09985,{"access":"customers","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n9584929278","t",36.52307,-114.14052,{"operator":"U.S. Department of the Interior, Bureau of Land Management","opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n9998798885","w",36.809,-114.08631,{"fee":"no","access":"yes","bottle":"no","amenity":"drinking_water"}],
+["w1023006289","t",36.80906,-114.08626,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1124621516","t",36.80505,-114.07794,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1125595438","t",36.80501,-114.13786,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1125595439","t",36.80502,-114.13787,{"fee":"no","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1127425847","t",36.82188,-114.06293,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1133442448","t",36.79698,-114.07677,{"operator":"City of Mesquite Park & Recreaction Department","opening_hours":"sunrise-sunset","fee":"no","access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1216663959","t",36.7971,-114.11537,{"operator":"Mesquite Trails RV Resort","opening_hours":"24/7","fee":"no","access":"customers","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w960594538","t",36.7975,-114.07739,{"operator":"City of Mesquite Park & Recreaction Department","opening_hours":"sunrise-sunset","fee":"no","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w960594542","t",36.79736,-114.07957,{"operator":"City of Mesquite Park & Recreaction Department","fee":"no","access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

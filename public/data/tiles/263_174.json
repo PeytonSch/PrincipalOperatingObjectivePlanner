@@ -1,0 +1,14 @@
+{"p":[
+["n12070275431","t",41.70763,-92.77985,{"amenity":"toilets"}],
+["n12070275434","t",41.70595,-92.78608,{"amenity":"toilets"}],
+["n12070295765","t",41.77939,-92.96141,{"amenity":"toilets"}],
+["n14216519690","w",41.75355,-92.72585,{"operator":"City of Grinnell","fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n2303911564","t",41.95635,-92.57559,{"amenity":"toilets"}],
+["n2340582517","t",41.97511,-92.57779,{"amenity":"toilets"}],
+["w1303299056","t",41.70595,-92.78608,{"name":"Restrooms & Shelter","amenity":"toilets"}],
+["w1303299061","t",41.70763,-92.77988,{"name":"Restrooms & Shelter","amenity":"toilets"}],
+["w1303320888","t",41.77938,-92.96141,{"amenity":"toilets"}],
+["w1303320895","t",41.78089,-92.96324,{"amenity":"toilets"}],
+["w1454589663","t",41.69619,-92.77241,{"amenity":"toilets"}],
+["w76287052","t",41.69414,-92.77365,{"amenity":"toilets"}]
+]}

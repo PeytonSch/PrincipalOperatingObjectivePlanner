@@ -1,0 +1,22 @@
+{"p":[
+["n6598898485","t",46.58847,-81.38088,{"amenity":"toilets"}],
+["n6610088724","t",46.57512,-81.31231,{"amenity":"toilets"}],
+["n8567294906","t",46.61808,-81.44126,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n8567294907","t",46.61753,-81.44417,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567294908","t",46.61808,-81.456,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567294909","t",46.61789,-81.45603,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567294910","t",46.61844,-81.45161,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n8567294911","t",46.61739,-81.45466,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567294912","t",46.61733,-81.45489,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567294913","t",46.61797,-81.44967,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567294914","t",46.61787,-81.4498,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567295646","t",46.61646,-81.43464,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n8567295673","t",46.61548,-81.43315,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567365756","t",46.62425,-81.4516,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567365757","t",46.62417,-81.45147,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567365758","t",46.62247,-81.45027,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567365759","t",46.62238,-81.45035,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567365760","t",46.62085,-81.45505,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8567365761","t",46.62076,-81.45501,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w922905600","t",46.62259,-81.45264,{"operator":"Ontario Parks","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

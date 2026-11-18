@@ -1,0 +1,9 @@
+{"p":[
+["n4041724193","w",36.54411,-110.98022,{"name":"Water Trough (Filter for Human Use)","amenity":"drinking_water"}],
+["n563030145","t",36.67816,-110.54122,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["n563030155","t",36.67591,-110.54272,{"fee":"no","amenity":"toilets"}],
+["n6654287141","w",36.67818,-110.54097,{"amenity":"drinking_water"}],
+["w1446410795","t",36.68643,-110.54146,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1446410802","t",36.68514,-110.54125,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1446410804","t",36.68737,-110.54154,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

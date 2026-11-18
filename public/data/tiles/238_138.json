@@ -1,0 +1,22 @@
+{"p":[
+["n10292362135","w",29.05622,-110.9785,{"amenity":"drinking_water"}],
+["n10292362136","w",29.05548,-110.97839,{"amenity":"drinking_water"}],
+["n10292362137","t",29.0562,-110.97855,{"amenity":"toilets"}],
+["n10294195453","t",29.05219,-110.98382,{"amenity":"toilets"}],
+["n11033314653","t",29.04427,-110.95816,{"fee":"no","amenity":"toilets"}],
+["n11033314661","w",29.04412,-110.95807,{"amenity":"drinking_water"}],
+["n11399561873","t",29.01598,-110.96262,{"amenity":"toilets"}],
+["n11725860701","t",29.12171,-110.96207,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n11725860702","t",29.12184,-110.96121,{"access":"yes","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["n11725860703","t",29.12143,-110.96247,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13535948801","w",29.02508,-110.96497,{"name":"Purificadora de agua autoservicio","amenity":"drinking_water"}],
+["n13568870001","w",29.03328,-110.97,{"name":"Purificadora de agua","amenity":"drinking_water"}],
+["n13761112801","w",29.05586,-110.97216,{"name":"Agua Purificada Milo","amenity":"drinking_water"}],
+["n13807540101","w",29.05188,-110.97834,{"name":"Agua Purificada Awatuky","amenity":"drinking_water"}],
+["n3872267522","w",29.11117,-110.92927,{"amenity":"drinking_water"}],
+["n3872267523","w",29.10415,-110.92688,{"amenity":"drinking_water"}],
+["n3872277164","w",29.11922,-110.93718,{"amenity":"drinking_water"}],
+["n4931963421","w",29.1416,-110.97159,{"name":"casa wicho","amenity":"drinking_water"}],
+["w425015262","t",29.08211,-110.96714,{"name":"(7N) Baños Alberca","fee":"no","unisex":"yes","amenity":"toilets"}],
+["w722103363","t",29.10896,-110.99639,{"amenity":"toilets"}]
+]}

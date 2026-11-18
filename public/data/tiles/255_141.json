@@ -1,0 +1,13 @@
+{"p":[
+["n5754563929","t",37.85696,-109.36228,{"amenity":"toilets"}],
+["n7666719156","t",37.62576,-109.47329,{"opening_hours":"24/7","fee":"no","access":"yes","changing_table":"no","amenity":"toilets"}],
+["n9666127311","w",37.59868,-109.48025,{"amenity":"drinking_water"}],
+["w1051851561","t",37.59748,-109.47926,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1136578317","t",37.88048,-109.44871,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1136578318","t",37.88104,-109.44973,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1136578321","t",37.87415,-109.43403,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1136578322","t",37.87379,-109.43191,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1304568600","t",37.77969,-109.4466,{"operator":"US Forest Service","amenity":"toilets"}],
+["w1416884998","t",37.8753,-109.43463,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1416885001","t",37.89401,-109.46907,{"toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

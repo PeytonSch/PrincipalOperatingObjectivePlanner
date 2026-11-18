@@ -1,0 +1,16 @@
+{"p":[
+["n12104986280","t",48.85445,-117.29166,{"wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12229402027","t",48.76686,-117.06217,{"operator":"Idaho Panhandle National Forests","access":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12856637503","t",48.98794,-117.31472,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12856802113","t",48.85643,-117.31946,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12898772225","t",48.98797,-117.31411,{"operator":"Colville National Forest","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12991081886","t",48.99526,-117.3702,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n7196676011","t",48.52089,-117.294,{"operator":"Washington Department of Fish and Wildlife","amenity":"toilets"}],
+["w1307113395","t",48.85876,-117.30061,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1332109315","t",48.95519,-117.0812,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1393457085","t",48.97635,-117.33938,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1393457088","t",48.98976,-117.34628,{"access":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1393711402","t",48.91768,-117.33292,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1393740297","t",48.8242,-117.39751,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1393740298","t",48.82411,-117.39748,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

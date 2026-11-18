@@ -1,0 +1,16 @@
+{"p":[
+["n13120326722","t",38.07406,-81.07738,{"operator":"National Park Service","amenity":"toilets"}],
+["n13120337759","t",38.04119,-81.06788,{"operator":"National Park Service","amenity":"toilets"}],
+["n13120504515","t",38.04593,-81.06844,{"operator":"National Park Service","amenity":"toilets"}],
+["n13121345524","t",38.05022,-81.04011,{"operator":"National Park Service","amenity":"toilets"}],
+["n2944686677","t",38.12326,-81.12775,{"amenity":"toilets"}],
+["n6008641310","t",38.06304,-81.05683,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6008643262","t",38.05977,-81.0492,{"wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6750955540","t",38.20495,-81.01734,{"amenity":"toilets"}],
+["n7344589694","t",38.08194,-81.07671,{"amenity":"toilets"}],
+["n9643693762","t",38.04005,-81.08102,{"amenity":"toilets"}],
+["w1423099793","t",38.04176,-81.07822,{"name":"Long Point Restroom","operator":"National Park Service","amenity":"toilets"}],
+["w1427219610","t",38.05822,-81.03437,{"operator":"National Park Service","amenity":"toilets"}],
+["w623909357","t",38.05717,-81.09379,{"amenity":"toilets"}],
+["w718431423","t",38.06619,-81.08131,{"toilets:disposal":"vault","amenity":"toilets"}]
+]}

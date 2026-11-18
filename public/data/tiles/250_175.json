@@ -1,0 +1,20 @@
+{"p":[
+["n12118974994","t",35.08892,-92.45761,{"operator":"Laurel Park","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12118974999","t",35.08892,-92.45751,{"operator":"Laurel Park","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12119007653","t",35.08896,-92.45756,{"operator":"Laurel Park","access":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12119007655","w",35.08897,-92.45754,{"operator":"Laurel Park","fee":"no","access":"yes","amenity":"drinking_water"}],
+["n13796269092","w",35.08187,-92.47195,{"fee":"no","amenity":"drinking_water"}],
+["n13803235986","t",35.06463,-92.45743,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n13803271171","t",35.09244,-92.46399,{"access":"yes","wheelchair":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n4396923190","w",35.10275,-92.41633,{"amenity":"water_point"}],
+["n5706927401","w",35.08142,-92.47236,{"amenity":"drinking_water"}],
+["n5706929745","t",35.08093,-92.47208,{"fee":"no","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5706984150","w",35.10164,-92.46112,{"amenity":"drinking_water"}],
+["n8089486083","t",35.07802,-92.4789,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1303364533","t",35.10168,-92.46112,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1314412518","t",35.22896,-92.38494,{"amenity":"toilets"}],
+["w1347460379","t",35.49943,-92.05566,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1357815789","t",35.14084,-92.45385,{"amenity":"toilets"}],
+["w1498869921","t",35.08188,-92.47195,{"access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w588151479","t",35.07336,-92.46047,{"amenity":"toilets"}]
+]}

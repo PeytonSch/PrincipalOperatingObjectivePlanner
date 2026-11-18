@@ -1,0 +1,13 @@
+{"p":[
+["n10751880606","t",35.12329,-90.07519,{"amenity":"toilets"}],
+["n10751880805","t",35.12319,-90.07519,{"amenity":"toilets"}],
+["n12329669259","t",35.34378,-90.03283,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13418569935","t",35.05915,-90.12762,{"amenity":"toilets"}],
+["n14010801699","t",35.13726,-90.06211,{"amenity":"toilets"}],
+["n5885332893","t",35.26712,-90.45837,{"amenity":"toilets"}],
+["n6159249334","t",35.12632,-90.07192,{"amenity":"toilets"}],
+["w1536320253","t",35.1464,-90.04009,{"amenity":"toilets"}],
+["w1547977749","t",35.34235,-90.0373,{"amenity":"toilets"}],
+["w645492802","t",35.04143,-90.00393,{"amenity":"toilets"}],
+["w95139718","t",35.14921,-90.05485,{"name":"Tennessee Welcome Center","operator":"Tennessee Department of Tourist Development","opening_hours":"Mo-Su 07:00-22:00","fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","drinking_water":"yes","amenity":"toilets"}]
+]}

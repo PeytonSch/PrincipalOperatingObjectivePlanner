@@ -1,0 +1,13 @@
+{"p":[
+["n3798879335","t",42.23902,-97.00696,{"amenity":"toilets"}],
+["n3798879361","w",42.23904,-97.00707,{"amenity":"drinking_water"}],
+["n3798879397","w",42.24756,-97.00716,{"amenity":"drinking_water"}],
+["n3798879434","w",42.23841,-97.00767,{"amenity":"drinking_water"}],
+["n4569033883","t",42.22952,-97.00466,{"amenity":"toilets"}],
+["n4569037870","w",42.2296,-97.00454,{"amenity":"drinking_water"}],
+["n4569043112","t",42.22952,-97.00464,{"changing_table":"yes","amenity":"toilets"}],
+["n4569143456","w",42.23818,-97.02162,{"amenity":"drinking_water"}],
+["w608654474","t",42.04255,-97.44008,{"operator":"City of Norfolk","fee":"no","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w608654475","t",42.04118,-97.44496,{"operator":"City of Norfolk","fee":"no","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w608658532","t",42.00382,-97.42452,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

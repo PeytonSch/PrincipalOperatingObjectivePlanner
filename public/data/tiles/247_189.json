@@ -1,0 +1,17 @@
+{"p":[
+["n12304130060","w",33.94883,-85.38811,{"drinking_water":"yes","man_made":"water_tap"}],
+["n3554992485","t",33.67759,-85.3202,{"operator":"Georgia Visitor Information Center","opening_hours":"07:00-23:00","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n6176636302","t",33.56459,-85.09179,{"amenity":"toilets"}],
+["n6176636303","w",33.56457,-85.09176,{"amenity":"drinking_water"}],
+["n6426344396","t",33.58072,-85.07489,{"access":"yes","wheelchair":"yes","changing_table":"no","amenity":"toilets"}],
+["n6426344397","t",33.58075,-85.07489,{"access":"yes","amenity":"toilets"}],
+["n8553055789","w",33.99833,-85.05327,{"amenity":"drinking_water"}],
+["n8553055790","w",33.99964,-85.05238,{"amenity":"drinking_water"}],
+["n8553055791","t",33.99961,-85.05237,{"amenity":"toilets"}],
+["w1235699751","t",33.56249,-85.04531,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1509600863","t",33.58893,-85.10479,{"amenity":"toilets"}],
+["w177286120","t",33.66952,-85.37217,{"operator":"Cleburne Welcome Center","amenity":"toilets"}],
+["w544804715","t",33.58525,-85.07788,{"amenity":"toilets"}],
+["w585158934","t",33.58046,-85.12147,{"amenity":"toilets"}],
+["w585158935","t",33.58,-85.12147,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,13 @@
+{"p":[
+["n10974945934","w",49.08153,-116.09489,{"drinking_water":"yes","man_made":"water_tap"}],
+["n10974945937","w",49.08056,-116.09429,{"drinking_water":"yes","man_made":"water_tap"}],
+["n10974945938","t",49.08054,-116.09437,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n10974945940","w",49.08123,-116.09422,{"drinking_water":"yes","man_made":"water_tap"}],
+["n10974945941","t",49.08127,-116.09415,{"wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13121651664","w",49.08541,-116.43136,{"operator":"Canyon Park","access":"yes","drinking_water":"yes","man_made":"water_tap"}],
+["n6699309945","w",49.16256,-116.26495,{"amenity":"drinking_water"}],
+["w1334634914","t",49.02794,-116.46256,{"amenity":"toilets"}],
+["w1427363778","t",49.08543,-116.43131,{"access":"customers","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1427364799","t",49.08571,-116.43122,{"access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w712540514","t",49.16227,-116.26592,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

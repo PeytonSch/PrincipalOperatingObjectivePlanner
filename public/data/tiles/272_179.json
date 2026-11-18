@@ -1,0 +1,11 @@
+{"p":[
+["n11388630532","w",46.07323,-90.17333,{"wheelchair":"yes","drinking_water":"untreated","seasonal":"yes","amenity":"drinking_water","man_made":"water_well"}],
+["n5767136562","t",46.4629,-90.19548,{"amenity":"toilets"}],
+["w1228109184","t",46.07333,-90.17346,{"fee":"no","wheelchair":"yes","toilets:disposal":"septic_tank","amenity":"toilets"}],
+["w1386612684","t",46.08234,-90.0797,{"amenity":"toilets"}],
+["w1396299760","t",46.0944,-90.20622,{"amenity":"toilets"}],
+["w1536530214","t",46.3264,-90.15618,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w360290417","t",46.46292,-90.18795,{"name":"Michigan Welcome Center","operator":"Michigan Department of Transportation","amenity":"toilets"}],
+["w509836246","t",46.48048,-90.02941,{"fee":"no","amenity":"toilets"}],
+["w820433533","t",46.40892,-90.39372,{"amenity":"toilets"}]
+]}

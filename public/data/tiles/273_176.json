@@ -1,0 +1,16 @@
+{"p":[
+["n10989325885","t",46.60868,-91.89295,{"amenity":"toilets"}],
+["n11471881145","t",46.68566,-91.97291,{"changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13010338033","t",46.83933,-91.99909,{"access":"yes","wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["n13085552947","t",46.94962,-91.78626,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n2411235493","t",46.66542,-91.99859,{"operator":"Wisconsin Department of Transportation","opening_hours":"24/7","fee":"no","access":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n7195543511","t",46.84291,-91.99347,{"access":"yes","amenity":"toilets"}],
+["n7195560764","t",46.88138,-91.92226,{"amenity":"toilets"}],
+["w1174474936","t",46.55475,-91.59609,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1174474944","t",46.54261,-91.60575,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1183383804","t",46.60817,-91.89047,{"amenity":"toilets"}],
+["w1411955991","t",46.51274,-91.70832,{"amenity":"toilets"}],
+["w1413960717","t",46.51123,-91.70778,{"amenity":"toilets"}],
+["w808775956","t",46.54988,-91.58638,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w833831642","t",46.94755,-91.79132,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,13 @@
+{"p":[
+["n12450184248","t",43.81661,-74.59502,{"amenity":"toilets"}],
+["n12450184253","t",43.81483,-74.59627,{"amenity":"toilets"}],
+["n12450184278","t",43.81772,-74.59663,{"amenity":"toilets"}],
+["n12453371305","t",43.80387,-74.70101,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12453371307","t",43.80412,-74.70011,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14319899977","t",43.59327,-74.62675,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2354235913","w",43.75222,-74.79613,{"amenity":"drinking_water"}],
+["n3649882546","t",43.53396,-74.60614,{"operator":"NYSDEC","access":"yes","wheelchair":"no","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n6505164604","t",43.90623,-74.99602,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7600975985","t",43.79009,-74.69902,{"operator":"NYS","amenity":"toilets"}],
+["w226563582","t",43.75229,-74.79605,{"amenity":"toilets"}]
+]}

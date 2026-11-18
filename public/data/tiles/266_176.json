@@ -1,0 +1,23 @@
+{"p":[
+["n2459740003","t",43.19098,-91.62227,{"amenity":"toilets"}],
+["n2460023080","t",43.00284,-91.64996,{"amenity":"toilets"}],
+["n2460023082","w",43.00285,-91.6498,{"amenity":"drinking_water"}],
+["n6426933286","w",43.31392,-91.80366,{"operator":"Luther College","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n6426933287","w",43.31401,-91.80344,{"operator":"Luther College","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n6426933288","w",43.31345,-91.80437,{"operator":"Luther College","fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n7426341895","t",43.17305,-91.91186,{"amenity":"toilets"}],
+["n7426341896","t",43.30452,-91.78157,{"amenity":"toilets"}],
+["n7426341897","t",43.2851,-91.65197,{"amenity":"toilets"}],
+["n7426341898","t",43.1375,-91.7772,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7426341902","t",43.14677,-91.76735,{"amenity":"toilets"}],
+["n7426341903","t",43.27368,-91.77982,{"amenity":"toilets"}],
+["n8331667141","w",43.31238,-91.8029,{"fee":"no","access":"customers","bottle":"yes","amenity":"drinking_water"}],
+["n8331667142","w",43.31242,-91.80615,{"operator":"Luther College","fee":"no","access":"customers","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n8534237102","w",43.31148,-91.80205,{"operator":"Luther College","fee":"no","access":"customers","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n8534237104","w",43.31282,-91.80506,{"operator":"Luther College","access":"customers","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n8549750144","w",43.31035,-91.80553,{"operator":"Luther College","fee":"no","access":"customers","wheelchair":"no","bottle":"yes","amenity":"drinking_water"}],
+["n9984466645","t",43.36246,-91.85165,{"changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9984470968","t",43.4039,-91.91657,{"amenity":"toilets"}],
+["n9984470969","t",43.40435,-91.91588,{"amenity":"toilets"}],
+["w499765506","t",43.06579,-91.92905,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

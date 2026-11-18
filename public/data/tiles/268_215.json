@@ -1,0 +1,21 @@
+{"p":[
+["n11611298090","t",44.4858,-72.00865,{"access":"permissive","seasonal":"yes","amenity":"toilets"}],
+["n12260876513","w",44.24307,-72.24375,{"amenity":"drinking_water"}],
+["n14265246881","t",44.29514,-72.3311,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5872763287","t",44.01582,-72.12002,{"fee":"no","drinking_water":"yes","amenity":"toilets"}],
+["n5948639898","t",44.41028,-72.19804,{"access":"unknown","toilets:disposal":"chemical","amenity":"toilets"}],
+["n5948639901","t",44.40857,-72.1947,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n6525746115","t",44.40656,-72.30836,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n6530532185","t",44.39145,-72.44736,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n7996359889","t",44.16181,-72.09014,{"amenity":"toilets"}],
+["n851100125","t",44.30501,-72.13878,{"amenity":"toilets"}],
+["n851100526","t",44.30832,-72.13796,{"amenity":"toilets"}],
+["n9573868607","t",44.29345,-72.30666,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9573868608","t",44.29445,-72.30822,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9573868609","t",44.29435,-72.30778,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9573868610","t",44.29424,-72.30984,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9573868611","t",44.29368,-72.31034,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9873197917","w",44.40658,-72.1414,{"drinking_water":"yes","man_made":"water_tap"}],
+["w71547857","t",44.30699,-72.13791,{"name":"Apple Tree Hall","amenity":"toilets"}],
+["w982213930","t",44.29543,-72.39645,{"wheelchair":"no","amenity":"toilets"}]
+]}

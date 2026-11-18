@@ -1,0 +1,13 @@
+{"p":[
+["n2511057847","t",34.42247,-86.39537,{"amenity":"toilets"}],
+["n4804249187","t",34.40489,-86.20109,{"amenity":"toilets"}],
+["n4969476262","t",34.31911,-86.47929,{"name":"Arab City Park Restrooms","amenity":"toilets"}],
+["n9658714063","t",34.03809,-86.02526,{"amenity":"toilets"}],
+["w1051050270","t",34.03808,-86.02527,{"amenity":"toilets"}],
+["w1514883559","t",34.40363,-86.20284,{"access":"customers","amenity":"toilets"}],
+["w1514883560","t",34.40356,-86.20101,{"access":"customers","amenity":"toilets"}],
+["w1514883561","t",34.40506,-86.1992,{"access":"customers","amenity":"toilets"}],
+["w1514883562","t",34.40142,-86.20362,{"access":"permissive","amenity":"toilets"}],
+["w488062021","t",34.403,-86.20438,{"wheelchair":"designated","amenity":"toilets"}],
+["w998625149","t",34.40206,-86.2024,{"amenity":"toilets"}]
+]}

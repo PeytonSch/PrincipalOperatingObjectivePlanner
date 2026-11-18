@@ -1,0 +1,19 @@
+{"p":[
+["n10974621268","t",44.65562,-111.10593,{"amenity":"toilets"}],
+["n12189314425","t",44.50097,-111.25574,{"amenity":"toilets"}],
+["n5120678694","t",44.91533,-111.35723,{"operator":"USFS","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5694012714","t",44.65845,-111.0992,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5948896225","t",44.57643,-111.18203,{"name":"Reas Pass","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8524367782","t",44.6565,-111.10676,{"access":"customers","amenity":"toilets"}],
+["n8524367784","t",44.65566,-111.10813,{"access":"customers","amenity":"toilets"}],
+["n8524367785","t",44.65589,-111.10481,{"access":"customers","amenity":"toilets"}],
+["n8524367787","t",44.65438,-111.10541,{"access":"customers","amenity":"toilets"}],
+["n8524367791","t",44.65486,-111.10706,{"access":"customers","amenity":"toilets"}],
+["w1315860619","t",44.66941,-111.28858,{"access":"yes","amenity":"toilets"}],
+["w360638592","t",44.8311,-111.42547,{"amenity":"toilets"}],
+["w405053584","t",44.65696,-111.09129,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w431574550","t",44.68818,-111.21741,{"access":"customers","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w431584144","t",44.68837,-111.21579,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w645634894","t",44.6507,-111.11787,{"operator":"United States Forest Service","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w650082818","t",44.84089,-111.20418,{"operator":"United States Forest Service","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

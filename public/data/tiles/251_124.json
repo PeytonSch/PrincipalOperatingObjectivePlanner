@@ -1,0 +1,14 @@
+{"p":[
+["n12052361639","t",35.632,-117.66307,{"wheelchair":"yes","amenity":"toilets"}],
+["n12099943981","t",35.64041,-117.68788,{"amenity":"toilets"}],
+["n12099943982","t",35.64042,-117.68785,{"opening_hours":"24/7","fee":"no","access":"yes","amenity":"toilets"}],
+["n14089721512","t",35.61493,-117.66002,{"fee":"no","access":"yes","drinking_water":"no","amenity":"toilets"}],
+["n4575785455","t",35.57265,-117.54791,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4575797522","t",35.57122,-117.54836,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4586218161","t",35.52227,-117.56382,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4586218192","t",35.51865,-117.56512,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5644728306","t",35.62864,-117.66644,{"name":"Restroom","opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n5644774313","w",35.62865,-117.66636,{"opening_hours":"24/7","fee":"no","bottle":"no","seasonal":"no","amenity":"drinking_water"}],
+["w1080660237","t",35.62667,-117.66843,{"opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1307603833","t",35.64661,-117.81323,{"access":"customers","wheelchair":"yes","amenity":"toilets"}]
+]}

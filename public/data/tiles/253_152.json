@@ -1,0 +1,6 @@
+{"p":[
+["n14271314561","t",36.77964,-103.97689,{"name":"Flush Toilet","amenity":"toilets"}],
+["n3259275431","w",36.77881,-103.97995,{"bottle":"yes","indoor":"yes","amenity":"drinking_water"}],
+["w138252272","t",36.68439,-103.78629,{"opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w319510265","t",36.78236,-103.97235,{"amenity":"toilets"}]
+]}

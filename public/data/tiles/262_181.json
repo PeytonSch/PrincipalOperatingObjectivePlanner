@@ -1,0 +1,15 @@
+{"p":[
+["n12569450930","t",41.0246,-89.41415,{"amenity":"toilets"}],
+["n14028118859","w",41.34155,-89.01005,{"bottle":"yes","amenity":"drinking_water"}],
+["n2886438815","t",41.3263,-89.00657,{"amenity":"toilets"}],
+["n3048324160","t",41.28181,-89.02697,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8588329817","t",41.34791,-89.1273,{"access":"permissive","amenity":"toilets"}],
+["n8896011273","t",41.29341,-89.08648,{"amenity":"toilets"}],
+["n8896011274","t",41.29343,-89.08652,{"amenity":"toilets"}],
+["w544157917","t",41.36251,-89.45772,{"amenity":"toilets"}],
+["w544157918","t",41.36179,-89.45651,{"amenity":"toilets"}],
+["w546898606","t",41.36972,-89.47532,{"amenity":"toilets"}],
+["w980964440","t",41.27943,-89.01957,{"amenity":"toilets"}],
+["w980964444","t",41.28115,-89.02321,{"amenity":"toilets"}],
+["w980964456","t",41.29627,-89.02581,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

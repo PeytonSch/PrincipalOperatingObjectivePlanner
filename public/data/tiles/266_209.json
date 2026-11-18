@@ -1,0 +1,16 @@
+{"p":[
+["n11897876549","t",43.0774,-75.21734,{"wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n4395212211","t",43.33699,-75.23377,{"amenity":"toilets"}],
+["n5266964285","t",43.4831,-75.32605,{"name":"Restrooms","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5270941967","t",43.48097,-75.3261,{"operator":"Town of Boonville","fee":"no","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5270997720","t",43.4796,-75.31898,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5284938706","t",43.48114,-75.34951,{"amenity":"toilets"}],
+["n7170562875","t",43.0785,-75.38446,{"unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w546201290","t",43.48311,-75.32604,{"amenity":"toilets"}],
+["w546931167","t",43.48199,-75.34535,{"fee":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w631971264","t",43.06567,-75.32099,{"fee":"no","access":"yes","amenity":"toilets"}],
+["w644916938","t",43.10728,-75.3876,{"amenity":"toilets"}],
+["w644916941","t",43.10746,-75.38679,{"amenity":"toilets"}],
+["w711835303","t",43.08056,-75.20404,{"amenity":"toilets"}],
+["w711835304","t",43.08173,-75.20207,{"amenity":"toilets"}]
+]}

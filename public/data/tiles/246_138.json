@@ -1,0 +1,17 @@
+{"p":[
+["n4862372344","t",33.05408,-110.91278,{"amenity":"toilets"}],
+["n4862372359","w",33.05306,-110.91608,{"name":"Water fill station","amenity":"drinking_water"}],
+["n6859266926","t",33.32614,-110.80548,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8427670543","w",33.10594,-110.97405,{"amenity":"drinking_water"}],
+["n8871117359","w",33.40677,-110.78623,{"amenity":"drinking_water"}],
+["w1021983189","t",33.40925,-110.79178,{"amenity":"toilets"}],
+["w1255404749","t",33.02362,-110.73618,{"operator":"Bureau of Land Management","access":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["w1353019765","t",33.29367,-110.86753,{"amenity":"toilets"}],
+["w1353019766","t",33.28667,-110.82987,{"amenity":"toilets"}],
+["w1353019767","t",33.2875,-110.82995,{"amenity":"toilets"}],
+["w1353019768","t",33.28794,-110.83054,{"amenity":"toilets"}],
+["w907613324","t",33.0512,-110.89877,{"access":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w907613325","t",33.05234,-110.89913,{"access":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w907920549","t",33.02152,-110.73915,{"operator":"Bureau of Land Management","access":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["w907920992","t",33.0599,-110.72157,{"operator":"Bureau of Land Management","access":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}]
+]}

@@ -1,0 +1,18 @@
+{"p":[
+["n10665670731","t",42.97921,-80.85277,{"amenity":"toilets"}],
+["n12132820304","w",42.64337,-80.80558,{"amenity":"drinking_water"}],
+["n8842845245","t",42.85557,-80.50277,{"amenity":"toilets"}],
+["n8988393557","w",42.64744,-80.81362,{"drinking_water":"yes","man_made":"water_tap"}],
+["n8988635205","w",42.64706,-80.81551,{"drinking_water":"yes","man_made":"water_tap"}],
+["n8988660612","t",42.65065,-80.81484,{"amenity":"toilets"}],
+["n8988952535","t",42.65317,-80.815,{"amenity":"toilets"}],
+["n8989073724","t",42.65003,-80.8175,{"amenity":"toilets"}],
+["n8990080847","t",42.64903,-80.81593,{"amenity":"toilets"}],
+["n8990802691","w",42.64924,-80.81205,{"drinking_water":"yes","man_made":"water_tap"}],
+["n9002752746","t",42.91362,-80.96091,{"amenity":"toilets"}],
+["w900203345","t",42.64212,-80.81404,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w900203346","t",42.6414,-80.81332,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w971193536","t",42.648,-80.81461,{"name":"Comfort Station","toilets:disposal":"flush","amenity":"toilets"}],
+["w971426382","t",42.64561,-80.82154,{"amenity":"toilets"}],
+["w973872931","t",42.64338,-80.80553,{"wheelchair":"yes","amenity":"toilets"}]
+]}

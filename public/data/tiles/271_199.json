@@ -1,0 +1,15 @@
+{"p":[
+["n12216125081","t",45.68737,-80.45012,{"amenity":"toilets"}],
+["n3369524293","t",45.89536,-80.3184,{"name":"Public Outhouse","fee":"no","wheelchair":"no","amenity":"toilets"}],
+["n3369525793","w",45.89549,-80.31842,{"name":"Well","amenity":"drinking_water"}],
+["n8147713572","w",45.62337,-80.41616,{"amenity":"drinking_water"}],
+["n8147713582","w",45.62329,-80.41384,{"amenity":"drinking_water"}],
+["n8147713583","w",45.62334,-80.41495,{"amenity":"drinking_water"}],
+["n8147713584","w",45.62246,-80.41599,{"amenity":"drinking_water"}],
+["n8147713585","w",45.62342,-80.41701,{"amenity":"drinking_water"}],
+["n8147713586","w",45.62383,-80.41501,{"amenity":"drinking_water"}],
+["n8147713587","t",45.62367,-80.41611,{"amenity":"toilets"}],
+["n8147713588","t",45.62243,-80.41536,{"amenity":"toilets"}],
+["n8147713589","t",45.6236,-80.41372,{"amenity":"toilets"}],
+["n8147713590","t",45.62426,-80.41585,{"amenity":"toilets"}]
+]}

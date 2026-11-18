@@ -1,0 +1,17 @@
+{"p":[
+["n10232092507","t",33.43205,-108.90318,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12986249246","w",33.30931,-108.88743,{"operator":"USFS","fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n7451022842","t",33.39802,-108.79785,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7451288405","t",33.32415,-108.88284,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7961605005","t",33.37289,-108.68611,{"access":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9994290552","w",33.42328,-108.50248,{"operator":"USFS","fee":"no","access":"yes","drinking_water":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n9994290597","w",33.42286,-108.50414,{"operator":"USFS","fee":"no","access":"yes","drinking_water":"yes","bottle":"no","amenity":"drinking_water"}],
+["n9994290605","w",33.42295,-108.50107,{"operator":"USFS","fee":"no","access":"yes","drinking_water":"yes","bottle":"yes","amenity":"drinking_water"}],
+["w1091162777","t",33.42337,-108.50242,{"fee":"no","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1091162779","t",33.42278,-108.50407,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1174175465","t",33.22823,-108.86725,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1382310511","t",33.30898,-108.8876,{"operator":"United States Forest Service","access":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1384833316","t",33.18566,-108.67672,{"operator":"United States Forest Service","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w243511182","t",33.37284,-108.84217,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w243511183","t",33.22373,-108.7377,{"amenity":"toilets"}]
+]}

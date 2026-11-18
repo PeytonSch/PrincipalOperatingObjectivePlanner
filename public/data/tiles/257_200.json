@@ -1,0 +1,11 @@
+{"p":[
+["n11281557992","w",38.66615,-79.9935,{"amenity":"water_point"}],
+["n12046942194","w",38.54557,-79.82249,{"name":"Laundry Mat","opening_hours":"24/7","amenity":"drinking_water"}],
+["n2951213904","t",38.61558,-79.84399,{"name":"Outhouse","amenity":"toilets"}],
+["n3556433392","w",38.91994,-79.5263,{"amenity":"drinking_water"}],
+["n3556441893","t",38.91996,-79.52624,{"amenity":"toilets"}],
+["n3564047944","t",38.92959,-79.68003,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3728574996","t",38.70164,-79.53114,{"operator":"United States Forest Service","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n4288317709","t",38.70427,-79.59028,{"operator":"United States Forest Service","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w552309309","t",38.9223,-79.86129,{"amenity":"toilets"}]
+]}

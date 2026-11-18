@@ -1,0 +1,23 @@
+{"p":[
+["n12135973201","t",32.32978,-90.14703,{"amenity":"toilets"}],
+["n12900356727","t",32.27486,-90.15363,{"operator":"Outlets of Mississippi","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12900356728","t",32.27456,-90.15463,{"operator":"Outlets of Mississippi","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13464755018","t",32.31099,-90.07444,{"unisex":"yes","amenity":"toilets"}],
+["n13464756962","t",32.31106,-90.07431,{"amenity":"toilets"}],
+["n13464759204","t",32.31103,-90.07446,{"amenity":"toilets"}],
+["n2171705696","w",32.43008,-90.1488,{"amenity":"drinking_water"}],
+["n5961225344","t",32.34704,-90.06218,{"amenity":"toilets"}],
+["n5961233981","t",32.34842,-90.05849,{"amenity":"toilets"}],
+["n7887537233","t",32.25923,-90.42232,{"amenity":"toilets"}],
+["n7891075212","t",32.33027,-90.34443,{"amenity":"toilets"}],
+["n7891075216","t",32.35783,-90.30488,{"amenity":"toilets"}],
+["n7912339596","t",32.4257,-90.08206,{"amenity":"toilets"}],
+["n7918790904","t",32.32905,-90.1452,{"amenity":"toilets"}],
+["n8625544596","t",32.35819,-90.32088,{"amenity":"toilets"}],
+["w1349017667","t",32.14307,-90.13144,{"fee":"no","access":"yes","wheelchair":"yes","unisex":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w1384227746","t",32.3463,-90.34382,{"amenity":"toilets"}],
+["w1393560574","t",32.27356,-90.1533,{"operator":"Outlets of Mississippi","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1393576380","t",32.27282,-90.15252,{"operator":"Outlets of Mississippi","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w440549442","t",32.45003,-90.10498,{"amenity":"toilets"}],
+["w480299702","t",32.42621,-90.12584,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

@@ -1,0 +1,8 @@
+{"p":[
+["n14100177822","w",28.98121,-96.0102,{"amenity":"drinking_water"}],
+["w556601131","t",28.98209,-96.01245,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w557520542","t",28.69162,-96.38007,{"name":"Pool Showers And Changing Rooms","access":"permissive","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w562098085","t",28.6985,-96.21509,{"amenity":"toilets"}],
+["w564873149","t",28.98122,-96.01021,{"access":"customers","unisex":"yes","amenity":"toilets"}],
+["w577615893","t",28.98141,-96.01584,{"access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

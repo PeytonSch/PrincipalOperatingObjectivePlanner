@@ -1,0 +1,18 @@
+{"p":[
+["n12101473034","w",42.22745,-121.77839,{"amenity":"drinking_water"}],
+["n12101473069","t",42.22751,-121.77837,{"amenity":"toilets"}],
+["n1359456708","w",42.20097,-121.72843,{"amenity":"drinking_water"}],
+["n1359456745","t",42.20105,-121.72871,{"amenity":"toilets"}],
+["n2678330978","t",42.2735,-121.88263,{"amenity":"toilets"}],
+["n6854442922","t",42.18084,-121.668,{"amenity":"toilets"}],
+["n7949421158","t",42.40571,-121.95297,{"amenity":"toilets"}],
+["n8728556653","t",42.21414,-121.74644,{"access":"customers","amenity":"toilets"}],
+["n8728556687","t",42.21419,-121.74644,{"access":"customers","amenity":"toilets"}],
+["w1028543253","t",42.23781,-121.77848,{"access":"unknown","toilets:disposal":"flush","amenity":"toilets"}],
+["w1038828718","t",42.12622,-121.82466,{"amenity":"toilets"}],
+["w121407660","t",42.41478,-121.54982,{"name":"Switchback Hill Trailhead","operator":"Oregon State Parks","fee":"no","amenity":"toilets"}],
+["w1384146897","t",42.25651,-121.78448,{"name":"MEN'S","indoor":"level","amenity":"toilets"}],
+["w1384146898","t",42.2565,-121.78473,{"name":"WOMAN'S","indoor":"level","amenity":"toilets"}],
+["w779244570","t",42.23276,-121.80898,{"amenity":"toilets"}],
+["w914808044","t",42.23449,-121.81366,{"amenity":"toilets"}]
+]}

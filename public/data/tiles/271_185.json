@@ -1,0 +1,22 @@
+{"p":[
+["n10019438796","t",45.83902,-87.02493,{"amenity":"toilets"}],
+["n10676831351","t",45.89028,-87.04678,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11264849713","t",45.76343,-87.11912,{"amenity":"toilets"}],
+["n11486504645","t",45.8634,-87.0186,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2356773332","t",45.77775,-87.06488,{"amenity":"toilets"}],
+["n2419448315","t",45.73896,-87.0469,{"amenity":"toilets"}],
+["n2620545399","t",45.74525,-87.04673,{"amenity":"toilets"}],
+["n2886401624","t",45.67687,-87.14127,{"amenity":"toilets"}],
+["n2905106959","t",45.74392,-87.04335,{"amenity":"toilets"}],
+["n7215593230","t",45.73748,-87.07262,{"amenity":"toilets"}],
+["n9872170825","w",45.73746,-87.07267,{"amenity":"drinking_water"}],
+["w1236891989","t",45.8634,-87.0186,{"amenity":"toilets"}],
+["w1499661144","t",45.72579,-87.21589,{"amenity":"toilets"}],
+["w1499661145","t",45.72571,-87.21572,{"amenity":"toilets"}],
+["w1499661170","t",45.72804,-87.21284,{"amenity":"toilets"}],
+["w224665995","t",45.73914,-87.0551,{"fee":"no","drinking_water":"yes","amenity":"toilets"}],
+["w256400555","t",45.74531,-87.06239,{"name":"Downtown Development Authority","amenity":"toilets"}],
+["w284843043","t",45.76261,-87.0747,{"amenity":"toilets"}],
+["w579750622","t",45.7277,-87.23031,{"amenity":"toilets"}],
+["w985861218","t",45.84634,-87.00574,{"amenity":"toilets"}]
+]}

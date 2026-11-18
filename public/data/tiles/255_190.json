@@ -1,0 +1,13 @@
+{"p":[
+["n10694067406","t",37.79943,-84.64677,{"amenity":"toilets"}],
+["n13652944523","t",37.98828,-84.52845,{"amenity":"toilets"}],
+["n13652944530","t",37.98687,-84.52866,{"amenity":"toilets"}],
+["n2355172891","t",37.81758,-84.71553,{"amenity":"toilets"}],
+["n2425118643","w",37.9886,-84.57484,{"description":"Waverly Park","amenity":"drinking_water"}],
+["n2477391427","w",37.97195,-84.50047,{"description":"Belleau Woods tennis courts","amenity":"drinking_water"}],
+["n2477391428","w",37.98274,-84.53625,{"description":"Shilito park playground","amenity":"drinking_water"}],
+["n2477391429","w",37.98459,-84.53519,{"description":"Shilito park tennis courts","amenity":"drinking_water"}],
+["w538613984","t",37.86179,-84.65776,{"access":"yes","amenity":"toilets"}],
+["w877566174","t",37.96934,-84.63983,{"amenity":"toilets"}],
+["w877640231","t",37.97563,-84.63545,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,23 @@
+{"p":[
+["n12312327103","t",37.92148,-84.27867,{"amenity":"toilets"}],
+["n12329762727","t",37.60546,-84.29121,{"amenity":"toilets"}],
+["n12644082799","w",37.67347,-84.30801,{"amenity":"drinking_water"}],
+["n12654220720","t",37.55375,-84.24041,{"amenity":"toilets"}],
+["n12855658280","w",37.9825,-84.48107,{"amenity":"drinking_water"}],
+["n13283344621","w",37.98843,-84.42905,{"fee":"no","access":"yes","bottle":"yes","indoor":"no","amenity":"drinking_water"}],
+["n13932134707","t",37.56542,-84.25695,{"amenity":"toilets"}],
+["n2345589204","t",37.73784,-84.46978,{"amenity":"toilets"}],
+["n2939054256","t",37.8992,-84.26544,{"amenity":"toilets"}],
+["n5072625395","t",37.59619,-84.31217,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n8165592447","w",37.76195,-84.41571,{"amenity":"drinking_water"}],
+["n8165592448","t",37.7619,-84.41562,{"amenity":"toilets"}],
+["n8268871604","w",37.96779,-84.28355,{"drinking_water":"yes","man_made":"water_tap"}],
+["n9368863828","t",37.6517,-84.09934,{"amenity":"toilets"}],
+["n9378038473","t",37.89959,-84.269,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1238469223","t",37.84809,-84.43622,{"amenity":"toilets"}],
+["w1390750038","t",37.98341,-84.47988,{"access":"yes","amenity":"toilets"}],
+["w1525003255","t",37.74016,-84.24982,{"access":"yes","amenity":"toilets"}],
+["w1525003256","t",37.73677,-84.25519,{"access":"yes","amenity":"toilets"}],
+["w848671297","t",37.8322,-84.35147,{"name":"Grist Mill Restrooms","amenity":"toilets"}],
+["w863985870","t",37.74693,-84.30531,{"amenity":"toilets"}]
+]}

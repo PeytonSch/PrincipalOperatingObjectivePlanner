@@ -1,0 +1,22 @@
+{"p":[
+["n11232682621","t",42.47353,-76.17914,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12061275639","w",42.43938,-76.49663,{"operator":"Center Ithaca","description":"Second floor of building, near restrooms","fee":"no","access":"permissive","amenity":"drinking_water"}],
+["n12061275640","t",42.43943,-76.49663,{"access":"permissive","amenity":"toilets"}],
+["n12061323839","w",42.44107,-76.49853,{"operator":"Has a filter for refilling water bottles","access":"permissive","amenity":"drinking_water"}],
+["n12061323840","t",42.44107,-76.49862,{"access":"customers","amenity":"toilets"}],
+["n12061323848","t",42.43843,-76.49797,{"opening_hours":"Mo-Th 10:00-20:00; Fr-Sa 10:00-17:00; Su 13:00-17:00","access":"yes","wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n12061323849","w",42.43843,-76.49801,{"operator":"TCPL","access":"yes","indoor":"yes","amenity":"drinking_water"}],
+["n1239452988","t",42.09631,-76.01478,{"amenity":"toilets"}],
+["n13266048712","t",42.49082,-76.46345,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n14350260553","t",42.45798,-76.49851,{"amenity":"toilets"}],
+["n5840681934","t",42.49602,-76.29877,{"amenity":"toilets"}],
+["n6795791696","w",42.09438,-76.02191,{"amenity":"drinking_water"}],
+["w1575576759","t",42.45799,-76.4985,{"access":"permissive","amenity":"toilets"}],
+["w392597541","t",42.08866,-76.22401,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w392597542","t",42.09152,-76.22538,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w392597543","t",42.08876,-76.22059,{"fee":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w747168998","t",42.13519,-76.02093,{"amenity":"toilets"}],
+["w829525002","t",42.08669,-76.28002,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w915184744","t",42.08255,-76.02222,{"wheelchair":"yes","amenity":"toilets"}],
+["w996756176","t",42.12371,-76.02829,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}]
+]}

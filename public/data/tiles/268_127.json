@@ -1,0 +1,16 @@
+{"p":[
+["n10296189458","t",44.08485,-116.1155,{"amenity":"toilets"}],
+["n11200441087","t",44.08485,-116.11548,{"name":"Restroom","amenity":"toilets"}],
+["n13111328684","t",44.22038,-116.10689,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13111328685","t",44.07395,-116.11959,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14038398125","t",44.19351,-116.11296,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2956796048","w",44.33424,-116.1875,{"description":"Hand operated pump with integral drinking fountain.","bottle":"yes","amenity":"drinking_water"}],
+["n2956796049","t",44.33458,-116.18772,{"access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n8322603834","t",44.00566,-116.18033,{"amenity":"toilets"}],
+["n9356964727","t",44.33414,-116.17867,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9357005821","w",44.33451,-116.17425,{"amenity":"drinking_water"}],
+["w1065192288","t",44.41361,-116.0317,{"amenity":"toilets"}],
+["w1530486001","t",44.41828,-116.13259,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1542780753","t",44.02684,-116.13791,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1569290938","t",44.49158,-116.05428,{"toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

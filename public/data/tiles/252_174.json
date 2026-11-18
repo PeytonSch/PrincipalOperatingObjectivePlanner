@@ -1,0 +1,11 @@
+{"p":[
+["n12544895824","t",36.03482,-92.62991,{"amenity":"toilets"}],
+["n12544895867","t",36.03924,-92.63552,{"amenity":"toilets"}],
+["n12952757665","t",36.07373,-92.55668,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["n12952757666","t",36.07026,-92.55614,{"access":"yes","amenity":"toilets"}],
+["n7667625957","t",36.07136,-92.55555,{"amenity":"toilets"}],
+["w1307366374","t",36.06977,-92.55558,{"amenity":"toilets"}],
+["w1307366375","t",36.12293,-92.55078,{"operator":"National Park Service","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1419248248","t",36.06609,-92.57691,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1419248249","t",36.06641,-92.57833,{"toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

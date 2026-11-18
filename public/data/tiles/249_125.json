@@ -1,0 +1,18 @@
+{"p":[
+["n12871555301","w",34.85398,-117.08132,{"description":"I asked inside and it is OK to park at the parking lot and bring a water bottle/container and fill it up. I filled a 23L container.","fee":"no","access":"yes","amenity":"drinking_water"}],
+["n14208099724","w",34.53144,-117.27819,{"fee":"no","bottle":"yes","seasonal":"no","amenity":"drinking_water"}],
+["n14208099730","w",34.53313,-117.27846,{"fee":"no","bottle":"yes","seasonal":"no","amenity":"drinking_water"}],
+["n1749058931","t",34.73853,-117.1344,{"amenity":"toilets"}],
+["n6800878376","t",34.62199,-117.16885,{"amenity":"toilets"}],
+["n7137806089","t",34.84544,-117.08415,{"amenity":"toilets"}],
+["n7137809086","t",34.84808,-117.08556,{"amenity":"toilets"}],
+["n7137809087","t",34.84552,-117.08531,{"amenity":"toilets"}],
+["n7137809385","t",34.847,-117.08454,{"amenity":"toilets"}],
+["w1454995122","t",34.56532,-117.11514,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1545236771","t",34.50525,-117.3753,{"access":"permissive","amenity":"toilets"}],
+["w556306674","t",34.52528,-117.21213,{"amenity":"toilets"}],
+["w707488224","t",34.5315,-117.27835,{"name":"P-Buildings","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["w828829052","t",34.50619,-117.28591,{"amenity":"toilets"}],
+["w828829065","t",34.50632,-117.28704,{"amenity":"toilets"}],
+["w828829071","t",34.50666,-117.2871,{"amenity":"toilets"}]
+]}

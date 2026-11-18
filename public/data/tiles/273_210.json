@@ -1,0 +1,19 @@
+{"p":[
+["n10616403098","t",46.50929,-74.98654,{"amenity":"toilets"}],
+["n10616403099","t",46.51139,-74.98672,{"amenity":"toilets"}],
+["n10616432758","t",46.50792,-74.98095,{"amenity":"toilets"}],
+["n14073753467","t",46.51327,-74.98545,{"amenity":"toilets"}],
+["n4769299136","t",46.55082,-74.82618,{"amenity":"toilets"}],
+["n4769299137","w",46.55072,-74.82614,{"amenity":"drinking_water"}],
+["n4927554981","t",46.50638,-74.98749,{"amenity":"toilets"}],
+["n5680038729","t",46.55172,-74.82936,{"amenity":"toilets"}],
+["n5691762221","t",46.60668,-74.79791,{"amenity":"toilets"}],
+["n5691834521","w",46.5503,-74.82842,{"name":"Eau potable","amenity":"drinking_water"}],
+["n6859017078","t",46.50505,-74.5103,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7041536970","t",46.60368,-74.52447,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7041536971","t",46.60645,-74.52475,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7041547223","t",46.56108,-74.52886,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7041553647","t",46.53738,-74.67882,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7851234011","t",46.51519,-74.50547,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7851234012","t",46.5152,-74.5047,{"toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

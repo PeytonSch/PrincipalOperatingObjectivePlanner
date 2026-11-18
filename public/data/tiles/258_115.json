@@ -1,0 +1,17 @@
+{"p":[
+["n12254403899","w",39.21411,-122.009,{"drinking_water":"yes","amenity":"fountain"}],
+["n2401039915","t",39.24163,-122.1834,{"amenity":"toilets"}],
+["n8476560714","t",39.15986,-122.16141,{"amenity":"toilets"}],
+["n8878638691","t",39.42972,-122.18633,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["n8881598441","t",39.42237,-122.14731,{"fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["n8937055866","t",39.00878,-122.41492,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9293074580","t",39.18838,-122.04372,{"operator":"United States Fish and Wildlife Service","fee":"no","access":"yes","wheelchair":"designated","amenity":"toilets"}],
+["n9379733301","w",39.24034,-122.18027,{"drinking_water":"yes","man_made":"water_tap"}],
+["n9451765731","t",39.45744,-122.00858,{"operator":"United States Fish and Wildlife Service","fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w1325569761","t",39.21484,-122.01382,{"access":"yes","amenity":"toilets"}],
+["w1326840096","t",39.20273,-122.00864,{"amenity":"toilets"}],
+["w1326840103","t",39.21104,-122.01505,{"access":"yes","amenity":"toilets"}],
+["w160424033","t",39.24073,-122.18034,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w160424036","t",39.24161,-122.18346,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w912477811","t",39.15952,-122.16127,{"amenity":"toilets"}]
+]}

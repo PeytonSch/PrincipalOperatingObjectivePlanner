@@ -1,0 +1,8 @@
+{"p":[
+["n11923230452","w",39.47452,-118.78889,{"amenity":"drinking_water"}],
+["n11923366167","t",39.46818,-118.78642,{"amenity":"toilets"}],
+["n12139103426","t",39.45557,-118.73028,{"changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8541839317","w",39.47297,-118.77135,{"name":"Oats Park","amenity":"drinking_water"}],
+["w1254744124","t",39.40115,-118.64707,{"operator":"Bureau of Land Managment","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1254750609","t",39.40912,-118.6287,{"operator":"Bureau of Land Managment","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

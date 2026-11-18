@@ -1,0 +1,14 @@
+{"p":[
+["n11067184966","t",45.08576,-83.44108,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n11480195408","t",45.11041,-83.4477,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n8781406362","t",45.24506,-83.41427,{"operator":"Michigan Department of Natural Resources (DNR)","description":"Michigan Recreation Passport required for usage","access":"permit","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1071033598","t",45.0476,-83.44578,{"access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1204567081","t",45.19294,-83.44926,{"access":"customers","amenity":"toilets"}],
+["w1235224732","t",45.08749,-83.45119,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1237388943","t",45.0598,-83.4309,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1266813335","t",45.20188,-83.3814,{"description":"Michigan Recreation Passport required for usage.","access":"permit","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1266813340","t",45.20212,-83.38369,{"description":"Michigan Recreation Passport required for usage.","access":"permit","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1450331131","t",45.07179,-83.41959,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1450331132","t",45.07183,-83.41958,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w544265607","t",45.0653,-83.45413,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

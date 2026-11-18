@@ -1,0 +1,11 @@
+{"p":[
+["w1189727661","t",33.82655,-110.54547,{"amenity":"toilets"}],
+["w1189727665","t",33.82687,-110.54825,{"amenity":"toilets"}],
+["w1209204399","t",33.62652,-110.93317,{"operator":"USFS","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1213422490","t",33.62853,-110.94461,{"operator":"USFS","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1213422491","t",33.6283,-110.94271,{"operator":"USFS","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1213422492","t",33.6269,-110.9396,{"operator":"USFS","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1213422548","t",33.62468,-110.9352,{"operator":"USFS","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1280367077","t",33.59082,-110.64358,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w954775452","t",33.79742,-110.50346,{"fee":"no","access":"yes","amenity":"toilets"}]
+]}

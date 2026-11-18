@@ -1,0 +1,13 @@
+{"p":[
+["n10008337258","w",37.49602,-107.22734,{"operator":"USFS","fee":"no","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n3655674733","t",37.17505,-107.30324,{"amenity":"toilets"}],
+["n3655689534","t",37.18986,-107.31044,{"amenity":"toilets"}],
+["n6429766520","w",37.26555,-107.0122,{"amenity":"drinking_water"}],
+["w1092818002","t",37.49462,-107.2256,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1092818006","t",37.4951,-107.22312,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1092818007","t",37.49413,-107.22175,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1092818010","t",37.49628,-107.22792,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1092818011","t",37.49556,-107.22593,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w686782891","t",37.26556,-107.01219,{"wheelchair":"limited","amenity":"toilets"}],
+["w777604576","t",37.25985,-107.0169,{"wheelchair":"yes","amenity":"toilets"}]
+]}

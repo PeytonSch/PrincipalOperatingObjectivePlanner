@@ -1,0 +1,23 @@
+{"p":[
+["n13469813978","t",44.4735,-95.77968,{"access":"customers","amenity":"toilets"}],
+["n13956064252","w",44.41748,-95.55274,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n14065092001","w",44.4355,-95.76938,{"name":"Cold Stone Creek","amenity":"water_point"}],
+["n14135612919","t",44.27302,-95.7412,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n14158564101","w",44.4343,-95.76871,{"operator":"Harbor Freight","amenity":"drinking_water"}],
+["n14339450101","t",44.42977,-95.76959,{"amenity":"toilets"}],
+["n14339450201","w",44.42977,-95.76953,{"operator":"Aldi","amenity":"drinking_water"}],
+["n3558900608","t",44.10885,-95.69838,{"name":"restroom","wheelchair":"yes","amenity":"toilets"}],
+["n7700624092","t",44.4485,-95.7847,{"amenity":"toilets"}],
+["n7700624094","t",44.2466,-95.60399,{"access":"customers","wheelchair":"yes","changing_table":"no","amenity":"toilets"}],
+["n7700624097","t",44.10341,-95.69882,{"wheelchair":"limited","amenity":"toilets"}],
+["n7700624098","t",44.10258,-95.69801,{"wheelchair":"limited","amenity":"toilets"}],
+["w1255045957","t",44.43406,-95.79566,{"amenity":"toilets"}],
+["w1466109521","t",44.41748,-95.55272,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1471792655","t",44.1668,-95.9395,{"access":"yes","amenity":"toilets"}],
+["w1471792658","t",44.16668,-95.94026,{"amenity":"toilets"}],
+["w1471830595","t",44.4465,-95.7884,{"access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1553635890","t",44.26087,-95.74555,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1553648853","t",44.26181,-95.75182,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w523577305","t",44.23509,-95.61066,{"amenity":"toilets"}],
+["w523913295","t",44.23422,-95.61612,{"amenity":"toilets"}]
+]}

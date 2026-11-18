@@ -1,0 +1,20 @@
+{"p":[
+["n11073980128","w",38.40016,-76.51144,{"amenity":"drinking_water"}],
+["n2980397048","t",38.39863,-76.50734,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n2980397082","t",38.39984,-76.51058,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"chemical","amenity":"toilets"}],
+["n2981507889","w",38.39906,-76.50896,{"fee":"no","access":"yes","wheelchair":"yes","bottle":"no","indoor":"no","amenity":"drinking_water"}],
+["n2981513231","w",38.39997,-76.51075,{"fee":"no","access":"yes","bottle":"no","indoor":"no","amenity":"drinking_water"}],
+["n3268150061","t",38.36894,-76.96077,{"opening_hours":"06:00-18:00","fee":"no","wheelchair":"yes","changing_table":"no","amenity":"toilets"}],
+["n3453080098","t",38.42005,-76.54751,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n6053475294","t",38.25188,-76.54165,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n6053475295","t",38.25186,-76.54166,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n6053823974","w",38.25187,-76.54165,{"indoor":"no","amenity":"drinking_water"}],
+["n8120056128","t",38.40664,-76.67156,{"amenity":"toilets"}],
+["n8988124631","t",38.49008,-76.59161,{"wheelchair":"yes","changing_table":"no","amenity":"toilets"}],
+["w1235011361","t",38.29178,-76.84847,{"amenity":"toilets"}],
+["w1453006782","t",38.27271,-76.60805,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w294441734","t",38.39902,-76.50636,{"name":"Visitor Center","opening_hours":"10:00-17:00, Nov 25 off, Dec 25 off, Jan 1 off","toilets:disposal":"flush","amenity":"toilets"}],
+["w446874373","t",38.2497,-76.9609,{"access":"yes","amenity":"toilets"}],
+["w545376491","t",38.2929,-76.76706,{"amenity":"toilets"}],
+["w996908736","t",38.47684,-76.76745,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,22 @@
+{"p":[
+["n10985209363","t",41.44405,-90.43519,{"wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n10985209393","t",41.44217,-90.43604,{"wheelchair":"unknown","amenity":"toilets"}],
+["n11063762428","t",41.16023,-90.03909,{"operator":"Galva Park District","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13855456539","t",41.44874,-90.15664,{"access":"yes","wheelchair":"limited","amenity":"toilets"}],
+["n13855456540","t",41.44874,-90.15668,{"access":"yes","wheelchair":"limited","amenity":"toilets"}],
+["n13900282302","w",41.48338,-90.15493,{"operator":"Geneseo Campground","drinking_water":"yes","man_made":"water_tap"}],
+["n13900282360","t",41.48353,-90.1569,{"access":"customers","wheelchair":"limited","amenity":"toilets"}],
+["n13920979067","t",41.43681,-90.16391,{"access":"yes","wheelchair":"limited","amenity":"toilets"}],
+["n13920979068","t",41.43681,-90.16387,{"access":"yes","wheelchair":"limited","amenity":"toilets"}],
+["n7182916768","t",41.30482,-90.20102,{"amenity":"toilets"}],
+["n7182917015","t",41.35185,-90.38084,{"amenity":"toilets"}],
+["n7728121769","w",41.10959,-90.40133,{"operator":"Rio Park Department","access":"yes","drinking_water":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n7996044930","w",41.02039,-90.35473,{"drinking_water":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n9793720502","t",41.1588,-90.04106,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1164976753","t",41.48175,-90.41225,{"amenity":"toilets"}],
+["w342875346","t",41.43821,-90.16768,{"opening_hours":"sunrise-22:00","access":"yes","wheelchair":"limited","amenity":"toilets"}],
+["w707235975","t",41.43682,-90.16389,{"opening_hours":"sunrise-22:00","access":"yes","wheelchair":"limited","amenity":"toilets"}],
+["w865791920","t",41.47299,-90.26256,{"access":"yes","amenity":"toilets"}],
+["w865792668","t",41.47493,-90.14071,{"wheelchair":"limited","amenity":"toilets"}],
+["w870796490","t",41.00924,-90.47065,{"amenity":"toilets"}]
+]}

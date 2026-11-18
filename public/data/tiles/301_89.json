@@ -1,0 +1,23 @@
+{"p":[
+["n10236622697","t",60.69256,-135.13252,{"wheelchair":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11990631362","w",60.87919,-135.3553,{"operator":"Hot Springs Campground","fee":"no","drinking_water":"yes","amenity":"water_point"}],
+["n11990788119","t",60.87195,-135.33769,{"operator":"Yukon Wildlife Preserve","fee":"no","access":"permissive","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11997970926","t",60.72773,-135.05642,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12996594483","t",60.70115,-135.04599,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13058667064","t",60.71384,-135.04888,{"amenity":"toilets"}],
+["n13058672060","t",60.71384,-135.04892,{"amenity":"toilets"}],
+["n13060737398","t",60.66033,-135.02913,{"amenity":"toilets"}],
+["n13073314057","t",60.80927,-135.19481,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13073478268","t",60.68205,-135.05727,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13073478269","t",60.682,-135.05724,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13996476695","w",60.73413,-135.07882,{"access":"customers","drinking_water":"yes","man_made":"water_tap"}],
+["n3099902187","t",60.8093,-135.19492,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3710148167","t",60.66506,-135.10974,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3710152470","t",60.66423,-135.16432,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3719484366","t",60.72984,-135.11453,{"toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n6001279489","t",60.84605,-135.20683,{"amenity":"toilets"}],
+["n6530595311","t",60.71402,-135.07643,{"wheelchair":"yes","amenity":"toilets"}],
+["n6760860628","t",60.85152,-135.20833,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1194151336","t",60.71546,-135.04696,{"amenity":"toilets"}],
+["w1220337776","t",60.69604,-135.04007,{"amenity":"toilets"}]
+]}

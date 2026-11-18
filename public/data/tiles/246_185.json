@@ -1,0 +1,15 @@
+{"p":[
+["n11091784669","t",33.18772,-87.01805,{"amenity":"toilets"}],
+["n11660903275","t",33.17511,-87.45066,{"fee":"no","access":"customers","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["n12026563667","t",33.38014,-87.00186,{"amenity":"toilets"}],
+["n13687730777","t",33.30879,-87.47679,{"amenity":"toilets"}],
+["n14297496272","t",33.38076,-87.4804,{"access":"customers","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n3048394288","t",33.27055,-87.41764,{"amenity":"toilets"}],
+["n3055529502","t",33.27669,-87.42034,{"amenity":"toilets"}],
+["n3140952092","w",33.27027,-87.41723,{"amenity":"drinking_water"}],
+["n3219650544","t",33.27397,-87.42024,{"amenity":"toilets"}],
+["n4571717466","t",33.18874,-87.32497,{"operator":"Tuscaloosa County Rest Area - I 59 Northbound","fee":"no","amenity":"toilets"}],
+["w1247237894","t",33.28897,-87.49217,{"amenity":"toilets"}],
+["w556506468","t",33.19107,-87.32525,{"operator":"Tuscaloosa County Rest Area (Southbound)","amenity":"toilets"}],
+["w843745802","t",33.28688,-87.49842,{"amenity":"toilets"}]
+]}

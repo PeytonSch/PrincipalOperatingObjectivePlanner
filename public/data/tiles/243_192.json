@@ -1,0 +1,9 @@
+{"p":[
+["n13901842018","w",31.96988,-83.78401,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n6721740942","t",31.63433,-83.58434,{"amenity":"toilets"}],
+["n6721740944","t",31.63416,-83.58423,{"amenity":"toilets"}],
+["n6721740945","w",31.63419,-83.5843,{"indoor":"no","amenity":"drinking_water"}],
+["w1554863243","t",31.96651,-83.8929,{"amenity":"toilets"}],
+["w430633723","t",31.63424,-83.58428,{"amenity":"toilets"}],
+["w439931739","t",31.75073,-83.66177,{"operator":"Rest Area #10","opening_hours":"24/7","fee":"no","amenity":"toilets"}]
+]}

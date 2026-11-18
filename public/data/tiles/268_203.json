@@ -1,0 +1,17 @@
+{"p":[
+["n1273193875","t",44.29529,-78.30236,{"amenity":"toilets"}],
+["n1344092421","t",44.33277,-78.33783,{"wheelchair":"no","amenity":"toilets"}],
+["n13929494597","t",44.26196,-78.03902,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4381395641","t",44.07487,-78.49597,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n648761897","t",44.30166,-78.3184,{"amenity":"toilets"}],
+["n6614466682","t",44.28148,-78.33194,{"amenity":"toilets"}],
+["n6614541418","t",44.28303,-78.33106,{"amenity":"toilets"}],
+["n6869997532","t",44.1224,-78.10974,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n7008192395","t",44.05545,-78.40771,{"amenity":"toilets"}],
+["w1007472060","t",44.29475,-78.31784,{"description":"Available during park events only","seasonal":"spring;summer;autumn","amenity":"toilets"}],
+["w1143930395","t",44.3433,-78.30971,{"fee":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w1295850540","t",44.31136,-78.34123,{"amenity":"toilets"}],
+["w490608749","t",44.30827,-78.30087,{"fee":"no","amenity":"toilets"}],
+["w554942117","t",44.30051,-78.30733,{"amenity":"toilets"}],
+["w558393992","t",44.31579,-78.31362,{"wheelchair":"yes","unisex":"yes","amenity":"toilets"}]
+]}

@@ -1,0 +1,20 @@
+{"p":[
+["n14097678705","t",36.50091,-87.2703,{"wheelchair":"yes","amenity":"toilets"}],
+["n14097678706","t",36.5009,-87.2703,{"wheelchair":"yes","amenity":"toilets"}],
+["n3378110886","t",36.56967,-87.40579,{"fee":"no","access":"customers","wheelchair":"limited","toilets:disposal":"flush","drinking_water":"no","amenity":"toilets"}],
+["n3907450185","t",36.53476,-87.36716,{"operator":"Clarksville Department of Parks and Recreation","fee":"no","access":"yes","wheelchair":"limited","toilets:disposal":"flush","drinking_water":"seasonal","amenity":"toilets"}],
+["n3907450188","t",36.53478,-87.36717,{"operator":"Clarksville Department of Parks and Recreation","fee":"no","access":"yes","wheelchair":"limited","toilets:disposal":"flush","drinking_water":"seasonal","amenity":"toilets"}],
+["n4395425577","w",36.58434,-87.38985,{"amenity":"drinking_water"}],
+["n6926110411","t",36.6032,-87.28027,{"access":"yes","amenity":"toilets"}],
+["r5558891","t",36.5726,-87.41287,{"fee":"no","access":"customers","wheelchair":"limited","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w1019515042","t",36.58663,-87.2882,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1019515044","t",36.58661,-87.28817,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w302529943","t",36.53576,-87.35477,{"amenity":"toilets"}],
+["w304953869","t",36.53754,-87.35544,{"operator":"Austin Peay State University","fee":"no","access":"customers","wheelchair":"limited","toilets:disposal":"flush","drinking_water":"seasonal","amenity":"toilets"}],
+["w311326703","t",36.58978,-87.28699,{"fee":"no","access":"customers","wheelchair":"limited","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w311326704","t",36.58977,-87.28694,{"fee":"no","access":"customers","wheelchair":"limited","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w311326707","t",36.58964,-87.287,{"fee":"no","access":"customers","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w386885610","t",36.52457,-87.36161,{"operator":"Clarksville Department of Parks and Recreation","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","drinking_water":"no","amenity":"toilets"}],
+["w441847358","t",36.58035,-87.38746,{"amenity":"toilets"}],
+["w902054890","t",36.55237,-87.29253,{"amenity":"toilets"}]
+]}

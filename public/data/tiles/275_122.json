@@ -1,0 +1,15 @@
+{"p":[
+["n11273040325","w",47.50056,-118.55622,{"operator":"BLM","access":"yes","wheelchair":"limited","amenity":"drinking_water"}],
+["n3026612045","t",47.53111,-118.50612,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n4444833024","t",47.92842,-118.69423,{"name":"Restrooms","amenity":"toilets"}],
+["n4444844073","t",47.9291,-118.69232,{"amenity":"toilets"}],
+["n5694029939","t",47.96053,-118.9867,{"fee":"no","amenity":"toilets"}],
+["w1216634213","t",47.50071,-118.55585,{"access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1338507090","t",47.62141,-118.53817,{"operator":"Washington Department of Fish and Wildlife","amenity":"toilets"}],
+["w1368968087","t",47.94817,-118.68929,{"opening_hours":"24/7","amenity":"toilets"}],
+["w1383644194","t",47.76897,-118.71733,{"amenity":"toilets"}],
+["w1389625471","t",47.96576,-118.97371,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1458609551","t",47.96748,-118.98076,{"amenity":"toilets"}],
+["w1532399007","t",47.92771,-118.69304,{"amenity":"toilets"}],
+["w598225742","t",47.95904,-118.98602,{"fee":"no","access":"yes","amenity":"toilets"}]
+]}

@@ -1,0 +1,23 @@
+{"p":[
+["n10051916126","w",30.44445,-83.73382,{"fee":"no","access":"yes","bottle":"no","amenity":"drinking_water"}],
+["n10051916127","w",30.44446,-83.73398,{"fee":"no","access":"yes","bottle":"no","amenity":"drinking_water"}],
+["n10051929530","w",30.44466,-83.73371,{"access":"yes","drinking_water":"yes","man_made":"water_tap"}],
+["n10051946227","w",30.44412,-83.73406,{"access":"yes","drinking_water":"yes","man_made":"water_tap"}],
+["n11026792682","t",30.19924,-83.65503,{"amenity":"toilets"}],
+["n11026792684","t",30.19919,-83.65498,{"amenity":"toilets"}],
+["n11076011409","w",30.19923,-83.65496,{"indoor":"no","amenity":"drinking_water"}],
+["n11076011414","w",30.19925,-83.65499,{"indoor":"no","amenity":"drinking_water"}],
+["n11090712192","t",30.44692,-83.73065,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n11090712194","t",30.4469,-83.73027,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n3313572353","t",30.01497,-83.85089,{"name":"Porta Potty","toilets:disposal":"chemical","amenity":"toilets"}],
+["n3313674470","t",30.01546,-83.86795,{"name":"Porta Potty","toilets:disposal":"chemical","amenity":"toilets"}],
+["n7499923020","t",30.34085,-83.99125,{"amenity":"toilets"}],
+["w1097778053","t",30.44448,-83.73412,{"access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1097778054","t",30.44448,-83.7337,{"access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1188454497","t",30.1993,-83.65508,{"unisex":"yes","amenity":"toilets"}],
+["w134223677","t",30.47777,-83.91642,{"amenity":"toilets"}],
+["w317584939","t",30.13564,-83.60883,{"amenity":"toilets"}],
+["w338968117","t",30.4469,-83.73039,{"amenity":"toilets"}],
+["w338968119","t",30.44691,-83.73054,{"amenity":"toilets"}],
+["w504104660","t",30.08417,-83.6583,{"operator":"Rocky's","access":"customers","amenity":"toilets"}]
+]}

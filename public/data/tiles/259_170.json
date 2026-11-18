@@ -1,0 +1,21 @@
+{"p":[
+["n2906603037","w",39.7659,-94.80815,{"amenity":"drinking_water"}],
+["w1184706634","t",39.72316,-94.63567,{"amenity":"toilets"}],
+["w1321907508","t",39.77762,-94.8673,{"amenity":"toilets"}],
+["w1321907528","t",39.80156,-94.869,{"amenity":"toilets"}],
+["w1443551950","t",39.83797,-94.87565,{"name":"Flying Eagle Public Restroom","amenity":"toilets"}],
+["w1444618269","t",39.77966,-94.87085,{"amenity":"toilets"}],
+["w1447959694","t",39.7101,-94.85006,{"amenity":"toilets"}],
+["w1524792997","t",39.63696,-94.93144,{"amenity":"toilets"}],
+["w1524792998","t",39.63698,-94.93151,{"amenity":"toilets"}],
+["w1524793000","t",39.62331,-94.96637,{"amenity":"toilets"}],
+["w1576807149","t",39.9528,-94.97057,{"wheelchair":"yes","amenity":"toilets"}],
+["w1576807211","t",39.95001,-94.86186,{"wheelchair":"yes","amenity":"toilets"}],
+["w1576807447","t",39.90866,-94.69204,{"wheelchair":"yes","amenity":"toilets"}],
+["w1576807458","t",39.76682,-94.78177,{"wheelchair":"no","amenity":"toilets"}],
+["w1576807584","t",39.76599,-94.80824,{"wheelchair":"yes","amenity":"toilets"}],
+["w1576807585","t",39.76595,-94.80828,{"wheelchair":"yes","amenity":"toilets"}],
+["w603765225","t",39.71094,-94.85357,{"amenity":"toilets"}],
+["w658568369","t",39.50452,-94.63145,{"amenity":"toilets"}],
+["w775438874","t",39.8339,-94.8287,{"amenity":"toilets"}]
+]}

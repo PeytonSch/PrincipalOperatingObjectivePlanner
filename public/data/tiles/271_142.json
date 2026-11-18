@@ -1,0 +1,14 @@
+{"p":[
+["n13986584935","w",45.78583,-108.51016,{"operator":"Billings Public Library","fee":"no","access":"yes","wheelchair":"yes","bottle":"no","seasonal":"no","indoor":"yes","amenity":"drinking_water"}],
+["n14113646791","t",45.7834,-108.50607,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n14266109208","t",45.64802,-108.73004,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5132216229","t",45.79551,-108.54907,{"amenity":"toilets"}],
+["n6025585394","t",45.78111,-108.56977,{"amenity":"toilets"}],
+["n8200437762","t",45.79177,-108.50148,{"amenity":"toilets"}],
+["w1363234989","t",45.7656,-108.57912,{"operator":"Rimrock Mall","fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w1533820853","t",45.80618,-108.60533,{"amenity":"toilets"}],
+["w344195804","t",45.78844,-108.56911,{"amenity":"toilets"}],
+["w423268815","t",45.69595,-108.77292,{"operator":"Yellowstone National Cemetery","amenity":"toilets"}],
+["w697229747","t",45.78862,-108.56963,{"access":"yes","amenity":"toilets"}],
+["w767400410","t",45.76338,-108.56755,{"amenity":"toilets"}]
+]}

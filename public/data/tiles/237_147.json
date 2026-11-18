@@ -1,0 +1,18 @@
+{"p":[
+["n10266529946","w",28.61232,-106.12174,{"amenity":"drinking_water"}],
+["n12128802647","t",28.86342,-106.22342,{"access":"customers","amenity":"toilets"}],
+["n13382548254","w",28.65877,-106.08435,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n13382569021","w",28.65746,-106.08299,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n13429145793","w",28.65804,-106.08541,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n13429145794","w",28.65843,-106.08353,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n13429214116","t",28.61242,-106.12113,{"fee":"no","access":"yes","amenity":"toilets"}],
+["n4064762680","t",28.86059,-106.2167,{"fee":"no","access":"yes","amenity":"toilets"}],
+["n4064762681","t",28.85963,-106.21542,{"fee":"no","access":"yes","amenity":"toilets"}],
+["n5156828921","t",28.6082,-106.11666,{"operator":"baños publicos","opening_hours":"24/7","amenity":"toilets"}],
+["n5633104663","w",28.79811,-106.46548,{"fee":"no","access":"yes","bottle":"no","amenity":"drinking_water"}],
+["n7777915853","t",28.79095,-106.1398,{"fee":"no","access":"yes","amenity":"toilets"}],
+["n9091611517","w",28.63968,-106.06974,{"name":"Agua Purificada","amenity":"drinking_water"}],
+["w1457039150","t",28.61022,-106.11743,{"fee":"no","access":"yes","amenity":"toilets"}],
+["w1463988088","t",28.65737,-106.08114,{"amenity":"toilets"}],
+["w502517631","t",28.60317,-106.11591,{"amenity":"toilets"}]
+]}

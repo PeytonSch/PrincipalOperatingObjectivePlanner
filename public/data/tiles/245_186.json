@@ -1,0 +1,11 @@
+{"p":[
+["n10795907279","t",32.90683,-86.63756,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12195423499","t",32.84486,-86.59149,{"access":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13460653905","t",32.77832,-86.88664,{"opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"yes","unisex":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n13931807004","t",32.7792,-86.88548,{"operator":"City Of Maplesville","opening_hours":"24/7","fee":"no","access":"restricted","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["n14227482423","t",32.81715,-86.60916,{"operator":"Walmart","opening_hours":"Mo-Su 06:00-23:00","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4305414300","t",32.90698,-86.63766,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n4305414307","t",32.90521,-86.63422,{"fee":"no","access":"yes","amenity":"toilets"}],
+["n4702874283","t",32.60209,-86.99084,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w763195986","t",32.59135,-86.50602,{"name":"Shooting Sports Bathhouse","access":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}]
+]}

@@ -1,0 +1,23 @@
+{"p":[
+["n11094633530","t",31.11637,-81.41721,{"amenity":"toilets"}],
+["n11172409311","t",31.13441,-81.39486,{"amenity":"toilets"}],
+["n11178905266","t",31.13441,-81.39478,{"amenity":"toilets"}],
+["n4257077649","t",31.23932,-81.35464,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5486357523","t",31.28003,-81.49019,{"wheelchair":"yes","amenity":"toilets"}],
+["n6198473017","t",31.17581,-81.40361,{"fee":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n9448316842","t",31.05833,-81.42291,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9448316843","t",31.05834,-81.42287,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9451181503","t",31.06322,-81.40472,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9464749404","t",31.07836,-81.4187,{"access":"customers","amenity":"toilets"}],
+["n9464961909","t",31.07887,-81.41424,{"access":"customers","amenity":"toilets"}],
+["n9467299445","t",31.06738,-81.41832,{"access":"customers","amenity":"toilets"}],
+["n9470573127","t",31.04197,-81.42197,{"unisex":"yes","amenity":"toilets"}],
+["n9472479747","t",31.06068,-81.42152,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9499836749","t",31.02144,-81.43386,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1025084297","t",31.05016,-81.4096,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1099469601","t",31.15299,-81.47797,{"amenity":"toilets"}],
+["w670497430","t",31.3901,-81.26508,{"amenity":"toilets"}],
+["w821142116","t",31.05197,-81.40893,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w923075584","t",31.14572,-81.3736,{"access":"customers","amenity":"toilets"}],
+["w923086357","t",31.14481,-81.37168,{"name":"Coast Guard Bathhouse","amenity":"toilets"}]
+]}

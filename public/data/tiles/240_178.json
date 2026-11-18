@@ -1,0 +1,15 @@
+{"p":[
+["n11981665339","t",30.00193,-90.77517,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n11981665342","t",30.00434,-90.77533,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n12755231300","t",30.0395,-90.65173,{"changing_table":"yes","amenity":"toilets"}],
+["n12755474505","t",30.03958,-90.65006,{"amenity":"toilets"}],
+["n13725383698","t",30.38146,-90.63689,{"access":"customers","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n8185100932","w",30.49844,-90.85028,{"operator":"Dog Fountain","fee":"no","amenity":"drinking_water"}],
+["n8185100959","t",30.49974,-90.85416,{"amenity":"toilets"}],
+["w1292468429","t",30.00285,-90.77708,{"wheelchair":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w1498800221","t",30.38222,-90.64821,{"access":"customers","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w323894954","t",30.00831,-90.72543,{"amenity":"toilets"}],
+["w465797228","t",30.49499,-90.95546,{"fee":"no","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w569491932","t",30.49618,-90.95431,{"changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w637027349","t",30.49821,-90.91656,{"fee":"no","access":"yes","unisex":"yes","amenity":"toilets"}]
+]}

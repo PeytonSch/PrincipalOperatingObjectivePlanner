@@ -1,0 +1,13 @@
+{"p":[
+["n3666855064","t",40.87302,-100.39971,{"access":"permissive","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n3666856027","w",40.877,-100.39996,{"description":"Hydrant on cowtank","amenity":"drinking_water"}],
+["n3666856260","w",40.87765,-100.42683,{"description":"Hydrant on cowtank","amenity":"drinking_water"}],
+["n3666856565","w",40.87821,-100.41447,{"description":"Hydrant on cowtank","amenity":"drinking_water"}],
+["n3666857114","w",40.88004,-100.39871,{"description":"Hydrant on cowtank","amenity":"drinking_water"}],
+["n3666857920","w",40.88429,-100.41467,{"description":"Hydrant on cowtank","amenity":"drinking_water"}],
+["n3666858008","w",40.8849,-100.40737,{"description":"Hydrant on cowtank","amenity":"drinking_water"}],
+["n3868522822","t",40.932,-100.15166,{"amenity":"toilets"}],
+["n8591486317","t",40.91683,-100.17036,{"access":"customers","amenity":"toilets"}],
+["w1455557119","t",40.95449,-100.18688,{"amenity":"toilets"}],
+["w1455557120","t",40.9563,-100.20087,{"amenity":"toilets"}]
+]}

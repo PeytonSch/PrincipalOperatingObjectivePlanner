@@ -1,0 +1,19 @@
+{"p":[
+["n1073902019","t",45.04737,-74.77042,{"indoor":"yes","amenity":"toilets"}],
+["n11016914683","t",45.00998,-74.90421,{"amenity":"toilets"}],
+["n12116216857","t",45.03179,-74.82047,{"amenity":"toilets"}],
+["n12116216861","t",45.03056,-74.7963,{"amenity":"toilets"}],
+["n13071495283","t",45.0118,-74.73268,{"description":"Unavailable in winter.","access":"yes","wheelchair":"limited","unisex":"yes","amenity":"toilets"}],
+["n13073055046","w",45.02178,-74.68946,{"operator":"Municipal","fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n13073055049","w",45.00807,-74.78422,{"operator":"Municipal","fee":"no","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n4345343342","w",45.00343,-74.89073,{"amenity":"drinking_water"}],
+["n4345343369","w",45.01569,-74.89189,{"amenity":"drinking_water"}],
+["n4361139942","w",45.11565,-74.51548,{"amenity":"drinking_water"}],
+["n4361139943","t",45.11573,-74.51801,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6678181612","t",45.01615,-74.72507,{"amenity":"toilets"}],
+["n6746807186","t",45.03162,-74.82665,{"amenity":"toilets"}],
+["n8907622473","t",45.02936,-74.81521,{"amenity":"toilets"}],
+["n9071599510","t",45.10355,-74.60406,{"amenity":"toilets"}],
+["w513741287","t",45.29226,-74.8521,{"amenity":"toilets"}],
+["w597046069","t",45.0139,-74.72872,{"amenity":"toilets"}]
+]}

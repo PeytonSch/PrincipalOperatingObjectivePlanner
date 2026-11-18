@@ -1,0 +1,14 @@
+{"p":[
+["n12121300811","w",47.18233,-117.37695,{"amenity":"drinking_water"}],
+["n14221243954","t",47.2289,-117.07574,{"access":"yes","wheelchair":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n2677325874","t",47.00915,-117.14437,{"name":"Garfield City Park Restroom","amenity":"toilets"}],
+["n2682341597","t",47.38635,-117.17377,{"amenity":"toilets"}],
+["n2686118135","t",47.43055,-117.3783,{"amenity":"toilets"}],
+["w1422943821","t",47.22276,-117.07335,{"access":"yes","amenity":"toilets"}],
+["w262086769","t",47.00915,-117.14437,{"amenity":"toilets"}],
+["w262753740","t",47.45116,-117.13223,{"amenity":"toilets"}],
+["w362379430","t",47.08955,-117.04566,{"operator":"City of Farmington","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w393526332","t",47.03221,-117.29695,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["w394541606","t",47.18232,-117.37691,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w421954026","t",47.03547,-117.28395,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}]
+]}

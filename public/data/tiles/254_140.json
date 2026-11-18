@@ -1,0 +1,12 @@
+{"p":[
+["n10897717423","t",37.42803,-109.62867,{"name":"Fish Mouth Trailhead","amenity":"toilets"}],
+["n10897717424","t",37.35906,-109.62986,{"name":"Monarch Trailhead","amenity":"toilets"}],
+["n10897717425","t",37.26467,-109.64175,{"name":"Butler Wash","amenity":"toilets"}],
+["n12209883801","t",37.26458,-109.93182,{"amenity":"toilets"}],
+["n2938140648","t",37.26036,-109.61838,{"amenity":"toilets"}],
+["n5695537450","w",37.28395,-109.55239,{"amenity":"drinking_water"}],
+["w1423464199","t",37.1749,-109.92714,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1423464200","t",37.17471,-109.92673,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1518753599","t",37.26249,-109.61431,{"amenity":"toilets"}],
+["w598416938","t",37.28418,-109.55238,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

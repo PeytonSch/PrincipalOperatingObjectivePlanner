@@ -1,0 +1,14 @@
+{"p":[
+["n1296946228","t",37.8846,-78.99315,{"fee":"no","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n2774477914","t",37.61901,-78.81433,{"amenity":"toilets"}],
+["n2774479877","t",37.62857,-78.81593,{"amenity":"toilets"}],
+["n5762154935","t",37.97284,-78.89944,{"operator":"National Park Service","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5762154936","t",37.9728,-78.89944,{"operator":"National Park Service","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5762154939","w",37.97269,-78.89939,{"amenity":"drinking_water"}],
+["w1333225331","t",37.92262,-78.58849,{"wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1425584397","t",37.98115,-78.509,{"amenity":"toilets"}],
+["w550186064","t",37.92232,-78.58857,{"wheelchair":"yes","amenity":"toilets"}],
+["w571800708","t",37.62208,-78.80573,{"amenity":"toilets"}],
+["w571800727","t",37.62594,-78.81517,{"amenity":"toilets"}],
+["w575136018","t",37.63241,-78.79694,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,11 @@
+{"p":[
+["n11168658311","t",45.89229,-112.47382,{"amenity":"toilets"}],
+["n12190218847","t",45.62945,-112.0355,{"amenity":"toilets"}],
+["n667429739","t",45.94515,-112.27501,{"amenity":"toilets"}],
+["n667429740","t",45.94507,-112.27505,{"amenity":"toilets"}],
+["n678967739","t",45.91459,-112.3771,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n678967740","t",45.91576,-112.37753,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["w1214223409","t",45.90463,-112.4655,{"operator":"Montana FWP","fee":"no","access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"tank","amenity":"toilets"}],
+["w586337769","t",45.54501,-112.33456,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w645554289","t",45.87638,-112.45916,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}]
+]}

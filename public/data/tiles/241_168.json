@@ -1,0 +1,21 @@
+{"p":[
+["n11067084678","t",30.56074,-95.63799,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n11067084679","t",30.58207,-95.7299,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n11067084680","t",30.54621,-95.58373,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13596700613","w",30.78098,-95.66044,{"access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n14127398506","t",30.61684,-95.53612,{"amenity":"toilets"}],
+["n14127398508","w",30.61682,-95.53604,{"fee":"no","bottle":"yes","indoor":"no","amenity":"drinking_water"}],
+["n1671483320","t",30.78391,-95.65837,{"wheelchair":"yes","amenity":"toilets"}],
+["n1671483342","t",30.78105,-95.66032,{"amenity":"toilets"}],
+["n9487167435","t",30.62645,-95.52788,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9487167436","t",30.62643,-95.52783,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9487196454","t",30.61465,-95.53296,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9487196455","t",30.61463,-95.53292,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9487197880","t",30.62834,-95.52595,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9487197881","t",30.62837,-95.52598,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w281625480","t",30.80695,-95.73466,{"name":"General Sam's Off-Road Park","amenity":"toilets"}],
+["w472208922","t",30.61703,-95.52551,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w472208924","t",30.61462,-95.53295,{"wheelchair":"yes","amenity":"toilets"}],
+["w472208935","t",30.61543,-95.52941,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w991056391","t",30.71063,-95.54661,{"access":"permissive","amenity":"toilets"}]
+]}

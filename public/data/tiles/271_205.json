@@ -1,0 +1,16 @@
+{"p":[
+["n12122312162","t",45.83075,-77.13395,{"name":"Public Washroom","amenity":"toilets"}],
+["n13046522902","w",45.554,-77.4154,{"amenity":"drinking_water"}],
+["n13087968187","t",45.80664,-77.29858,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13429078360","t",45.72852,-77.38991,{"access":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13788220532","t",45.77167,-77.48295,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2135668399","t",45.53823,-77.09764,{"amenity":"toilets"}],
+["n2135668431","t",45.5396,-77.09847,{"amenity":"toilets"}],
+["n2396250850","t",45.60205,-77.38249,{"name":"Washrooms","wheelchair":"limited","amenity":"toilets"}],
+["n3772785952","t",45.59746,-77.36228,{"amenity":"toilets"}],
+["n3792695312","t",45.85319,-77.28076,{"amenity":"toilets"}],
+["n5001647341","t",45.89221,-77.26375,{"fee":"no","amenity":"toilets"}],
+["n5747123522","t",45.85311,-77.28071,{"amenity":"toilets"}],
+["n829802340","t",45.50473,-77.00925,{"wheelchair":"no","amenity":"toilets"}],
+["n9758570228","t",45.55857,-77.36833,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,23 @@
+{"p":[
+["n11452608293","t",38.31562,-91.04832,{"amenity":"toilets"}],
+["n12499131311","t",38.15772,-91.1096,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12540060833","t",38.02289,-91.20219,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12657349438","t",38.20693,-91.09631,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12932481627","t",38.05057,-91.23326,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12947204696","t",38.08273,-91.15034,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4471991276","t",38.3166,-91.04452,{"amenity":"toilets"}],
+["n5247370245","w",38.44778,-91.02053,{"amenity":"drinking_water"}],
+["n5492055857","w",38.45013,-91.01408,{"amenity":"drinking_water"}],
+["n5694038766","t",38.44576,-91.00711,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1316056481","t",38.21094,-91.09288,{"amenity":"toilets"}],
+["w1316056482","t",38.20924,-91.09408,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1366686446","t",38.20063,-91.10415,{"amenity":"toilets"}],
+["w1381982834","t",38.05029,-91.23752,{"access":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1485874419","t",38.05827,-91.22565,{"amenity":"toilets"}],
+["w1537354672","t",38.2037,-91.09944,{"access":"yes","amenity":"toilets"}],
+["w1537354733","t",38.22582,-91.08195,{"amenity":"toilets"}],
+["w1537354734","t",38.22788,-91.08256,{"amenity":"toilets"}],
+["w1579494543","t",38.02288,-91.20051,{"wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w542779140","t",38.44757,-91.02076,{"operator":"City of Union","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w543188444","t",38.44964,-91.01248,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

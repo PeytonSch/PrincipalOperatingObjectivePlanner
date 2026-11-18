@@ -1,0 +1,9 @@
+{"p":[
+["n11016845810","t",45.09557,-111.66312,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13052335554","t",45.23026,-111.75123,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2958006766","t",45.24113,-111.86281,{"operator":"BLM","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3627503504","t",45.30642,-111.96748,{"name":"Washrooms","fee":"no","amenity":"toilets"}],
+["n3627651240","t",45.29284,-111.94975,{"name":"Public Restroom","amenity":"toilets"}],
+["w1420614749","t",45.36987,-111.72671,{"amenity":"toilets"}],
+["w598223485","t",45.34901,-111.72341,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

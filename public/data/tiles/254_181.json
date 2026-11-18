@@ -1,0 +1,10 @@
+{"p":[
+["n12519501022","w",37.31176,-89.01737,{"amenity":"drinking_water"}],
+["n12621554156","t",37.10857,-89.3263,{"amenity":"toilets"}],
+["n6021053986","t",37.29743,-89.05339,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7949731278","w",37.29761,-89.05329,{"amenity":"drinking_water"}],
+["n7953073936","t",37.3118,-89.01751,{"name":"Henry N. Barkhausen Cache River Wetlands Center","toilets:disposal":"flush","amenity":"toilets"}],
+["w1450143424","t",37.45504,-89.48571,{"fee":"no","amenity":"toilets"}],
+["w546231242","t",37.46987,-89.13296,{"amenity":"toilets"}],
+["w546231243","t",37.46603,-89.13242,{"amenity":"toilets"}]
+]}

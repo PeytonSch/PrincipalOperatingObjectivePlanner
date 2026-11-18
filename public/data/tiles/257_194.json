@@ -1,0 +1,20 @@
+{"p":[
+["n10116847417","t",38.89689,-82.56874,{"amenity":"toilets"}],
+["n12398665686","t",38.63046,-82.582,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2983921459","t",38.64794,-82.8536,{"amenity":"toilets"}],
+["n5491242309","t",38.58111,-82.72457,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5491815765","t",38.78569,-82.61922,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6359115102","w",38.62008,-82.62862,{"opening_hours":"Apr-Oct \"open\"","amenity":"drinking_water"}],
+["n6722012128","w",38.60551,-82.63056,{"amenity":"drinking_water"}],
+["n6751409674","w",38.61193,-82.61962,{"amenity":"drinking_water"}],
+["n6751409677","t",38.61201,-82.61958,{"amenity":"toilets"}],
+["n6751409678","t",38.61196,-82.61959,{"amenity":"toilets"}],
+["n9663850794","t",38.74347,-82.99281,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n9663850795","t",38.74343,-82.99281,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1090292036","t",38.73454,-82.85817,{"amenity":"toilets"}],
+["w1416425513","t",38.50283,-82.64749,{"name":"Lemaster Stadium Restrooms","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w548024559","t",38.7293,-82.99233,{"access":"yes","amenity":"toilets"}],
+["w548222406","t",38.73758,-82.99553,{"amenity":"toilets"}],
+["w679109889","t",38.61015,-82.63455,{"unisex":"yes","amenity":"toilets"}],
+["w679109899","t",38.62009,-82.62863,{"amenity":"toilets"}]
+]}

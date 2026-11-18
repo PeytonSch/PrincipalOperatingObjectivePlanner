@@ -1,0 +1,9 @@
+{"p":[
+["n4152069490","t",47.12658,-118.37998,{"access":"yes","amenity":"toilets"}],
+["n7180140118","t",47.24445,-118.07695,{"operator":"Washington Department of Fish and Wildlife","amenity":"toilets"}],
+["w1077462004","t",47.28812,-118.02172,{"amenity":"toilets"}],
+["w1153096004","t",47.123,-118.37117,{"amenity":"toilets"}],
+["w1428858234","t",47.12658,-118.37998,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w299394748","t",47.28927,-118.03439,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}],
+["w485794026","t",47.29585,-118.03193,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","drinking_water":"yes","amenity":"toilets"}]
+]}

@@ -1,0 +1,14 @@
+{"p":[
+["n10282742635","t",45.84511,-86.98244,{"amenity":"toilets"}],
+["n10282764752","t",45.84143,-86.98313,{"amenity":"toilets"}],
+["n10282764757","t",45.84007,-86.98375,{"amenity":"toilets"}],
+["n10282764803","t",45.83307,-86.99453,{"amenity":"toilets"}],
+["n11207515003","t",45.83216,-86.78706,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12061913083","t",45.71195,-86.6677,{"access":"customers","wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n12180690987","t",45.88339,-86.53304,{"amenity":"toilets"}],
+["n12188547523","t",45.9324,-86.91891,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12327656064","w",45.71884,-86.67016,{"amenity":"drinking_water"}],
+["n2949519531","t",45.89205,-86.52026,{"name":"Garden Corners Rest Area","amenity":"toilets"}],
+["w1332522472","t",45.71788,-86.6703,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1332522473","t",45.71786,-86.67033,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

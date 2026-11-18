@@ -1,0 +1,21 @@
+{"p":[
+["n10107290060","t",42.6931,-77.9551,{"unisex":"yes","amenity":"toilets"}],
+["n12059089007","w",42.98507,-77.59773,{"opening_hours":"24/7","fee":"no","seasonal":"spring;summer;autumn","amenity":"drinking_water"}],
+["n13267513215","t",42.72721,-77.83176,{"wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n13269276284","t",42.7277,-77.82918,{"wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n13281370350","t",42.83482,-77.70368,{"wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n13293472859","t",42.98506,-77.59773,{"amenity":"toilets"}],
+["n13936609777","w",42.99346,-77.87989,{"amenity":"drinking_water"}],
+["n1472175156","w",42.99854,-77.50654,{"amenity":"drinking_water"}],
+["n4890976935","t",42.73544,-77.9071,{"operator":"The Dam Overlook Cafe","amenity":"toilets"}],
+["w1003252616","t",42.79442,-77.81812,{"amenity":"toilets"}],
+["w1258698805","t",42.93097,-77.70015,{"amenity":"toilets"}],
+["w241512516","t",42.72842,-77.91859,{"amenity":"toilets"}],
+["w469468499","t",42.77639,-77.86287,{"amenity":"toilets"}],
+["w822728943","t",42.51165,-77.6893,{"amenity":"toilets"}],
+["w827716625","t",42.73239,-77.88675,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w827716922","t",42.69771,-77.93501,{"amenity":"toilets"}],
+["w846753087","t",42.69438,-77.52494,{"operator":"Harriet Hollister Spencer","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w846753088","t",42.68919,-77.51359,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w857642789","t",42.99347,-77.87989,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

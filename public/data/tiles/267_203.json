@@ -1,0 +1,14 @@
+{"p":[
+["n10197190972","t",43.94247,-78.43115,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["n12070313818","w",43.94932,-78.29379,{"description":"Standard drinking water fountain. Can be used to partially fill a water bottle.","access":"yes","amenity":"drinking_water"}],
+["n13143741024","w",43.95615,-78.16743,{"fee":"no","bottle":"yes","amenity":"drinking_water"}],
+["n13907871731","t",43.95616,-78.16745,{"access":"yes","amenity":"toilets"}],
+["n2139230105","t",43.94637,-78.29154,{"fee":"no","amenity":"toilets"}],
+["n3138629525","t",43.95859,-78.16639,{"amenity":"toilets"}],
+["n3141754531","t",43.94928,-78.29379,{"name":"Public Washrooms","fee":"no","amenity":"toilets"}],
+["n3517555564","t",43.94216,-78.43158,{"fee":"no","access":"yes","wheelchair":"yes","indoor":"yes","amenity":"toilets"}],
+["n6580159787","t",43.94423,-78.29085,{"amenity":"toilets"}],
+["w1526090341","t",43.95776,-78.16323,{"amenity":"toilets"}],
+["w250815083","t",43.96063,-78.14233,{"amenity":"toilets"}],
+["w312022214","t",43.96281,-78.18426,{"amenity":"toilets"}]
+]}

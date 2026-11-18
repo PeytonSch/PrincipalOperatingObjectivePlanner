@@ -1,0 +1,17 @@
+{"p":[
+["n11423035596","w",29.16993,-95.4176,{"operator":"Watermill Express","fee":"yes","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n11423426758","w",29.16017,-95.44329,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n11461580788","t",29.41449,-95.05454,{"amenity":"toilets"}],
+["n11461580831","t",29.41462,-95.05611,{"amenity":"toilets"}],
+["n11461580962","t",29.41544,-95.05508,{"amenity":"toilets"}],
+["n11461581087","t",29.41424,-95.05589,{"amenity":"toilets"}],
+["n11461585773","t",29.41598,-95.05292,{"amenity":"toilets"}],
+["n11674102971","w",29.16846,-95.41933,{"operator":"Primo Water","fee":"yes","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n12660459649","w",29.02692,-95.45558,{"access":"yes","amenity":"drinking_water"}],
+["w1215459316","t",29.02484,-95.40707,{"amenity":"toilets"}],
+["w1231747333","t",29.16018,-95.44314,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1356061987","t",29.05149,-95.44934,{"access":"yes","amenity":"toilets"}],
+["w210545071","t",29.36268,-95.0407,{"wheelchair":"yes","amenity":"toilets"}],
+["w227532424","t",29.06016,-95.45211,{"amenity":"toilets"}],
+["w469595777","t",29.47911,-95.11876,{"name":"Brittany Lakes Pool Bathroom","fee":"yes","access":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

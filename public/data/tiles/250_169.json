@@ -1,0 +1,14 @@
+{"p":[
+["n12222998783","w",35.00496,-95.33598,{"drinking_water":"yes","man_made":"water_tap"}],
+["n3930819127","w",35.00536,-95.33634,{"indoor":"no","amenity":"drinking_water","man_made":"water_tap"}],
+["n3930819133","w",35.0055,-95.33605,{"indoor":"no","amenity":"drinking_water","man_made":"water_tap"}],
+["n4006762277","t",35.0055,-95.33724,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["n4020138559","w",35.00547,-95.33728,{"amenity":"drinking_water","man_made":"water_tap"}],
+["n4829302993","w",35.00296,-95.33734,{"amenity":"drinking_water","man_made":"water_tap"}],
+["n9695479302","w",35.00461,-95.33683,{"description":"Outside faucet.","amenity":"drinking_water","man_made":"water_tap"}],
+["w1200709958","t",35.43459,-95.00748,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1200709960","t",35.4411,-95.02125,{"name":"Sandtown Woods Pit Toilet","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1200709974","t",35.45721,-95.0258,{"name":"Stoney Point Boat Ramp","access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w389793610","t",35.00352,-95.3367,{"operator":"Oklahoma Department of Tourism and Recreation","fee":"no","wheelchair":"yes","changing_table":"no","unisex":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w389793611","t",35.0036,-95.33668,{"operator":"Oklahoma Department of Tourism and Recreation","fee":"no","wheelchair":"yes","changing_table":"no","unisex":"no","toilets:disposal":"flush","amenity":"toilets"}]
+]}

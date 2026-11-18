@@ -1,0 +1,19 @@
+{"p":[
+["n11836366615","t",32.81367,-98.03149,{"amenity":"toilets"}],
+["n13537489993","t",32.81267,-98.04331,{"amenity":"toilets"}],
+["n13712370982","t",32.8327,-98.11404,{"amenity":"toilets"}],
+["n13714793021","w",32.81124,-98.06269,{"amenity":"drinking_water"}],
+["n13714793022","w",32.81608,-98.05891,{"amenity":"drinking_water"}],
+["n13733821501","t",32.82077,-98.03789,{"amenity":"toilets"}],
+["n13733830902","t",32.82216,-98.03349,{"amenity":"toilets"}],
+["n13733832301","t",32.82037,-98.03523,{"amenity":"toilets"}],
+["n5140620172","t",32.88719,-98.45297,{"amenity":"toilets"}],
+["n9165630517","t",32.88435,-98.48782,{"opening_hours":"24/7","amenity":"toilets"}],
+["w1050803625","t",32.85825,-98.48451,{"name":"Adult Rest Room","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1270385731","t",32.80617,-98.11398,{"access":"yes","amenity":"toilets"}],
+["w1270389056","t",32.81463,-98.03149,{"amenity":"toilets"}],
+["w1497490452","t",32.81607,-98.05888,{"amenity":"toilets"}],
+["w481137986","t",32.81944,-98.02761,{"amenity":"toilets"}],
+["w481137991","t",32.82631,-98.0345,{"amenity":"toilets"}],
+["w578588578","t",32.80951,-98.12925,{"amenity":"toilets"}]
+]}

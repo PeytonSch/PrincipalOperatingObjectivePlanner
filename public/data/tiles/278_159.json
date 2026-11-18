@@ -1,0 +1,10 @@
+{"p":[
+["n3694613018","t",49.02195,-100.08958,{"operator":"Manitoba Sustainable Development","fee":"no","access":"yes","wheelchair":"no","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n3694616795","t",49.04416,-100.11156,{"fee":"no","access":"yes","wheelchair":"no","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n3694616943","t",49.0496,-100.1807,{"fee":"no","access":"yes","wheelchair":"no","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n3694617192","t",49.06938,-100.1491,{"fee":"no","access":"yes","wheelchair":"limited","toilets:disposal":"flush","drinking_water":"no","amenity":"toilets"}],
+["n8851683290","t",49.23073,-100.05539,{"description":"Public toilets available when the library is open to the public.","access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","amenity":"toilets"}],
+["w385648893","t",49.04984,-100.06505,{"amenity":"toilets"}],
+["w91840130","t",49.22458,-100.05862,{"amenity":"toilets"}],
+["w91937989","t",49.0305,-100.0577,{"fee":"no","access":"yes","wheelchair":"no","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}]
+]}

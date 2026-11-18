@@ -1,0 +1,14 @@
+{"p":[
+["n10249194142","t",36.87904,-107.90008,{"amenity":"toilets"}],
+["n12993295659","w",36.82324,-107.99704,{"amenity":"water_point"}],
+["n2003866587","t",36.82444,-107.61801,{"amenity":"toilets"}],
+["n2003866597","t",36.82222,-107.61784,{"amenity":"toilets"}],
+["n2003866603","t",36.82108,-107.61671,{"amenity":"toilets"}],
+["n5538270779","t",36.82292,-107.66017,{"access":"yes","amenity":"toilets"}],
+["n5538472792","t",36.80873,-107.67648,{"access":"yes","amenity":"toilets"}],
+["n5538472808","t",36.81197,-107.67371,{"access":"yes","amenity":"toilets"}],
+["w1412635299","t",36.71375,-107.98515,{"access":"yes","amenity":"toilets"}],
+["w542212737","t",36.54635,-107.86299,{"description":"Vault Toilet","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["w542212741","t",36.54773,-107.86115,{"description":"Vault Toilet","fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["w669251560","t",36.82389,-107.99588,{"access":"yes","wheelchair":"yes","amenity":"toilets"}]
+]}

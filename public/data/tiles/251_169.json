@@ -1,0 +1,15 @@
+{"p":[
+["n11453525117","t",35.8528,-95.42106,{"name":"Public Bathrooms","access":"yes","wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["n13142991831","t",35.87893,-95.27767,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14309168173","w",35.77291,-95.36256,{"amenity":"drinking_water"}],
+["n9998050957","t",35.80541,-95.22999,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w1424786619","t",35.76687,-95.41923,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1428330911","t",35.62429,-95.16493,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1429767426","t",35.88416,-95.27285,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1429767428","t",35.8855,-95.27265,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1429767439","t",35.89051,-95.27372,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1429767442","t",35.88752,-95.27146,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1434918488","t",35.75322,-95.32799,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1539560014","t",35.76872,-95.41848,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w607522895","t",35.86588,-95.23531,{"opening_hours":"08:00-16:00","fee":"no","access":"yes","toilets:disposal":"flush","indoor":"yes","amenity":"toilets"}]
+]}

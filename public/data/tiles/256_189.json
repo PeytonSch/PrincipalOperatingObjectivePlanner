@@ -1,0 +1,23 @@
+{"p":[
+["n11710438766","t",38.20901,-85.47416,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n4842869083","t",38.1837,-85.48759,{"amenity":"toilets"}],
+["n5145688024","w",38.21478,-85.47504,{"amenity":"drinking_water"}],
+["n5145698823","t",38.21777,-85.47639,{"amenity":"toilets"}],
+["n6988266537","w",38.40186,-85.38055,{"amenity":"drinking_water"}],
+["n6988266565","w",38.40185,-85.38055,{"name":"Water Fountain","amenity":"drinking_water"}],
+["n8958670461","t",38.23149,-85.22065,{"amenity":"toilets"}],
+["n8958670462","t",38.2315,-85.22071,{"amenity":"toilets"}],
+["w1576932076","t",38.03195,-85.2564,{"amenity":"toilets"}],
+["w743400223","t",38.38819,-85.43761,{"name":"Men's Restroom","indoor":"room","amenity":"toilets"}],
+["w743400229","t",38.38822,-85.43761,{"name":"Women's Restroom","indoor":"room","amenity":"toilets"}],
+["w743400248","t",38.38699,-85.43694,{"name":"Women's Restroom","indoor":"room","amenity":"toilets"}],
+["w743400250","t",38.38689,-85.43675,{"name":"Men's Restroom","indoor":"room","amenity":"toilets"}],
+["w744438819","t",38.38699,-85.43694,{"name":"Women's Restroom","indoor":"room","amenity":"toilets"}],
+["w744438820","t",38.38725,-85.43714,{"name":"Men's Restroom","indoor":"room","amenity":"toilets"}],
+["w744438828","t",38.38724,-85.4372,{"name":"Women's Restroom","indoor":"room","amenity":"toilets"}],
+["w744438852","t",38.38689,-85.43675,{"name":"Men's Restroom","indoor":"room","amenity":"toilets"}],
+["w744438860","t",38.38725,-85.43714,{"name":"Men's Restroom","indoor":"room","amenity":"toilets"}],
+["w744438861","t",38.38724,-85.4372,{"name":"Women's Restroom","indoor":"room","amenity":"toilets"}],
+["w744660030","t",38.38822,-85.43761,{"name":"Women's Restroom","indoor":"room","amenity":"toilets"}],
+["w744660031","t",38.38819,-85.43761,{"name":"Men's Restroom","indoor":"room","amenity":"toilets"}]
+]}

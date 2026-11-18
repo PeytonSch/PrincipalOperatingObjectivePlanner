@@ -1,0 +1,13 @@
+{"p":[
+["n10179036554","t",40.98727,-96.21952,{"toilets:disposal":"vault","amenity":"toilets"}],
+["n10179052274","t",40.98775,-96.22254,{"amenity":"toilets"}],
+["n10650380875","w",40.98756,-96.22205,{"amenity":"drinking_water"}],
+["n11278746835","w",40.99056,-96.22707,{"amenity":"drinking_water","man_made":"water_tap"}],
+["n8174167983","t",40.98931,-96.2134,{"access":"yes","toilets:disposal":"vault","amenity":"toilets"}],
+["n8174508787","t",40.99162,-96.19767,{"amenity":"toilets"}],
+["w1312816397","t",40.81657,-96.43334,{"amenity":"toilets"}],
+["w1550037379","t",40.8832,-96.25527,{"wheelchair":"yes","amenity":"toilets"}],
+["w204310836","t",40.84495,-96.29256,{"amenity":"toilets"}],
+["w299167779","t",40.92559,-96.28387,{"amenity":"toilets"}],
+["w409127582","t",40.99079,-96.22672,{"name":"outhouse","changing_table":"no","toilets:disposal":"vault","amenity":"toilets","man_made":"building"}]
+]}

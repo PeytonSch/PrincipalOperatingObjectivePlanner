@@ -1,0 +1,19 @@
+{"p":[
+["n13025433771","t",45.98144,-81.92645,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n14312936802","t",45.8958,-81.91366,{"amenity":"toilets"}],
+["n14312936807","w",45.98545,-81.93663,{"amenity":"drinking_water"}],
+["n14312936904","t",45.8912,-81.92142,{"amenity":"toilets"}],
+["n14312936905","t",45.98539,-81.93665,{"amenity":"toilets"}],
+["n1907660165","t",45.97893,-81.91766,{"amenity":"toilets"}],
+["n3705031658","t",45.98345,-81.92837,{"description":"Closed in off season (Fall/winter/early spring)","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n3705032334","t",45.98059,-81.92498,{"amenity":"toilets"}],
+["n3766086147","t",45.87654,-81.85167,{"amenity":"toilets"}],
+["n3769478029","t",45.80036,-81.85269,{"seasonal":"yes","amenity":"toilets"}],
+["n3784067599","t",45.66218,-81.96846,{"amenity":"toilets"}],
+["n3784996259","t",45.95556,-81.94901,{"amenity":"toilets"}],
+["n7795034674","t",45.70186,-81.90937,{"amenity":"toilets"}],
+["n8896003305","t",45.74032,-81.81476,{"amenity":"toilets"}],
+["n8896006469","t",45.74265,-81.80522,{"amenity":"toilets"}],
+["n8896015879","t",45.81728,-81.69595,{"name":"Thunderbox","wheelchair":"no","unisex":"yes","amenity":"toilets"}],
+["w1069111966","t",45.98645,-81.93173,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

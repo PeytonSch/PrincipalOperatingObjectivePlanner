@@ -1,0 +1,11 @@
+{"p":[
+["n10555780424","w",35.67399,-119.22885,{"amenity":"drinking_water"}],
+["n2613857101","t",35.90659,-119.37608,{"name":"Pixley National Wildlife Refuge Bathroom.","fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["w1087946598","t",35.89071,-119.48758,{"fee":"no","access":"yes","amenity":"toilets"}],
+["w1088589216","t",35.50542,-119.27055,{"description":"Bathrooms at Mannel Park.","access":"yes","amenity":"toilets"}],
+["w1132094447","t",35.6732,-119.2287,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1134553014","t",35.50058,-119.27423,{"access":"yes","amenity":"toilets"}],
+["w1164968498","t",35.97749,-119.29439,{"amenity":"toilets"}],
+["w1445336118","t",35.86541,-119.39241,{"amenity":"toilets"}],
+["w1445336119","t",35.86367,-119.39286,{"amenity":"toilets"}]
+]}

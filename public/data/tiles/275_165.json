@@ -1,0 +1,9 @@
+{"p":[
+["n13382023911","w",47.93715,-97.03244,{"fee":"no","wheelchair":"yes","amenity":"drinking_water"}],
+["n1936240968","t",47.93904,-97.49514,{"amenity":"toilets"}],
+["n3121353240","t",47.94021,-97.49834,{"amenity":"toilets"}],
+["n5693611397","t",47.91843,-97.00825,{"operator":"City of East Grand Forks","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w183190925","t",47.93764,-97.49695,{"name":"Chalet","amenity":"toilets"}],
+["w342988305","t",47.91974,-97.02217,{"access":"yes","amenity":"toilets"}],
+["w918885425","t",47.9853,-97.2614,{"amenity":"toilets"}]
+]}

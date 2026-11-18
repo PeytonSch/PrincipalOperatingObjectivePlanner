@@ -1,0 +1,21 @@
+{"p":[
+["n2399904477","t",40.30159,-73.97953,{"amenity":"toilets"}],
+["n2399904814","t",40.31508,-73.97781,{"amenity":"toilets"}],
+["n4151864789","t",40.44997,-73.99493,{"access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["n4151866792","t",40.45002,-73.99487,{"access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["n4452275489","t",40.38621,-73.98746,{"amenity":"toilets"}],
+["n4452275490","t",40.39033,-73.98927,{"amenity":"toilets"}],
+["n6625522926","w",40.4495,-73.99624,{"drinking_water":"yes","man_made":"water_tap"}],
+["n8420317225","w",40.42437,-73.98416,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["w231650737","t",40.30357,-73.97819,{"amenity":"toilets"}],
+["w412298135","t",40.46803,-73.99804,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w412298138","t",40.46029,-73.99571,{"amenity":"toilets"}],
+["w413214970","t",40.42429,-73.98425,{"name":"Lot D Restrooms With Showers Kiosks","amenity":"toilets"}],
+["w413214976","t",40.42927,-73.98446,{"name":"Lot E Restrooms With Showers Kiosks","amenity":"toilets"}],
+["w514046196","t",40.22208,-73.9994,{"amenity":"toilets"}],
+["w588501642","t",40.29439,-73.98008,{"amenity":"toilets"}],
+["w588501644","t",40.29056,-73.98098,{"amenity":"toilets"}],
+["w588501645","t",40.28579,-73.98185,{"wheelchair":"yes","changing_table":"yes","amenity":"toilets"}],
+["w781181086","t",40.3004,-73.97867,{"amenity":"toilets"}],
+["w781181088","t",40.29992,-73.97881,{"amenity":"toilets"}]
+]}

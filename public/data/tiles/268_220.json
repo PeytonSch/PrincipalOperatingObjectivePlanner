@@ -1,0 +1,21 @@
+{"p":[
+["n13431206527","t",44.23906,-69.96767,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14131076261","t",44.34303,-69.65131,{"fee":"no","amenity":"toilets"}],
+["n8593746807","t",44.15143,-69.57203,{"operator":"Hidden Valley Nature Center","access":"permissive","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8593746816","w",44.14896,-69.57313,{"fee":"no","access":"permissive","drinking_water":"yes","bottle":"yes","amenity":"drinking_water","man_made":"water_tap"}],
+["n8864126745","t",44.008,-69.8958,{"amenity":"toilets"}],
+["n8888084449","t",44.30003,-69.82289,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n8888084450","t",44.30003,-69.82288,{"access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n9029425953","t",44.3205,-69.76416,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9029425954","t",44.32047,-69.76417,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9029425955","t",44.32059,-69.76422,{"access":"yes","wheelchair":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n9052189002","t",44.22991,-69.77043,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1169518528","t",44.03861,-69.65765,{"amenity":"toilets"}],
+["w1305097960","t",44.03232,-69.53179,{"amenity":"toilets"}],
+["w1333372327","t",44.31309,-69.74777,{"amenity":"toilets"}],
+["w1333372328","t",44.313,-69.7477,{"amenity":"toilets"}],
+["w372586163","t",44.2849,-69.59439,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w531161664","t",44.06115,-69.6241,{"operator":"Wiscasset, Waterville and Farmington Railway Museum","access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w851851129","t",44.32122,-69.77232,{"wheelchair":"limited","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w980656768","t",44.28485,-69.59442,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

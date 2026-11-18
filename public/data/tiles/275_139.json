@@ -1,0 +1,8 @@
+{"p":[
+["n12004754991","w",47.67814,-110.45615,{"name":"Montague Water Station","access":"customers","drinking_water":"yes","amenity":"water_point"}],
+["n12322244294","t",47.91163,-110.05773,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12322244295","t",47.9137,-110.05755,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12324145131","t",47.81899,-110.06357,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12324145132","t",47.81901,-110.06327,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1234755848","t",47.911,-110.49295,{"operator":"BLM","fee":"no","wheelchair":"limited","unisex":"yes","toilets:disposal":"bucket","amenity":"toilets"}]
+]}

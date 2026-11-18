@@ -1,0 +1,14 @@
+{"p":[
+["n6348588206","t",37.61004,-76.43996,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n8156692621","t",37.71496,-76.38032,{"wheelchair":"yes","amenity":"toilets"}],
+["w1110102825","t",37.84221,-76.28717,{"access":"customers","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["w1324163752","t",37.884,-76.25105,{"amenity":"toilets"}],
+["w678055128","t",37.61209,-76.43847,{"name":"Camp Showers & Toilets","wheelchair":"yes","amenity":"toilets"}],
+["w678055129","t",37.61101,-76.43996,{"name":"Camp Showers & Toilets","wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["w678059413","t",37.61125,-76.44277,{"name":"Camp Showers & Toilets","wheelchair":"yes","amenity":"toilets"}],
+["w678061098","t",37.60937,-76.44212,{"name":"Restrooms & Showers","toilets:disposal":"flush","amenity":"toilets"}],
+["w683714652","t",37.56795,-76.39065,{"name":"Bath House","amenity":"toilets"}],
+["w800150887","t",37.69417,-76.4895,{"name":"Bath House & Restrooms","amenity":"toilets"}],
+["w833679840","t",37.55485,-76.34072,{"amenity":"toilets"}],
+["w860847912","t",37.56661,-76.39239,{"name":"Showers & Toilets","access":"customers","unisex":"yes","amenity":"toilets"}]
+]}

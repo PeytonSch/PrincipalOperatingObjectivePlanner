@@ -1,0 +1,11 @@
+{"p":[
+["n10007609712","t",60.77946,-148.71905,{"amenity":"toilets"}],
+["n13099893317","t",60.81249,-148.94272,{"amenity":"toilets"}],
+["n13099914130","t",60.81138,-148.94088,{"amenity":"toilets"}],
+["n1404775106","t",60.82143,-148.98425,{"amenity":"toilets"}],
+["n9719801025","t",60.77708,-148.69293,{"amenity":"toilets"}],
+["w1044550936","t",60.82566,-148.98432,{"name":"Bears Bathrooms","toilets:disposal":"flush","amenity":"toilets"}],
+["w1257705075","t",60.7763,-148.72621,{"wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
+["w232967261","t",60.78997,-148.81439,{"opening_hours":"24/7","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w837630882","t",60.77764,-148.68524,{"operator":"City of Whittier","fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

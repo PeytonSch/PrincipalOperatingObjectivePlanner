@@ -1,0 +1,18 @@
+{"p":[
+["n14068733260","w",36.56027,-82.22211,{"amenity":"drinking_water"}],
+["n14068733400","t",36.55936,-82.22135,{"amenity":"toilets"}],
+["n1707036654","t",36.59478,-82.24736,{"wheelchair":"yes","amenity":"toilets"}],
+["n1749954237","t",36.59638,-82.23955,{"amenity":"toilets"}],
+["n2477391420","w",36.59637,-82.23952,{"description":"Virginia Welcome Center Located just past the Virginia border with Tennessee for northbound Interstate 81.","amenity":"drinking_water"}],
+["n2477395648","w",36.59601,-82.23907,{"description":"Virginia Welcome Center Located just past the Virginia border with Tennessee for northbound Interstate 81.","amenity":"drinking_water"}],
+["n5558638238","t",36.84681,-82.07982,{"fee":"no","access":"yes","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["w1023504789","t",36.88651,-82.11214,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w1028839183","t",36.89924,-82.08545,{"unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1065530012","t",36.95349,-82.05509,{"unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1106703525","t",36.64842,-82.11256,{"amenity":"toilets"}],
+["w1106703530","t",36.64993,-82.11185,{"amenity":"toilets"}],
+["w1552090765","t",36.51202,-82.23566,{"amenity":"toilets"}],
+["w1552090773","t",36.50972,-82.23593,{"name":"Rotary Club Pavilion","amenity":"toilets"}],
+["w1553711458","t",36.52429,-82.11015,{"amenity":"toilets"}],
+["w580780454","t",36.91043,-82.05919,{"amenity":"toilets"}]
+]}

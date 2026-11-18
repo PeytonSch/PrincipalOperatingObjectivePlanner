@@ -1,0 +1,11 @@
+{"p":[
+["n11063521256","w",36.91139,-80.31584,{"amenity":"water_point"}],
+["n11368905730","t",36.7941,-80.46626,{"fee":"no","access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","drinking_water":"no","amenity":"toilets"}],
+["n3679586978","t",36.79434,-80.11704,{"amenity":"toilets"}],
+["w1450168059","t",36.85081,-80.06561,{"operator":"Franklin County Parks & Recreation","access":"customers","drinking_water":"yes","amenity":"toilets"}],
+["w313206252","t",36.91011,-80.32012,{"operator":"Town of Floyd","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w552524099","t",36.75189,-80.40556,{"description":"Public Restroom for Mabry Mill area, available annually (March through October).","fee":"no","access":"permissive","toilets:disposal":"flush","amenity":"toilets"}],
+["w685025873","t",36.83395,-80.34575,{"operator":"National Park Service","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w688069805","t",36.77637,-80.3916,{"operator":"National Park Service","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["w688070944","t",36.83546,-80.34626,{"operator":"National Park Service","fee":"no","access":"customers","toilets:disposal":"flush","amenity":"toilets"}]
+]}

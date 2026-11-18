@@ -1,0 +1,21 @@
+{"p":[
+["n12459932123","t",45.78242,-69.43927,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12736398705","t",45.97945,-69.07565,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13013988041","t",45.64079,-69.0877,{"description":"Mouldering privy.","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13014011882","t",45.54495,-69.30733,{"fee":"no","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13087732056","t",45.89274,-69.04926,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13087732058","t",45.89321,-69.04892,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13087732059","t",45.89351,-69.04593,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13087732060","t",45.89354,-69.04767,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13088979971","t",45.97608,-69.07419,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13088979977","t",45.97818,-69.07506,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13976508956","t",45.88743,-69.00032,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5129145620","t",45.88175,-69.02993,{"operator":"Baxter State Park","access":"customers","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n6847668973","t",45.51721,-69.35701,{"access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7185419599","t",45.5179,-69.35602,{"access":"customers","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7185419600","t",45.5178,-69.356,{"access":"customers","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7185419601","t",45.51772,-69.35598,{"access":"customers","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7185419602","t",45.51762,-69.35595,{"access":"customers","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7185419603","t",45.51753,-69.35592,{"access":"customers","wheelchair":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w439818782","t",45.97628,-69.07803,{"toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

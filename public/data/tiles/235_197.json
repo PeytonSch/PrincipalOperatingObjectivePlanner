@@ -1,0 +1,15 @@
+{"p":[
+["n12469341408","t",27.82324,-81.21666,{"amenity":"toilets"}],
+["n12469341410","w",27.82323,-81.2166,{"amenity":"drinking_water"}],
+["n12695236282","w",27.51827,-81.45951,{"operator":"City of Sebring","fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n12717239666","w",27.56692,-81.49382,{"amenity":"drinking_water"}],
+["n4055754415","t",27.94333,-81.35405,{"amenity":"toilets"}],
+["w1209228418","t",27.90403,-81.45279,{"amenity":"toilets"}],
+["w403195524","t",27.94643,-81.35014,{"amenity":"toilets"}],
+["w403195525","t",27.94834,-81.35099,{"amenity":"toilets"}],
+["w403201878","t",27.9455,-81.3471,{"amenity":"toilets"}],
+["w403201880","t",27.94433,-81.35173,{"amenity":"toilets"}],
+["w488153167","t",27.53947,-81.02176,{"amenity":"toilets"}],
+["w488153182","t",27.58252,-81.04382,{"wheelchair":"yes","amenity":"toilets"}],
+["w489624319","t",27.58367,-81.04944,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,9 @@
+{"p":[
+["n14220662109","t",35.61713,-119.64116,{"access":"customers","amenity":"toilets"}],
+["n14220662110","t",35.6171,-119.64129,{"access":"customers","amenity":"toilets"}],
+["n7300604797","t",35.61555,-119.65897,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n9429167740","t",35.98828,-119.95822,{"operator":"Bravo Farms","access":"permissive","changing_table":"yes","indoor":"yes","amenity":"toilets"}],
+["w1339587840","t",35.61666,-119.68896,{"amenity":"toilets"}],
+["w248862365","t",35.98729,-119.9622,{"access":"customers","wheelchair":"designated","toilets:disposal":"flush","amenity":"toilets"}],
+["w998179586","t",35.61536,-119.65708,{"amenity":"toilets"}]
+]}

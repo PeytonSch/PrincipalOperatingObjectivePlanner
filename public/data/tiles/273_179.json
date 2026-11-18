@@ -1,0 +1,10 @@
+{"p":[
+["n11760881664","t",46.60678,-90.32577,{"amenity":"toilets"}],
+["n12272458831","t",46.52309,-90.13394,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n8873451285","t",46.5983,-90.08782,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n8873451293","t",46.60135,-90.09093,{"toilets:disposal":"bucket","amenity":"toilets"}],
+["n8873451302","t",46.66532,-90.04597,{"name":"Vault Toilet","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9914987787","t",46.66333,-90.0524,{"amenity":"toilets"}],
+["n9914987788","t",46.66469,-90.05214,{"amenity":"toilets"}],
+["n9914999517","t",46.66509,-90.04803,{"amenity":"toilets"}]
+]}

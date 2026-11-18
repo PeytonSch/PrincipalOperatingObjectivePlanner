@@ -1,0 +1,12 @@
+{"p":[
+["n10937218808","t",26.52013,-80.96759,{"description":"Private Park - No Public Access","access":"customers","wheelchair":"no","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["n10937232229","t",26.51539,-80.9674,{"description":"Private Park - No Public Access","access":"customers","wheelchair":"yes","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["n10937232230","t",26.51923,-80.96718,{"description":"Private Park - No Public Access","access":"customers","wheelchair":"yes","changing_table":"no","unisex":"yes","amenity":"toilets"}],
+["n12075298192","w",26.69774,-80.80847,{"amenity":"drinking_water"}],
+["n13607953305","t",26.75546,-80.93409,{"amenity":"toilets"}],
+["n13607953306","t",26.75541,-80.93409,{"amenity":"toilets"}],
+["w1339075874","t",26.74209,-80.92965,{"amenity":"toilets"}],
+["w681777953","t",26.69765,-80.8125,{"fee":"no","access":"yes","drinking_water":"yes","amenity":"toilets"}],
+["w681777958","t",26.69769,-80.80846,{"fee":"no","access":"yes","amenity":"toilets"}],
+["w928459627","t",26.51673,-80.96526,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

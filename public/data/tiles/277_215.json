@@ -1,0 +1,21 @@
+{"p":[
+["n13109461401","t",48.6576,-72.4488,{"amenity":"toilets"}],
+["n14089948882","t",48.81336,-72.04482,{"amenity":"toilets"}],
+["n14090036483","t",48.8647,-72.08327,{"amenity":"toilets"}],
+["n14090060910","w",48.86474,-72.08325,{"amenity":"drinking_water"}],
+["n14090315574","t",48.85425,-72.14563,{"amenity":"toilets"}],
+["n14092455427","t",48.88359,-72.23232,{"amenity":"toilets"}],
+["n14095353816","t",48.5996,-72.32434,{"amenity":"toilets"}],
+["n4885689079","t",48.67817,-72.47402,{"amenity":"toilets"}],
+["n5664274458","t",48.8968,-72.21613,{"amenity":"toilets"}],
+["n5664274482","t",48.89035,-72.22274,{"amenity":"toilets"}],
+["n5752540353","w",48.53525,-72.21794,{"amenity":"water_point"}],
+["n7247986378","t",48.75519,-72.04846,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7320620105","t",48.59066,-72.49922,{"amenity":"toilets"}],
+["n7657183386","w",48.62061,-72.35996,{"amenity":"drinking_water"}],
+["n9356167937","t",48.89347,-72.20932,{"amenity":"toilets"}],
+["n9356167938","t",48.89506,-72.20879,{"amenity":"toilets"}],
+["n9893544244","t",48.75016,-72.14503,{"access":"yes","amenity":"toilets"}],
+["n9893544245","t",48.74929,-72.14837,{"access":"yes","amenity":"toilets"}],
+["w1478640690","t",48.60056,-72.3318,{"operator":"Club de golf St-Prime","fee":"no","access":"customers","amenity":"toilets"}]
+]}

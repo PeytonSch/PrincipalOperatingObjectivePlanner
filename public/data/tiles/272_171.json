@@ -1,0 +1,23 @@
+{"p":[
+["n13093074088","t",46.43803,-94.42248,{"wheelchair":"limited","amenity":"toilets"}],
+["n14158025991","w",46.03677,-94.34459,{"amenity":"drinking_water","man_made":"water_well"}],
+["n2149826488","w",46.36165,-94.2999,{"amenity":"drinking_water"}],
+["n2904660685","w",46.34016,-94.27695,{"amenity":"drinking_water"}],
+["n2908277271","t",46.26023,-94.31959,{"wheelchair":"yes","amenity":"toilets"}],
+["n5198370425","t",46.42877,-94.48235,{"fee":"no","wheelchair":"limited","drinking_water":"no","indoor":"room","amenity":"toilets"}],
+["n5198370628","t",46.4325,-94.47695,{"fee":"no","wheelchair":"no","drinking_water":"no","amenity":"toilets"}],
+["n5198371026","w",46.42905,-94.48182,{"name":"Rock Lake Campground Drinking Water","operator":"Crow Wing State Park","description":"Rock Lake Campground Water Pump","access":"yes","drinking_water":"yes","bottle":"no","indoor":"no","amenity":"drinking_water"}],
+["n7194583181","t",46.37084,-94.16495,{"amenity":"toilets"}],
+["n7194583183","t",46.37013,-94.16475,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n7280476729","t",46.37779,-94.17816,{"amenity":"toilets"}],
+["n7280476730","w",46.37779,-94.17813,{"amenity":"drinking_water"}],
+["n7589860050","t",46.34293,-94.23171,{"amenity":"toilets"}],
+["n7656473983","t",46.03747,-94.34204,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7681847367","t",46.1591,-94.33428,{"amenity":"toilets"}],
+["n7688146718","t",46.49359,-94.04642,{"amenity":"toilets"}],
+["w1132559779","t",46.37425,-94.35117,{"amenity":"toilets"}],
+["w1132559793","t",46.3804,-94.35795,{"amenity":"toilets"}],
+["w1572053138","t",46.37878,-94.18482,{"amenity":"toilets"}],
+["w1572053139","t",46.37875,-94.18482,{"amenity":"toilets"}],
+["w286789625","t",46.34012,-94.27684,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

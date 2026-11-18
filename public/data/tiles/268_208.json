@@ -1,0 +1,15 @@
+{"p":[
+["n10173663300","t",44.29449,-75.78558,{"amenity":"toilets"}],
+["n10594326772","t",44.48839,-75.82043,{"amenity":"toilets"}],
+["n13404465226","w",44.48925,-75.85742,{"fee":"no","indoor":"yes","amenity":"drinking_water"}],
+["n4141159389","t",44.37934,-75.93377,{"amenity":"toilets"}],
+["n4927551513","t",44.48928,-75.85746,{"wheelchair":"yes","amenity":"toilets"}],
+["n5842113521","t",44.34514,-75.92265,{"amenity":"toilets"}],
+["n6471495258","t",44.45396,-75.85939,{"amenity":"toilets"}],
+["n6786690411","t",44.32506,-75.93297,{"amenity":"toilets"}],
+["n6786690418","w",44.32468,-75.93338,{"amenity":"water_point"}],
+["n7929441240","t",44.36144,-75.98068,{"amenity":"toilets"}],
+["n7929444894","t",44.36076,-75.984,{"amenity":"toilets"}],
+["n7952056902","t",44.43461,-75.83989,{"amenity":"toilets"}],
+["w548743079","t",44.3208,-75.90496,{"operator":"Bay Drive-in","toilets:disposal":"flush","amenity":"toilets"}]
+]}

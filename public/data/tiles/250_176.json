@@ -1,0 +1,19 @@
+{"p":[
+["n11666873642","w",35.24321,-91.7218,{"operator":"Harding University","access":"permissive","drinking_water":"yes","man_made":"water_tap"}],
+["n11666873643","w",35.24284,-91.72182,{"operator":"Harding University","access":"permissive","drinking_water":"yes","man_made":"water_tap"}],
+["n12200044037","w",35.25253,-91.71456,{"fee":"no","access":"yes","amenity":"drinking_water"}],
+["n12312286883","t",35.22812,-91.72302,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12312286884","t",35.22807,-91.72482,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12312286885","t",35.22638,-91.72468,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12312286888","t",35.22644,-91.72284,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12437999598","t",35.25192,-91.71614,{"operator":"City Of Searcy","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n12945504527","w",35.28046,-91.71789,{"operator":"City of Searcy","fee":"no","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n12945504528","w",35.28087,-91.71881,{"operator":"City of Searcy","fee":"no","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n13114844975","t",35.49429,-91.98574,{"access":"yes","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n13529757165","w",35.24508,-91.75536,{"drinking_water":"yes","seasonal":"yes","man_made":"water_tap"}],
+["w1016677408","t",35.25252,-91.71452,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1023103304","t",35.24705,-91.7373,{"operator":"City Of Searcy","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1105089771","t",35.28067,-91.7186,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1299298450","t",35.2584,-91.71191,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w440891657","t",35.24523,-91.75606,{"operator":"City Of Searcy","fee":"no","access":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}]
+]}

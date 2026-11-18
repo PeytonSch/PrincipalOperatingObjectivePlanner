@@ -1,0 +1,14 @@
+{"p":[
+["n10650765464","t",39.76342,-85.74482,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n1688057611","t",39.68713,-85.95987,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["n2405750584","t",39.82433,-85.70403,{"amenity":"toilets"}],
+["n2405750592","t",39.82657,-85.70409,{"amenity":"toilets"}],
+["n4190287321","t",39.78049,-85.82736,{"amenity":"toilets"}],
+["n4486165386","t",39.60242,-85.63071,{"amenity":"toilets"}],
+["n5141938888","w",39.78399,-85.75556,{"amenity":"drinking_water"}],
+["n5857358590","t",39.78355,-85.9451,{"unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n5857358591","t",39.78356,-85.94513,{"unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["w1138444000","t",39.97095,-85.87693,{"operator":"City of Fishers","amenity":"toilets"}],
+["w545367129","t",39.82546,-85.79918,{"amenity":"toilets"}],
+["w586236746","t",39.81263,-85.98069,{"amenity":"toilets"}]
+]}

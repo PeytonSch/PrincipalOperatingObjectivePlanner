@@ -1,0 +1,13 @@
+{"p":[
+["n2683033221","t",38.82856,-79.38382,{"amenity":"toilets"}],
+["n2683033222","t",38.83044,-79.3819,{"amenity":"toilets"}],
+["n2683033251","t",38.83207,-79.38054,{"amenity":"toilets"}],
+["n3163686777","t",38.83074,-79.38036,{"amenity":"toilets"}],
+["n3732003711","t",38.76362,-79.38967,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w369580580","t",38.83272,-79.37455,{"operator":"National Forest Service","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["w369580581","t",38.83533,-79.37326,{"amenity":"toilets"}],
+["w941483576","t",38.88111,-79.25335,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w941483577","t",38.8811,-79.25329,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w941483578","t",38.88144,-79.25338,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w941483579","t",38.88145,-79.25332,{"toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

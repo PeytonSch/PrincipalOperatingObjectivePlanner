@@ -1,0 +1,9 @@
+{"p":[
+["n11189000769","w",44.51994,-68.22213,{"drinking_water":"yes","man_made":"water_tap"}],
+["n11189000770","t",44.52009,-68.22259,{"access":"yes","amenity":"toilets"}],
+["n4222645297","t",44.82802,-68.09266,{"name":"Airline Rest Area","operator":"MaineDOT","amenity":"toilets"}],
+["n4235925928","t",44.51552,-68.18604,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5697389633","t",44.62517,-68.08878,{"amenity":"toilets"}],
+["n9045230051","t",44.55502,-68.37798,{"amenity":"toilets"}],
+["n9106065575","t",44.83566,-68.07862,{"amenity":"toilets"}]
+]}

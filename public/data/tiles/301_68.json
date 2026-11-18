@@ -1,0 +1,12 @@
+{"p":[
+["n13179215855","t",60.54327,-145.73997,{"operator":"City of Cordova","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"tank","amenity":"toilets"}],
+["n4100573282","t",60.54241,-145.76597,{"operator":"City of Cordova","fee":"no","access":"yes","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}],
+["n4101116618","t",60.54923,-145.75072,{"amenity":"toilets"}],
+["n6717759363","t",60.54655,-145.70782,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1339393992","t",60.54661,-145.70815,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1339411905","t",60.52905,-145.63941,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w408013495","t",60.54106,-145.75213,{"operator":"City of Cordova","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w408034624","t",60.5368,-145.76762,{"operator":"City of Cordova","fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w408324171","t",60.56316,-145.74279,{"wheelchair":"no","amenity":"toilets"}],
+["w807695447","t",60.54742,-145.76382,{"access":"yes","wheelchair":"no","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

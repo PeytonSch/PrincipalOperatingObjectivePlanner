@@ -1,0 +1,22 @@
+{"p":[
+["n13850964247","t",35.19987,-85.71917,{"name":"Little Cove Privy","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13851009503","t",35.25245,-85.7544,{"name":"Grundy Forest Privy","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2924210105","t",35.25508,-85.79079,{"amenity":"toilets"}],
+["n2925281609","t",35.26797,-85.71681,{"amenity":"toilets"}],
+["n4897875699","t",35.02621,-85.55748,{"wheelchair":"yes","amenity":"toilets"}],
+["n9593187269","t",35.4347,-85.53943,{"amenity":"toilets"}],
+["n9593214612","t",35.44796,-85.59341,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9593215064","t",35.43558,-85.54036,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9593215065","t",35.43597,-85.54256,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9609879457","t",35.18019,-85.67286,{"amenity":"toilets"}],
+["n9609879544","t",35.1822,-85.67848,{"name":"Privy","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n9609941191","t",35.18696,-85.69596,{"name":"Privy","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1044365839","t",35.18019,-85.67286,{"amenity":"toilets"}],
+["w1182268131","t",35.21325,-85.50597,{"amenity":"toilets"}],
+["w1182272611","t",35.17961,-85.53123,{"amenity":"toilets"}],
+["w1189586573","t",35.03004,-85.56369,{"amenity":"toilets"}],
+["w1215497685","t",35.09077,-85.74822,{"amenity":"toilets"}],
+["w288865025","t",35.18254,-85.674,{"amenity":"toilets"}],
+["w289127292","t",35.25179,-85.7477,{"amenity":"toilets"}],
+["w429379403","t",35.44673,-85.65542,{"toilets:disposal":"flush","amenity":"toilets"}]
+]}

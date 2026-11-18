@@ -1,0 +1,17 @@
+{"p":[
+["n12625873098","t",44.57095,-68.78838,{"amenity":"toilets"}],
+["n12994849248","t",44.94269,-68.64418,{"amenity":"toilets"}],
+["n13688707604","t",44.97391,-68.7844,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14052384270","t",44.56577,-68.97883,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14133983236","w",44.56478,-68.97862,{"bottle":"yes","amenity":"drinking_water"}],
+["n3270705196","t",44.7999,-68.79146,{"name":"Corner Store","amenity":"toilets"}],
+["n4296795051","t",44.56154,-68.80383,{"amenity":"toilets"}],
+["n5116299157","t",44.86517,-68.72887,{"amenity":"toilets"}],
+["n5326265497","t",44.80791,-68.81634,{"access":"customers","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n9106064373","t",44.76754,-68.88657,{"wheelchair":"yes","amenity":"toilets"}],
+["n9106064375","t",44.7654,-68.93648,{"amenity":"toilets"}],
+["n9741080117","t",44.7871,-68.76785,{"opening_hours":"24/7","amenity":"toilets"}],
+["w1306227663","t",44.56713,-68.80361,{"amenity":"toilets"}],
+["w1553514023","t",44.56476,-68.97853,{"amenity":"toilets"}],
+["w522185141","t",44.93699,-68.64672,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,11 @@
+{"p":[
+["n12205197734","w",25.9313,-97.49911,{"operator":"Watermill Express @ Los Ebanos Blvd. & Old Alice","fee":"yes","access":"yes","bottle":"yes","amenity":"drinking_water"}],
+["n12272139295","w",25.93641,-97.49635,{"operator":"Watermill Express @ Expressway 83 & Price Rd","access":"customers","bottle":"yes","amenity":"drinking_water"}],
+["n13049002745","w",25.90615,-97.43246,{"amenity":"drinking_water"}],
+["n13049011965","t",25.90611,-97.43246,{"wheelchair":"yes","amenity":"toilets"}],
+["n4535242693","w",25.83526,-97.47796,{"name":"Agua expres","amenity":"drinking_water"}],
+["n4537330096","w",25.85312,-97.47343,{"name":"Fresh water","amenity":"drinking_water"}],
+["n4823630696","t",25.865,-97.4777,{"amenity":"toilets"}],
+["n9819051155","w",25.96185,-97.48908,{"access":"yes","bottle":"no","amenity":"drinking_water"}],
+["w719390193","t",25.91634,-97.49537,{"amenity":"toilets"}]
+]}

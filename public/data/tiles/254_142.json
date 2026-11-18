@@ -1,0 +1,16 @@
+{"p":[
+["n10897260177","t",37.45428,-108.9718,{"name":"Painted hand trailhead","amenity":"toilets"}],
+["n11114648501","w",37.4964,-108.55165,{"drinking_water":"yes","man_made":"water_tap"}],
+["n11209057694","t",37.36112,-108.58864,{"access":"yes","wheelchair":"no","amenity":"toilets"}],
+["n1141013916","t",37.18953,-108.53428,{"amenity":"toilets"}],
+["n12485869289","w",37.35355,-108.56886,{"amenity":"drinking_water"}],
+["n12485876014","t",37.35121,-108.57341,{"amenity":"toilets"}],
+["n3373697666","t",37.33134,-108.59789,{"amenity":"toilets"}],
+["n6633217545","w",37.47188,-108.50807,{"amenity":"drinking_water"}],
+["n9688037335","t",37.34747,-108.57376,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["n9688037336","t",37.34749,-108.57373,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
+["w1349691871","t",37.35293,-108.57447,{"amenity":"toilets"}],
+["w633770570","t",37.19625,-108.53834,{"amenity":"toilets"}],
+["w705947305","t",37.47166,-108.5079,{"amenity":"toilets"}],
+["w778455160","t",37.49666,-108.55147,{"amenity":"toilets"}]
+]}

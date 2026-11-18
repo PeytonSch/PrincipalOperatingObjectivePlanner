@@ -1,0 +1,12 @@
+{"p":[
+["n12211891790","t",46.01591,-80.58497,{"amenity":"toilets"}],
+["n12993377112","t",46.45716,-80.99944,{"amenity":"toilets"}],
+["n13062605733","t",46.2731,-80.80238,{"access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n13062605734","t",46.27314,-80.80236,{"access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n13062605736","t",46.27163,-80.80574,{"access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n13062605737","t",46.27159,-80.80576,{"access":"yes","wheelchair":"limited","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
+["n3147943861","w",46.48431,-80.8998,{"operator":"City of Greater Sudbury","amenity":"drinking_water"}],
+["n3784833639","t",46.01594,-80.5849,{"amenity":"toilets"}],
+["w312305575","t",46.47403,-80.90935,{"amenity":"toilets"}],
+["w479480675","t",46.4756,-80.99219,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,22 @@
+{"p":[
+["n13968594746","t",41.35958,-79.00655,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7660075719","t",41.33985,-79.22562,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n7660075720","t",41.34013,-79.22355,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n7660075721","t",41.33812,-79.22276,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n7660075722","t",41.34171,-79.22454,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n7660075723","t",41.34313,-79.22346,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n7884693482","t",41.32384,-79.07958,{"access":"yes","amenity":"toilets"}],
+["n7884743691","t",41.30257,-79.06024,{"access":"yes","changing_table":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7885145311","t",41.32736,-79.09102,{"access":"yes","amenity":"toilets"}],
+["w1079606536","t",41.20241,-79.43491,{"amenity":"toilets"}],
+["w1079613867","t",41.11418,-79.49489,{"amenity":"toilets"}],
+["w1083787696","t",41.21031,-79.36597,{"wheelchair":"yes","changing_table":"no","amenity":"toilets"}],
+["w1105525730","t",41.21153,-79.36619,{"amenity":"toilets"}],
+["w1442044562","t",41.33404,-79.20901,{"amenity":"toilets"}],
+["w1490882285","t",41.33286,-79.20826,{"access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w365705725","t",41.33251,-79.10232,{"toilets:disposal":"flush","amenity":"toilets"}],
+["w369587397","t",41.32181,-79.21161,{"drinking_water":"no","amenity":"toilets"}],
+["w369607142","t",41.34623,-79.21772,{"amenity":"toilets"}],
+["w369607207","t",41.32539,-79.19106,{"amenity":"toilets"}],
+["w523929177","t",41.04298,-79.0854,{"operator":"Coolspring Power Museum","access":"customers","toilets:disposal":"flush","amenity":"toilets"}]
+]}

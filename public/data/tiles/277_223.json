@@ -1,0 +1,11 @@
+{"p":[
+["n12182426520","t",48.61146,-68.22981,{"wheelchair":"yes","amenity":"toilets"}],
+["n12182434372","w",48.61149,-68.22978,{"amenity":"drinking_water"}],
+["n4251883605","w",48.54664,-68.37706,{"amenity":"drinking_water"}],
+["n4372099482","t",48.54658,-68.37675,{"fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n4372099483","t",48.54659,-68.37682,{"fee":"no","access":"yes","wheelchair":"limited","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n5061156825","w",48.58654,-68.1973,{"amenity":"drinking_water"}],
+["n5703609331","t",48.5252,-68.1084,{"amenity":"toilets"}],
+["n9176360298","t",48.59371,-68.20601,{"name":"Tourisme Gaspésie","amenity":"toilets"}],
+["n9927247778","t",48.54688,-68.39486,{"access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}]
+]}

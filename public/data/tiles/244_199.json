@@ -1,0 +1,13 @@
+{"p":[
+["n1096467446","t",32.32239,-80.4892,{"amenity":"toilets"}],
+["n2915320385","t",32.37591,-80.43761,{"fee":"no","wheelchair":"yes","amenity":"toilets"}],
+["n5499629063","t",32.34282,-80.4616,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1175183480","t",32.38545,-80.43323,{"amenity":"toilets"}],
+["w1515305407","t",32.37619,-80.43712,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w300656693","t",32.32987,-80.4591,{"amenity":"toilets"}],
+["w572484692","t",32.38728,-80.43318,{"operator":"Hunting Island State Park","fee":"no","access":"customers","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w572484693","t",32.38808,-80.43445,{"operator":"Hunting Island State Park","fee":"no","access":"customers","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w572484694","t",32.3887,-80.43395,{"operator":"Hunting Island State Park","fee":"no","access":"customers","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w572484697","t",32.38861,-80.43277,{"operator":"Hunting Island State Park","fee":"no","access":"customers","wheelchair":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["w799422680","t",32.37327,-80.43815,{"amenity":"toilets"}]
+]}

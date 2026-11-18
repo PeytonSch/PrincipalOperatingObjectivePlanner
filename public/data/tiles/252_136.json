@@ -1,0 +1,16 @@
+{"p":[
+["n12800899566","t",36.10346,-111.83276,{"name":"Tanner Toilet","opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12800899583","t",36.02424,-111.97294,{"name":"Grandview Group Site Toilet","opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12926455702","t",36.04233,-111.82501,{"amenity":"toilets"}],
+["n2131698332","t",36.12286,-111.94953,{"wheelchair":"yes","amenity":"toilets"}],
+["n2642548704","t",36.2793,-111.97832,{"amenity":"toilets"}],
+["n5477014559","t",36.0196,-111.9751,{"name":"Grandview Campground Toilets","opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5774153554","w",36.04185,-111.82692,{"amenity":"drinking_water","man_made":"water_tap"}],
+["n6633373458","w",36.03899,-111.82243,{"operator":"National Parks Service","fee":"no","wheelchair":"yes","amenity":"drinking_water"}],
+["n6654327764","w",36.0423,-111.82586,{"amenity":"drinking_water"}],
+["n7989971431","w",36.03906,-111.82269,{"operator":"National Parks Service","fee":"no","wheelchair":"yes","amenity":"drinking_water"}],
+["n853983960","t",36.01309,-111.86626,{"amenity":"toilets"}],
+["w164659924","t",36.04224,-111.82586,{"amenity":"toilets"}],
+["w174997276","t",36.03897,-111.82303,{"amenity":"toilets"}],
+["w739168246","t",36.01272,-111.86655,{"toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

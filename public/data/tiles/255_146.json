@@ -1,0 +1,14 @@
+{"p":[
+["n10560719259","t",37.81316,-106.73687,{"amenity":"toilets"}],
+["n11186993654","t",37.68225,-106.99947,{"amenity":"toilets"}],
+["n12641429648","w",37.85216,-106.9271,{"amenity":"drinking_water"}],
+["n12642088028","t",37.81739,-106.91523,{"access":"yes","wheelchair":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n2360576914","t",37.60611,-106.67699,{"amenity":"toilets"}],
+["n4438433986","t",37.56286,-106.76894,{"name":"Pit Toilet","amenity":"toilets"}],
+["n4783213733","t",37.62191,-106.68549,{"amenity":"toilets"}],
+["n4944599148","t",37.66945,-106.6339,{"amenity":"toilets"}],
+["w1018175109","t",37.66944,-106.63391,{"unisex":"yes","amenity":"toilets"}],
+["w373339350","t",37.68053,-106.54566,{"operator":"Colorado Department of Transportation","access":"yes","wheelchair":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w779647860","t",37.84531,-106.9247,{"amenity":"toilets"}],
+["w951593908","t",37.85187,-106.92722,{"amenity":"toilets"}]
+]}

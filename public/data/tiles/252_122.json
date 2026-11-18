@@ -1,0 +1,18 @@
+{"p":[
+["n11298810621","t",36.38739,-118.95161,{"amenity":"toilets"}],
+["n13806536523","t",36.14946,-118.75216,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n13806537042","t",36.15204,-118.74489,{"access":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n1902000235","w",36.49102,-118.82543,{"amenity":"drinking_water"}],
+["n1902000239","t",36.49103,-118.82534,{"amenity":"toilets"}],
+["n2382074238","t",36.45125,-118.61237,{"amenity":"toilets"}],
+["n2382074240","t",36.4513,-118.61136,{"amenity":"toilets"}],
+["n2382074678","t",36.45236,-118.61062,{"amenity":"toilets"}],
+["n2885750537","t",36.454,-118.56615,{"description":"Open air toilet pit","access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n4398390891","t",36.11973,-118.50851,{"operator":"USFS","description":"Stinky","fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","drinking_water":"no","amenity":"toilets"}],
+["n9301976235","t",36.45139,-118.61486,{"amenity":"toilets"}],
+["w1257639420","t",36.06356,-118.90988,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1423100009","t",36.35027,-118.7657,{"operator":"National Park Service","amenity":"toilets"}],
+["w229370570","t",36.42946,-118.76219,{"amenity":"toilets"}],
+["w284868827","t",36.45018,-118.59523,{"amenity":"toilets"}],
+["w301434838","t",36.4526,-118.59687,{"amenity":"toilets"}]
+]}

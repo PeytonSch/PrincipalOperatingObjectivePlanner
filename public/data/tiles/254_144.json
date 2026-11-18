@@ -1,0 +1,15 @@
+{"p":[
+["n10088181959","t",37.45589,-107.85773,{"amenity":"toilets"}],
+["n10912556141","t",37.28015,-107.87728,{"access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n11186993657","t",37.33123,-107.90273,{"amenity":"toilets"}],
+["n12064033787","t",37.26204,-107.8798,{"wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n13148274376","w",37.26202,-107.87981,{"operator":"City of Durango","fee":"no","access":"yes","bottle":"yes","indoor":"no","amenity":"drinking_water"}],
+["n13153384469","t",37.24898,-107.87371,{"amenity":"toilets"}],
+["n13153390605","t",37.24895,-107.87288,{"amenity":"toilets"}],
+["n6631857943","t",37.45473,-107.68323,{"amenity":"toilets"}],
+["n6631875568","t",37.42308,-107.67086,{"amenity":"toilets"}],
+["n9029145815","t",37.30937,-107.85707,{"amenity":"toilets"}],
+["w1075602981","t",37.47465,-107.54808,{"access":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1304952795","t",37.4473,-107.50495,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1516684568","t",37.28016,-107.87728,{"amenity":"toilets"}]
+]}

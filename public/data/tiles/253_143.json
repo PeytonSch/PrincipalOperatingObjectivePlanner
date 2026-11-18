@@ -1,0 +1,9 @@
+{"p":[
+["n6328175813","t",36.8046,-108.17904,{"amenity":"toilets"}],
+["n6329882792","t",36.80615,-108.18093,{"amenity":"toilets"}],
+["w1395318507","t",36.76053,-108.15959,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w1560581358","t",36.75302,-108.17608,{"amenity":"toilets"}],
+["w502180306","t",36.73229,-108.18813,{"operator":"City of Farmington","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w502180311","t",36.73361,-108.18233,{"amenity":"toilets"}],
+["w603575833","t",36.78851,-108.11361,{"amenity":"toilets"}]
+]}

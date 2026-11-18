@@ -1,0 +1,15 @@
+{"p":[
+["n10694265470","t",39.41387,-105.75447,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n10694265471","t",39.41387,-105.75439,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n3659259270","t",39.03186,-105.98592,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n3659259276","w",39.03202,-105.98572,{"amenity":"drinking_water"}],
+["n3659259277","t",39.03249,-105.98795,{"toilets:disposal":"chemical","amenity":"toilets"}],
+["n4418223416","t",39.45061,-105.85992,{"amenity":"toilets"}],
+["n5893638453","t",39.48147,-105.69272,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n7862930319","t",39.23059,-105.60818,{"access":"yes","changing_table":"no","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1318936572","t",39.45093,-105.86184,{"amenity":"toilets"}],
+["w140518680","t",39.41067,-105.96765,{"name":"John's John","amenity":"toilets"}],
+["w362689546","t",39.22242,-105.60971,{"amenity":"toilets"}],
+["w442942803","t",39.43284,-105.85208,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w442942805","t",39.43372,-105.85304,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}]
+]}

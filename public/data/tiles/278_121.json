@@ -1,0 +1,22 @@
+{"p":[
+["n10122798633","t",49.02831,-119.44224,{"amenity":"toilets"}],
+["n11187034291","t",49.43608,-119.09419,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n12431323647","t",49.03153,-119.44841,{"opening_hours":"May 1 - Oct 15 07:00-22:00","access":"yes","wheelchair":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n1285284641","t",49.29533,-119.03409,{"amenity":"toilets"}],
+["n4315326135","t",49.04525,-119.05018,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["n4315326136","t",49.0469,-119.0508,{"access":"yes","unisex":"yes","amenity":"toilets"}],
+["n4603275302","t",49.21614,-119.01384,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5001016457","t",49.01533,-119.45418,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n5321832032","t",49.01883,-119.44417,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5321832033","t",49.0189,-119.4445,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n5738047021","t",49.02824,-119.45339,{"amenity":"toilets"}],
+["n7719949674","t",49.01539,-119.45423,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n8186181529","t",49.03893,-119.43369,{"amenity":"toilets"}],
+["n9149223741","t",49.03871,-119.46517,{"amenity":"toilets"}],
+["n9840457256","t",49.41392,-119.01491,{"access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1150550776","t",49.00108,-119.46333,{"amenity":"toilets"}],
+["w1150550777","t",49.00098,-119.46333,{"amenity":"toilets"}],
+["w1382636839","t",49.01191,-119.3544,{"operator":"Ministry of Transportation and Transit","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1382636840","t",49.01188,-119.35434,{"operator":"Ministry of Transportation and Transit","fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w820116226","t",49.03707,-119.46396,{"name":"Desert Sunrise Marina Washroom","amenity":"toilets"}]
+]}

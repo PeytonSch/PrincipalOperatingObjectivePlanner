@@ -1,0 +1,8 @@
+{"p":[
+["n12152075013","w",35.37367,-78.01339,{"amenity":"drinking_water"}],
+["n13334868113","w",35.43189,-78.06201,{"name":"Primo","description":"inside Walmart near the Yogurt","fee":"yes","amenity":"drinking_water"}],
+["n13406048151","w",35.37195,-78.01688,{"amenity":"drinking_water"}],
+["n3297756863","t",35.30262,-78.32219,{"wheelchair":"yes","amenity":"toilets"}],
+["w1311660907","t",35.37272,-78.01614,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["w1322655070","t",35.14165,-78.32228,{"opening_hours":"closed","amenity":"toilets"}]
+]}

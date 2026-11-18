@@ -1,0 +1,23 @@
+{"p":[
+["n10958292339","t",38.76717,-85.43643,{"amenity":"toilets"}],
+["n10961780869","t",38.7581,-85.42426,{"amenity":"toilets"}],
+["n10961780870","t",38.75782,-85.4214,{"amenity":"toilets"}],
+["n10961780871","t",38.75609,-85.42213,{"amenity":"toilets"}],
+["n10961780924","t",38.75556,-85.42398,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n10963769376","w",38.75874,-85.41891,{"amenity":"drinking_water"}],
+["n10963769377","w",38.758,-85.42148,{"amenity":"drinking_water"}],
+["n10963769378","w",38.75754,-85.4217,{"amenity":"drinking_water"}],
+["n10963769379","w",38.7586,-85.42109,{"amenity":"drinking_water"}],
+["n10963769380","w",38.75681,-85.42183,{"amenity":"drinking_water"}],
+["n10963769381","w",38.75609,-85.42204,{"amenity":"drinking_water"}],
+["n10963769382","w",38.75568,-85.42403,{"amenity":"drinking_water"}],
+["n10963769383","t",38.7582,-85.4251,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n10963769384","w",38.75812,-85.42535,{"amenity":"drinking_water"}],
+["n10963769385","w",38.7586,-85.42521,{"amenity":"drinking_water"}],
+["n10963769386","w",38.7589,-85.42236,{"amenity":"drinking_water"}],
+["n14175866328","t",38.96951,-85.14963,{"toilets:disposal":"flush","amenity":"toilets"}],
+["n9654161317","t",38.73661,-85.38257,{"operator":"City of Madison","amenity":"toilets"}],
+["n9845571294","t",38.66987,-85.15078,{"access":"customers","amenity":"toilets"}],
+["w1174694902","t",38.74541,-85.0637,{"amenity":"toilets"}],
+["w233448741","t",38.66576,-85.13048,{"amenity":"toilets"}]
+]}

@@ -1,0 +1,16 @@
+{"p":[
+["n11948585036","w",42.55851,-114.46626,{"amenity":"drinking_water"}],
+["n12595849475","w",42.59909,-114.47955,{"amenity":"drinking_water"}],
+["n14049751056","t",42.59331,-114.40178,{"amenity":"toilets"}],
+["n2402875003","t",42.59406,-114.39024,{"amenity":"toilets"}],
+["n3725079981","t",42.58233,-114.47825,{"amenity":"toilets"}],
+["n8983755558","w",42.5986,-114.45577,{"fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
+["w1162056300","t",42.5607,-114.43152,{"wheelchair":"yes","amenity":"toilets"}],
+["w1188486115","t",42.60053,-114.46948,{"amenity":"toilets"}],
+["w1188486131","t",42.60124,-114.47097,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1188486135","t",42.60194,-114.47098,{"amenity":"toilets"}],
+["w1288469523","t",42.56546,-114.4846,{"amenity":"toilets"}],
+["w1302999157","t",42.67918,-114.24386,{"access":"yes","wheelchair":"yes","amenity":"toilets"}],
+["w1489316122","t",42.55799,-114.46528,{"access":"yes","amenity":"toilets"}],
+["w585735127","t",42.55377,-114.4542,{"operator":"City of Twin Falls","fee":"no","toilets:disposal":"flush","amenity":"toilets"}]
+]}
