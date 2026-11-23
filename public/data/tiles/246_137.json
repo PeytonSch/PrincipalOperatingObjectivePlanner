@@ -2,7 +2,7 @@
 ["n10188682061","t",33.31831,-111.42536,{"name":"Privys","fee":"no","access":"yes","drinking_water":"no","amenity":"toilets"}],
 ["n11564935166","w",33.46126,-111.47769,{"indoor":"no","amenity":"drinking_water"}],
 ["n12190959612","w",33.17936,-111.13601,{"amenity":"drinking_water"}],
-["n12327485312","t",33.27999,-111.15905,{"fee":"no","toilets:disposal":"flush","amenity":"toilets"}],
+["n12327485312","t",33.27999,-111.15905,{"fee":"no","access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
 ["n12329742220","w",33.27912,-111.15985,{"bottle":"no","amenity":"drinking_water"}],
 ["n12329742252","w",33.27764,-111.16125,{"bottle":"yes","amenity":"drinking_water"}],
 ["n12329742267","w",33.27878,-111.15835,{"bottle":"yes","amenity":"drinking_water"}],

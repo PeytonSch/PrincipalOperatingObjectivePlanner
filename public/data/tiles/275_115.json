@@ -957,7 +957,7 @@
 ["w1559938236","t",47.77162,-122.16095,{"wheelchair":"yes","indoor":"room","amenity":"toilets"}],
 ["w1559938237","t",47.77163,-122.161,{"wheelchair":"yes","indoor":"room","amenity":"toilets"}],
 ["w156080851","t",47.55322,-122.06831,{"toilets:disposal":"flush","amenity":"toilets"}],
-["w156080880","t",47.55627,-122.07084,{"name":"Tibbetts Beach Restroom","wheelchair":"limited","amenity":"toilets"}],
+["w156080880","t",47.55627,-122.07084,{"name":"Tibbetts Beach Restroom","access":"yes","wheelchair":"limited","amenity":"toilets"}],
 ["w160182916","t",47.52694,-122.39548,{"access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
 ["w160670082","t",47.90229,-122.21526,{"opening_hours":"off \"closed for maintenance\"","amenity":"toilets"}],
 ["w170526491","t",47.85984,-122.3345,{"amenity":"toilets"}],

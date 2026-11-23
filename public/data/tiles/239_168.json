@@ -26,7 +26,7 @@
 ["n13517789068","w",29.66585,-95.72045,{"fee":"no","wheelchair":"yes","indoor":"no","amenity":"drinking_water"}],
 ["n14131621025","w",29.7762,-95.55754,{"opening_hours":"24/7","fee":"no","bottle":"yes","seasonal":"no","amenity":"drinking_water"}],
 ["n14131625916","w",29.77571,-95.53859,{"fee":"no","bottle":"yes","seasonal":"no","amenity":"drinking_water"}],
-["n2295926086","t",29.65353,-95.62178,{"amenity":"toilets"}],
+["n2295926086","t",29.65375,-95.62191,{"operator":"City of Sugar Land","fee":"no","access":"yes","wheelchair":"limited","amenity":"toilets"}],
 ["n2369789680","w",29.77147,-95.6202,{"amenity":"drinking_water"}],
 ["n2369789683","t",29.77164,-95.62026,{"amenity":"toilets"}],
 ["n2369800113","t",29.78092,-95.62451,{"amenity":"toilets"}],

@@ -49,6 +49,7 @@
 ["n14005578923","t",33.0778,-112.47022,{"wheelchair":"limited","toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["n14220885679","t",33.4777,-112.22648,{"amenity":"toilets"}],
 ["n14220885702","t",33.47678,-112.22362,{"amenity":"toilets"}],
+["n14408720835","t",33.4377,-112.00173,{"fee":"no","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
 ["n1558819099","w",33.45926,-112.07409,{"amenity":"drinking_water"}],
 ["n1661833737","t",33.19882,-112.2405,{"amenity":"toilets"}],
 ["n2129584310","w",33.45176,-112.07396,{"amenity":"drinking_water"}],

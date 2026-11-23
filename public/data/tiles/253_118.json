@@ -5,7 +5,7 @@
 ["n13858991202","w",36.86256,-120.784,{"amenity":"drinking_water"}],
 ["n13874544542","w",36.86449,-120.78209,{"amenity":"drinking_water"}],
 ["n13874571308","w",36.86476,-120.78242,{"amenity":"drinking_water"}],
-["n1707826883","t",36.86243,-120.78385,{"wheelchair":"yes","amenity":"toilets"}],
+["n1707826883","t",36.86243,-120.78385,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"toilets"}],
 ["n1707826895","t",36.86465,-120.78225,{"wheelchair":"yes","amenity":"toilets"}],
 ["n6281538557","t",36.61847,-120.65545,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["n9140723321","w",36.70435,-120.86007,{"bottle":"yes","amenity":"drinking_water"}],

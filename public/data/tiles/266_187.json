@@ -83,7 +83,7 @@
 ["n9986552411","t",43.44986,-86.19422,{"amenity":"toilets"}],
 ["w1047018196","t",43.40223,-86.35911,{"fee":"no","amenity":"toilets"}],
 ["w1054303365","t",43.40904,-86.36734,{"toilets:disposal":"flush","amenity":"toilets"}],
-["w1082513822","t",43.08594,-86.24058,{"wheelchair":"no","amenity":"toilets"}],
+["w1082513822","t",43.08594,-86.24058,{"access":"yes","wheelchair":"no","amenity":"toilets"}],
 ["w1094252600","t",43.4287,-86.22508,{"toilets:disposal":"flush","amenity":"toilets"}],
 ["w1094684806","t",43.45779,-86.21975,{"access":"permit","toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["w1094689506","t",43.44942,-86.21157,{"toilets:disposal":"flush","amenity":"toilets"}],

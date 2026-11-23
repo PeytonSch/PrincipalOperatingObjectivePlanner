@@ -276,6 +276,8 @@
 ["n14352325901","w",41.97864,-87.89694,{"amenity":"drinking_water"}],
 ["n14355778165","w",41.71789,-87.52894,{"amenity":"drinking_water"}],
 ["n14364896617","w",41.85171,-87.62168,{"operator":"Metropolitan Pier and Exposition Authority","fee":"no","wheelchair":"yes","bottle":"yes","seasonal":"no","indoor":"yes","amenity":"drinking_water"}],
+["n14408236841","t",41.78151,-87.98045,{"amenity":"toilets"}],
+["n14408236849","w",41.78148,-87.98045,{"access":"yes","amenity":"drinking_water"}],
 ["n1474209885","t",41.96471,-87.63567,{"amenity":"toilets"}],
 ["n1590150936","w",41.90821,-87.6989,{"amenity":"drinking_water"}],
 ["n1699135046","w",41.84175,-87.61913,{"amenity":"drinking_water"}],

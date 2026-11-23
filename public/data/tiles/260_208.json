@@ -121,6 +121,7 @@
 ["w1385620933","t",40.0047,-75.72386,{"amenity":"toilets"}],
 ["w1432003268","t",40.24908,-75.82248,{"amenity":"toilets"}],
 ["w1460164801","t",40.19922,-75.78995,{"drinking_water":"yes","amenity":"toilets"}],
+["w304120930","t",40.30364,-75.96423,{"toilets:disposal":"flush","amenity":"toilets"}],
 ["w305878515","t",40.29878,-75.95107,{"amenity":"toilets"}],
 ["w338071176","t",40.36938,-75.97636,{"amenity":"toilets"}],
 ["w486854538","t",40.2697,-75.6079,{"amenity":"toilets"}],

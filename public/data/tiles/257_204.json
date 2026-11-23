@@ -17,6 +17,7 @@
 ["n1223851199","t",38.99026,-77.97519,{"amenity":"toilets"}],
 ["n13057120947","t",38.85199,-77.78646,{"wheelchair":"yes","amenity":"toilets"}],
 ["n13846203492","w",38.97029,-77.55747,{"bottle":"yes","amenity":"drinking_water"}],
+["n14403532788","t",38.70079,-77.91665,{"access":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
 ["n1974232381","t",38.62445,-77.72315,{"amenity":"toilets"}],
 ["n2251353865","t",38.71665,-77.82146,{"amenity":"toilets"}],
 ["n2251353924","t",38.71522,-77.82302,{"amenity":"toilets"}],

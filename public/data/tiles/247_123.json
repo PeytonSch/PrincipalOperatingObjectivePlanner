@@ -540,6 +540,7 @@
 ["w442336683","t",33.82264,-118.31704,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","toilets:disposal":"flush","amenity":"toilets"}],
 ["w442336728","t",33.82562,-118.32647,{"operator":"City of Torrance","fee":"no","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
 ["w442339015","t",33.90416,-118.34291,{"access":"yes","wheelchair":"yes","changing_table":"no","amenity":"toilets"}],
+["w442499549","t",33.89844,-118.41245,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"no","amenity":"toilets"}],
 ["w442606463","t",33.88369,-118.33449,{"opening_hours":"07:00-20:30","fee":"no","access":"yes","amenity":"toilets"}],
 ["w442606616","t",33.88603,-118.33535,{"fee":"no","access":"yes","wheelchair":"yes","toilets:disposal":"flush","drinking_water":"no","amenity":"toilets"}],
 ["w442653511","t",33.87395,-118.40106,{"fee":"no","access":"yes","wheelchair":"yes","changing_table":"no","amenity":"toilets"}],

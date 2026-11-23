@@ -94,6 +94,7 @@
 ["n14097970379","w",40.44304,-74.43459,{"fee":"no","access":"yes","amenity":"drinking_water"}],
 ["n14176023928","w",40.16689,-74.0273,{"fee":"no","access":"yes","amenity":"drinking_water"}],
 ["n1429312646","t",40.39064,-74.1292,{"amenity":"toilets"}],
+["n14404108588","w",40.17204,-74.20348,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
 ["n1494961775","t",40.38956,-74.13629,{"amenity":"toilets"}],
 ["n1666762033","t",40.37247,-74.18544,{"access":"yes","amenity":"toilets"}],
 ["n1939205348","w",40.49027,-74.42622,{"amenity":"drinking_water"}],

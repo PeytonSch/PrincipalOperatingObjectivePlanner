@@ -11,6 +11,7 @@
 ["w1493202591","t",44.07543,-103.52594,{"access":"customers","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
 ["w1533352774","t",44.08022,-103.72728,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["w1537557697","t",44.3386,-103.96371,{"unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1582509980","t",44.41676,-103.51769,{"access":"yes","wheelchair":"no","amenity":"toilets"}],
 ["w237886336","t",44.48222,-103.86041,{"amenity":"toilets"}],
 ["w247087223","t",44.32775,-103.98786,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["w292383355","t",44.49761,-103.86703,{"access":"yes","amenity":"toilets"}],

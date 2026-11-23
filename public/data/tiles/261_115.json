@@ -16,6 +16,7 @@
 ["n13474467271","w",40.59514,-122.42196,{"operator":"City of Redding","access":"yes","wheelchair":"yes","bottle":"yes","amenity":"drinking_water"}],
 ["n13474496841","w",40.60968,-122.44775,{"amenity":"drinking_water"}],
 ["n14244300275","w",40.71218,-122.43662,{"access":"yes","drinking_water":"yes","man_made":"water_tap"}],
+["n14407571301","t",40.71677,-122.40617,{"amenity":"toilets"}],
 ["n1701532993","w",40.59161,-122.40283,{"amenity":"drinking_water"}],
 ["n1703074369","w",40.59421,-122.40028,{"amenity":"drinking_water"}],
 ["n1703075131","w",40.59416,-122.39897,{"amenity":"drinking_water"}],

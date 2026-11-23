@@ -75,6 +75,7 @@
 ["n14045015250","w",40.10318,-88.21197,{"operator":"Urbana Park District","fee":"no","access":"yes","wheelchair":"limited","bottle":"no","seasonal":"yes","amenity":"drinking_water"}],
 ["n14315910579","w",40.13263,-88.2726,{"operator":"Champaign Park District","fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","seasonal":"yes","amenity":"drinking_water"}],
 ["n14384832488","w",40.12961,-88.28562,{"operator":"Champaign Park District","fee":"no","access":"yes","wheelchair":"yes","bottle":"no","seasonal":"yes","amenity":"drinking_water"}],
+["n14410431201","t",40.1087,-88.28406,{"amenity":"toilets"}],
 ["n1764785630","w",40.11948,-88.21083,{"operator":"Urbana Park District","fee":"no","access":"yes","wheelchair":"yes","seasonal":"yes","amenity":"drinking_water"}],
 ["n2381363155","t",40.12487,-88.25175,{"amenity":"toilets"}],
 ["n2381365383","w",40.12435,-88.25266,{"amenity":"drinking_water"}],

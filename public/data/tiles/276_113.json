@@ -232,6 +232,7 @@
 ["w138203458","t",48.41665,-123.37347,{"amenity":"toilets"}],
 ["w138203461","t",48.41046,-123.37501,{"fee":"no","amenity":"toilets"}],
 ["w138280991","t",48.43228,-123.38138,{"amenity":"toilets"}],
+["w138325559","t",48.40795,-123.32285,{"access":"yes","toilets:disposal":"flush","amenity":"toilets"}],
 ["w138843764","t",48.43669,-123.38128,{"amenity":"toilets"}],
 ["w1534189743","t",48.4478,-123.36898,{"fee":"no","wheelchair":"yes","toilets:disposal":"flush","indoor":"room","amenity":"toilets"}],
 ["w1534189744","t",48.44781,-123.36881,{"fee":"no","wheelchair":"yes","toilets:disposal":"flush","indoor":"room","amenity":"toilets"}],

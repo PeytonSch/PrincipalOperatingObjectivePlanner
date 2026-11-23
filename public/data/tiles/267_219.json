@@ -32,6 +32,7 @@
 ["n14243789101","w",43.66152,-70.24479,{"amenity":"drinking_water"}],
 ["n14244131401","w",43.62148,-70.21013,{"amenity":"drinking_water"}],
 ["n14388298366","t",43.68272,-70.26906,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["n14410021727","t",43.82118,-70.15695,{"amenity":"toilets"}],
 ["n1502193269","t",43.68912,-70.23514,{"amenity":"toilets"}],
 ["n1552766102","t",43.86052,-70.08044,{"amenity":"toilets"}],
 ["n1936249537","w",43.66883,-70.24404,{"amenity":"drinking_water"}],

@@ -42,6 +42,7 @@
 ["n13268984428","w",36.96286,-121.8957,{"fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
 ["n14073940631","t",36.53679,-121.90955,{"access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
 ["n14073978583","t",36.53675,-121.91125,{"opening_hours":"24/7","fee":"no","access":"yes","wheelchair":"yes","changing_table":"yes","toilets:disposal":"flush","amenity":"toilets"}],
+["n14404865794","w",36.54847,-121.9165,{"amenity":"drinking_water","man_made":"water_tap"}],
 ["n1477256998","t",36.51575,-121.93829,{"amenity":"toilets"}],
 ["n1525476237","t",36.96031,-121.96506,{"amenity":"toilets"}],
 ["n1558693073","t",36.96274,-121.99847,{"fee":"no","access":"yes","wheelchair":"no","amenity":"toilets"}],

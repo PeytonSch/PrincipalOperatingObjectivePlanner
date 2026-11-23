@@ -74,7 +74,7 @@
 ["n13236165242","w",47.62263,-122.51691,{"drinking_water":"yes","amenity":"water_point"}],
 ["n13318623428","w",47.63677,-122.5145,{"access":"customers","indoor":"yes","amenity":"drinking_water"}],
 ["n13318623429","t",47.63677,-122.51446,{"description":"Public restrooms are inside on the west side of the store, just before the pharmacy.","fee":"no","access":"customers","amenity":"toilets"}],
-["n13482266856","t",47.65224,-122.61465,{"amenity":"toilets"}],
+["n13482266856","t",47.65224,-122.61465,{"access":"customers","amenity":"toilets"}],
 ["n13482266857","t",47.65019,-122.61252,{"amenity":"toilets"}],
 ["n13535168430","t",47.97038,-122.81102,{"changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
 ["n13646303301","t",47.52267,-122.82942,{"access":"yes","wheelchair":"no","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],

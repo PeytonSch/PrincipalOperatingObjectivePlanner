@@ -78,7 +78,7 @@
 ["n5885661615","t",35.76941,-105.80894,{"operator":"United States Forest Service","fee":"no","access":"yes","changing_table":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["n5921740032","w",35.51044,-105.90408,{"amenity":"drinking_water"}],
 ["n6188967635","t",35.65371,-105.98451,{"toilets:disposal":"chemical","amenity":"toilets"}],
-["n6275297127","w",35.65461,-105.99616,{"operator":"Meow Wolf","fee":"no","access":"yes","wheelchair":"yes","amenity":"drinking_water"}],
+["n6275297127","w",35.65461,-105.99616,{"operator":"Meow Wolf","fee":"no","access":"yes","wheelchair":"yes","indoor":"yes","amenity":"drinking_water"}],
 ["n6434833744","t",35.66487,-105.92537,{"amenity":"toilets"}],
 ["n6484931487","w",35.69649,-105.96512,{"amenity":"drinking_water"}],
 ["n6493392517","w",35.6669,-105.91146,{"amenity":"drinking_water"}],

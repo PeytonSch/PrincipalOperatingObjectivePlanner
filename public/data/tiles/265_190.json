@@ -34,6 +34,7 @@
 ["n14067434389","t",42.6081,-84.58878,{"amenity":"toilets"}],
 ["n14241124711","t",42.74027,-84.55032,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["n14360395361","w",42.70441,-84.53283,{"amenity":"drinking_water"}],
+["n14397074504","w",42.755,-84.74283,{"operator":"City of Grand Ledge","fee":"no","access":"yes","wheelchair":"yes","bottle":"yes","seasonal":"yes","amenity":"drinking_water"}],
 ["n1719693527","t",42.8703,-84.90423,{"amenity":"toilets"}],
 ["n1726073717","t",42.7482,-84.62731,{"fee":"no","wheelchair":"limited","amenity":"toilets"}],
 ["n1726073752","w",42.74812,-84.62579,{"amenity":"drinking_water"}],

@@ -184,6 +184,7 @@
 ["n1424871432","t",33.45629,-117.10602,{"amenity":"toilets"}],
 ["n14334954773","t",33.0374,-117.11316,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"chemical","amenity":"toilets"}],
 ["n14335144638","t",33.02934,-117.11399,{"access":"permit","wheelchair":"yes","amenity":"toilets"}],
+["n14394752015","t",33.07138,-117.06535,{"amenity":"toilets"}],
 ["n1449260847","t",33.45498,-117.10669,{"amenity":"toilets"}],
 ["n1459443484","w",33.46947,-117.06713,{"access":"permissive","amenity":"drinking_water"}],
 ["n1475684794","t",33.45321,-117.09527,{"amenity":"toilets"}],

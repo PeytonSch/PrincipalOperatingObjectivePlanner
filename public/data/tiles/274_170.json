@@ -25,6 +25,7 @@
 ["w1432271770","t",47.12938,-94.61205,{"access":"customers","toilets:disposal":"flush","amenity":"toilets"}],
 ["w1467872047","t",47.37786,-94.61105,{"access":"yes","wheelchair":"yes","unisex":"yes","amenity":"toilets"}],
 ["w1567100828","t",47.42209,-94.56713,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
+["w1582503913","t",47.32884,-94.58176,{"access":"yes","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["w164496400","t",47.49288,-94.87444,{"operator":"City of Bemidji","access":"yes","unisex":"yes","toilets:disposal":"flush","amenity":"toilets"}],
 ["w611704478","t",47.49821,-94.89237,{"fee":"no","access":"yes","amenity":"toilets"}],
 ["w962040978","t",47.10228,-94.5756,{"access":"yes","wheelchair":"limited","toilets:disposal":"flush","amenity":"toilets"}]

@@ -6,9 +6,9 @@
 ["n6040596715","t",45.73693,-108.43299,{"amenity":"toilets"}],
 ["n8133263427","t",45.76964,-108.47737,{"access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
 ["w1230225644","t",45.84392,-108.4828,{"name":"Outhouse","access":"yes","wheelchair":"yes","changing_table":"no","unisex":"yes","toilets:disposal":"pitlatrine","amenity":"toilets"}],
-["w1495251695","t",45.78006,-108.00051,{"access":"yes","amenity":"toilets"}],
+["w1495251695","t",45.78001,-108.00059,{"access":"yes","amenity":"toilets"}],
 ["w1563215682","t",45.84586,-108.42656,{"toilets:disposal":"pitlatrine","amenity":"toilets"}],
-["w232499638","t",45.78275,-108.00193,{"amenity":"toilets"}],
+["w232499638","t",45.78272,-108.00188,{"amenity":"toilets"}],
 ["w641405016","t",45.73715,-108.4322,{"amenity":"toilets"}],
 ["w851678708","t",45.84337,-108.47818,{"operator":"Lake Elmo State Park","seasonal":"yes","amenity":"toilets"}]
 ]}

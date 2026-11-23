@@ -35,6 +35,8 @@
 ["n14130127735","w",39.28464,-106.06209,{"fee":"no","access":"yes","drinking_water":"yes","man_made":"water_tap"}],
 ["n14130127736","w",39.28456,-106.06147,{"fee":"yes","charge":"0.25 USD","access":"yes","drinking_water":"yes","man_made":"water_tap"}],
 ["n14137573604","t",39.08662,-106.31135,{"amenity":"toilets"}],
+["n14393276653","w",39.4628,-106.07686,{"fee":"no","bottle":"yes","seasonal":"winter","indoor":"yes","amenity":"drinking_water"}],
+["n14393308901","w",39.47107,-106.08439,{"fee":"no","bottle":"yes","seasonal":"no","indoor":"yes","amenity":"drinking_water"}],
 ["n1612455279","t",39.4981,-106.13787,{"amenity":"toilets"}],
 ["n1625520861","t",39.48897,-106.17446,{"amenity":"toilets"}],
 ["n1625520901","t",39.47676,-106.15184,{"amenity":"toilets"}],
